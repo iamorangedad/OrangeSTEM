@@ -12,7 +12,7 @@
 
 ## 海报
 
-教材篇幅很长，按约定每章一张海报，共 91 张，按学科放在 `海报/生物/`、`海报/化学/`、`海报/物理/`。已完成 47 张（PNG + PDF）：生物 47、化学 0、物理 0。每张海报 3 行，每行概括这一章的一节或几节（标出节号），配一张示意图；小结框有 4 条要点，其中有拓展和安全提示；底部标注教材来源和许可。海报只用公制单位和人民币；教材没有给出的数值不编造，为说明而举的数字标「示例」。化学海报不给配方，试剂用量和操作以教师指导和学校实验室安全规定为准。
+教材篇幅很长，按约定每章一张海报，共 91 张，按学科放在 `海报/生物/`、`海报/化学/`、`海报/物理/`。已完成 68 张（PNG + PDF）：生物 47、化学 21、物理 0。每张海报 3 行，每行概括这一章的一节或几节（标出节号），配一张示意图；小结框有 4 条要点，其中有拓展和安全提示；底部标注教材来源和许可。海报只用公制单位和人民币；教材没有给出的数值不编造，为说明而举的数字标「示例」。化学海报不给配方，试剂用量和操作以教师指导和学校实验室安全规定为准。
 
 ### 生物：Biology 2e（47 张）
 
@@ -65,4 +65,30 @@
 | 种群怎样增长？ | [第45章 种群与群落生态学](https://openstax.org/books/biology-2e/pages/45-introduction) | Population and Community Ecology | 7 | OpenStax Biology 2e 第45章 Population and Community Ecology · OpenStax（CC BY-NC-SA 4.0） | [PNG](<海报/生物/b45-种群与群落生态学.png>) · [PDF](<海报/生物/b45-种群与群落生态学.pdf>) |
 | 能量怎样在生态中流动？ | [第46章 生态系统](https://openstax.org/books/biology-2e/pages/46-introduction) | Ecosystems | 3 | OpenStax Biology 2e 第46章 Ecosystems · OpenStax（CC BY-NC-SA 4.0） | [PNG](<海报/生物/b46-生态系统.png>) · [PDF](<海报/生物/b46-生态系统.pdf>) |
 | 怎样保护生物多样性？ | [第47章 保护生物学与生物多样性](https://openstax.org/books/biology-2e/pages/47-introduction) | Conservation Biology and Biodiversity | 4 | OpenStax Biology 2e 第47章 Conservation Biology and Biodiversity · OpenStax（CC BY-NC-SA 4.0） | [PNG](<海报/生物/b47-保护生物学与生物多样性.png>) · [PDF](<海报/生物/b47-保护生物学与生物多样性.pdf>) |
+
+### 化学：Chemistry 2e（21 张）
+
+| 海报 | 章 | 英文章名 | 节数 | 教材来源 | 文件 |
+|---|---|---|---|---|---|
+| 化学研究什么？ | [第1章 基本概念](https://openstax.org/books/chemistry-2e/pages/1-introduction) | Essential Ideas | 6 | OpenStax Chemistry 2e 第1章 Essential Ideas · OpenStax（CC BY-NC-SA 4.0） | [PNG](<海报/化学/c01-基本概念.png>) · [PDF](<海报/化学/c01-基本概念.pdf>) |
+| 原子里有什么？ | [第2章 原子、分子和离子](https://openstax.org/books/chemistry-2e/pages/2-introduction) | Atoms, Molecules, and Ions | 7 | OpenStax Chemistry 2e 第2章 Atoms, Molecules, and Ions · OpenStax（CC BY-NC-SA 4.0） | [PNG](<海报/化学/c02-原子-分子和离子.png>) · [PDF](<海报/化学/c02-原子-分子和离子.pdf>) |
+| 怎样数清原子？ | [第3章 物质与溶液的组成](https://openstax.org/books/chemistry-2e/pages/3-introduction) | Composition of Substances and Solutions | 4 | OpenStax Chemistry 2e 第3章 Composition of Substances and Solutions · OpenStax（CC BY-NC-SA 4.0） | [PNG](<海报/化学/c03-物质与溶液的组成.png>) · [PDF](<海报/化学/c03-物质与溶液的组成.pdf>) |
+| 反应物要多少？ | [第4章 化学反应的计量](https://openstax.org/books/chemistry-2e/pages/4-introduction) | Stoichiometry of Chemical Reactions | 5 | OpenStax Chemistry 2e 第4章 Stoichiometry of Chemical Reactions · OpenStax（CC BY-NC-SA 4.0） | [PNG](<海报/化学/c04-化学反应的计量.png>) · [PDF](<海报/化学/c04-化学反应的计量.pdf>) |
+| 反应怎样吸放热？ | [第5章 热化学](https://openstax.org/books/chemistry-2e/pages/5-introduction) | Thermochemistry | 3 | OpenStax Chemistry 2e 第5章 Thermochemistry · OpenStax（CC BY-NC-SA 4.0） | [PNG](<海报/化学/c05-热化学.png>) · [PDF](<海报/化学/c05-热化学.pdf>) |
+| 电子怎样排布？ | [第6章 电子结构与元素周期性](https://openstax.org/books/chemistry-2e/pages/6-introduction) | Electronic Structure and Periodic Properties of Elements | 5 | OpenStax Chemistry 2e 第6章 Electronic Structure and Periodic Properties of Elements · OpenStax（CC BY-NC-SA 4.0） | [PNG](<海报/化学/c06-电子结构与元素周期性.png>) · [PDF](<海报/化学/c06-电子结构与元素周期性.pdf>) |
+| 原子怎样连在一起？ | [第7章 化学键与分子构型](https://openstax.org/books/chemistry-2e/pages/7-introduction) | Chemical Bonding and Molecular Geometry | 6 | OpenStax Chemistry 2e 第7章 Chemical Bonding and Molecular Geometry · OpenStax（CC BY-NC-SA 4.0） | [PNG](<海报/化学/c07-化学键与分子构型.png>) · [PDF](<海报/化学/c07-化学键与分子构型.pdf>) |
+| 共价键还有什么理论？ | [第8章 共价键的进阶理论](https://openstax.org/books/chemistry-2e/pages/8-introduction) | Advanced Theories of Covalent Bonding | 4 | OpenStax Chemistry 2e 第8章 Advanced Theories of Covalent Bonding · OpenStax（CC BY-NC-SA 4.0） | [PNG](<海报/化学/c08-共价键的进阶理论.png>) · [PDF](<海报/化学/c08-共价键的进阶理论.pdf>) |
+| 气体为什么有压强？ | [第9章 气体](https://openstax.org/books/chemistry-2e/pages/9-introduction) | Gases | 6 | OpenStax Chemistry 2e 第9章 Gases · OpenStax（CC BY-NC-SA 4.0） | [PNG](<海报/化学/c09-气体.png>) · [PDF](<海报/化学/c09-气体.pdf>) |
+| 液体固体靠什么聚？ | [第10章 液体和固体](https://openstax.org/books/chemistry-2e/pages/10-introduction) | Liquids and Solids | 6 | OpenStax Chemistry 2e 第10章 Liquids and Solids · OpenStax（CC BY-NC-SA 4.0） | [PNG](<海报/化学/c10-液体和固体.png>) · [PDF](<海报/化学/c10-液体和固体.pdf>) |
+| 溶液有什么性质？ | [第11章 溶液和胶体](https://openstax.org/books/chemistry-2e/pages/11-introduction) | Solutions and Colloids | 5 | OpenStax Chemistry 2e 第11章 Solutions and Colloids · OpenStax（CC BY-NC-SA 4.0） | [PNG](<海报/化学/c11-溶液和胶体.png>) · [PDF](<海报/化学/c11-溶液和胶体.pdf>) |
+| 反应有多快？ | [第12章 化学动力学](https://openstax.org/books/chemistry-2e/pages/12-introduction) | Kinetics | 7 | OpenStax Chemistry 2e 第12章 Kinetics · OpenStax（CC BY-NC-SA 4.0） | [PNG](<海报/化学/c12-化学动力学.png>) · [PDF](<海报/化学/c12-化学动力学.pdf>) |
+| 反应会停下来吗？ | [第13章 化学平衡基本概念](https://openstax.org/books/chemistry-2e/pages/13-introduction) | Fundamental Equilibrium Concepts | 4 | OpenStax Chemistry 2e 第13章 Fundamental Equilibrium Concepts · OpenStax（CC BY-NC-SA 4.0） | [PNG](<海报/化学/c13-化学平衡基本概念.png>) · [PDF](<海报/化学/c13-化学平衡基本概念.pdf>) |
+| 酸碱怎样平衡？ | [第14章 酸碱平衡](https://openstax.org/books/chemistry-2e/pages/14-introduction) | Acid-Base Equilibria | 7 | OpenStax Chemistry 2e 第14章 Acid-Base Equilibria · OpenStax（CC BY-NC-SA 4.0） | [PNG](<海报/化学/c14-酸碱平衡.png>) · [PDF](<海报/化学/c14-酸碱平衡.pdf>) |
+| 沉淀何时会出现？ | [第15章 其他类型的平衡](https://openstax.org/books/chemistry-2e/pages/15-introduction) | Equilibria of Other Reaction Classes | 3 | OpenStax Chemistry 2e 第15章 Equilibria of Other Reaction Classes · OpenStax（CC BY-NC-SA 4.0） | [PNG](<海报/化学/c15-其他类型的平衡.png>) · [PDF](<海报/化学/c15-其他类型的平衡.pdf>) |
+| 反应为何自发进行？ | [第16章 热力学](https://openstax.org/books/chemistry-2e/pages/16-introduction) | Thermodynamics | 4 | OpenStax Chemistry 2e 第16章 Thermodynamics · OpenStax（CC BY-NC-SA 4.0） | [PNG](<海报/化学/c16-热力学.png>) · [PDF](<海报/化学/c16-热力学.pdf>) |
+| 化学能怎样变电能？ | [第17章 电化学](https://openstax.org/books/chemistry-2e/pages/17-introduction) | Electrochemistry | 7 | OpenStax Chemistry 2e 第17章 Electrochemistry · OpenStax（CC BY-NC-SA 4.0） | [PNG](<海报/化学/c17-电化学.png>) · [PDF](<海报/化学/c17-电化学.pdf>) |
+| 主族元素有何特点？ | [第18章 主族金属、准金属和非金属](https://openstax.org/books/chemistry-2e/pages/18-introduction) | Representative Metals, Metalloids, and Nonmetals | 12 | OpenStax Chemistry 2e 第18章 Representative Metals, Metalloids, and Nonmetals · OpenStax（CC BY-NC-SA 4.0） | [PNG](<海报/化学/c18-主族金属-准金属和非金属.png>) · [PDF](<海报/化学/c18-主族金属-准金属和非金属.pdf>) |
+| 过渡金属有何特别？ | [第19章 过渡金属与配位化学](https://openstax.org/books/chemistry-2e/pages/19-introduction) | Transition Metals and Coordination Chemistry | 3 | OpenStax Chemistry 2e 第19章 Transition Metals and Coordination Chemistry · OpenStax（CC BY-NC-SA 4.0） | [PNG](<海报/化学/c19-过渡金属与配位化学.png>) · [PDF](<海报/化学/c19-过渡金属与配位化学.pdf>) |
+| 碳为何能成万物？ | [第20章 有机化学](https://openstax.org/books/chemistry-2e/pages/20-introduction) | Organic Chemistry | 4 | OpenStax Chemistry 2e 第20章 Organic Chemistry · OpenStax（CC BY-NC-SA 4.0） | [PNG](<海报/化学/c20-有机化学.png>) · [PDF](<海报/化学/c20-有机化学.pdf>) |
+| 原子核怎样变化？ | [第21章 核化学](https://openstax.org/books/chemistry-2e/pages/21-introduction) | Nuclear Chemistry | 6 | OpenStax Chemistry 2e 第21章 Nuclear Chemistry · OpenStax（CC BY-NC-SA 4.0） | [PNG](<海报/化学/c21-核化学.png>) · [PDF](<海报/化学/c21-核化学.pdf>) |
 
