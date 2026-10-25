@@ -7,7 +7,7 @@
 
 ## 海报
 
-和 IM 6–8 一样每个 Section 一张，全套 102 张（代数1 37、几何 32、代数2 33），按课程放在 `海报/代数1/`、`海报/几何/`、`海报/代数2/`。已完成 69 张（PNG + PDF）：代数1 37、几何 32。海报只用公制单位和人民币；为说明而举的数字和数据标「示例」，示意图标「示意」；用到圆规、剪刀、镜子或运动的海报加了安全提示；每张海报底部都标注了教材来源。
+和 IM 6–8 一样每个 Section 一张，全套 102 张（代数1 37、几何 32、代数2 33），按课程放在 `海报/代数1/`、`海报/几何/`、`海报/代数2/`。已完成 102 张（PNG + PDF）：代数1 37、几何 32、代数2 33。海报只用公制单位和人民币；为说明而举的数字和数据标「示例」，示意图标「示意」；用到圆规、剪刀、镜子或运动的海报加了安全提示；每张海报底部都标注了教材来源。
 
 ### 代数1（Algebra 1，37 张）
 
@@ -87,4 +87,42 @@
 | 复合事件概率怎么算？ | 第8单元 条件概率 · A部分 | 机会（Up to Chance） | IM 9–12 Math v.360 几何 第8单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u8a-机会.png>) · [PDF](<海报/几何/ge-u8a-机会.pdf>) |
 | 什么是条件概率？ | 第8单元 条件概率 · B部分 | 相关事件（Related Events） | IM 9–12 Math v.360 几何 第8单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u8b-相关事件.png>) · [PDF](<海报/几何/ge-u8b-相关事件.pdf>) |
 | 这个游戏公平吗？ | 第8单元 条件概率 · C部分 | 综合运用：游戏中的概率（Let's Put It to Work） | IM 9–12 Math v.360 几何 第8单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u8c-综合运用游戏中的概率.png>) · [PDF](<海报/几何/ge-u8c-综合运用游戏中的概率.pdf>) |
+
+### 代数2（Algebra 2，33 张）
+
+| 海报 | 单元 · 部分 | 部分名称 | 教材来源 | 文件 |
+|---|---|---|---|---|
+| 加还是乘的数列？ | 第1单元 数列和函数 · A部分 | 数列（Sequences） | IM 9–12 Math v.360 代数2 第1单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数2/a2-u1a-数列.png>) · [PDF](<海报/代数2/a2-u1a-数列.pdf>) |
+| 数列怎样表示？ | 第1单元 数列和函数 · B部分 | 表示数列（Representing Sequences） | IM 9–12 Math v.360 代数2 第1单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数2/a2-u1b-表示数列.png>) · [PDF](<海报/代数2/a2-u1b-表示数列.pdf>) |
+| 第 n 项怎样写？ | 第1单元 数列和函数 · C部分 | 写数列的方程（What’s the Equation?） | IM 9–12 Math v.360 代数2 第1单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数2/a2-u1c-写数列的方程.png>) · [PDF](<海报/代数2/a2-u1c-写数列的方程.pdf>) |
+| 什么是多项式？ | 第2单元 多项式函数 · A部分 | 什么是多项式（What Is a Polynomial?） | IM 9–12 Math v.360 代数2 第2单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数2/a2-u2a-什么是多项式.png>) · [PDF](<海报/代数2/a2-u2a-什么是多项式.pdf>) |
+| 因式和零点什么关系？ | 第2单元 多项式函数 · B部分 | 使用多项式（Working with Polynomials） | IM 9–12 Math v.360 代数2 第2单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数2/a2-u2b-使用多项式.png>) · [PDF](<海报/代数2/a2-u2b-使用多项式.pdf>) |
+| 多项式图像有何特征？ | 第2单元 多项式函数 · C部分 | 多项式的图像（Graphs of Polynomials） | IM 9–12 Math v.360 代数2 第2单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数2/a2-u2c-多项式的图像.png>) · [PDF](<海报/代数2/a2-u2c-多项式的图像.pdf>) |
+| 多项式怎样做除法？ | 第2单元 多项式函数 · D部分 | 多项式除法（Polynomial Division） | IM 9–12 Math v.360 代数2 第2单元 D部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数2/a2-u2d-多项式除法.png>) · [PDF](<海报/代数2/a2-u2d-多项式除法.pdf>) |
+| 有理函数有何特点？ | 第3单元 有理函数和方程 · A部分 | 有理函数（Rational Functions） | IM 9–12 Math v.360 代数2 第3单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数2/a2-u3a-有理函数.png>) · [PDF](<海报/代数2/a2-u3a-有理函数.pdf>) |
+| 分式方程怎样解？ | 第3单元 有理函数和方程 · B部分 | 有理方程（Rational Equations） | IM 9–12 Math v.360 代数2 第3单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数2/a2-u3b-有理方程.png>) · [PDF](<海报/代数2/a2-u3b-有理方程.pdf>) |
+| 怎样证明恒等式？ | 第3单元 有理函数和方程 · C部分 | 多项式恒等式（Polynomial Identities） | IM 9–12 Math v.360 代数2 第3单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数2/a2-u3c-多项式恒等式.png>) · [PDF](<海报/代数2/a2-u3c-多项式恒等式.pdf>) |
+| 分数指数是什么意思？ | 第4单元 复数和有理指数 · A部分 | 指数的性质（Exponent Properties） | IM 9–12 Math v.360 代数2 第4单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数2/a2-u4a-指数的性质.png>) · [PDF](<海报/代数2/a2-u4a-指数的性质.pdf>) |
+| 根式方程怎样解？ | 第4单元 复数和有理指数 · B部分 | 解含平方根、立方根的方程（Solving Equations with Square and Cube Roots） | IM 9–12 Math v.360 代数2 第4单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数2/a2-u4b-解含平方根立方根的方程.png>) · [PDF](<海报/代数2/a2-u4b-解含平方根立方根的方程.pdf>) |
+| i 是什么数？ | 第4单元 复数和有理指数 · C部分 | 一种新的数（A New Kind of Number） | IM 9–12 Math v.360 代数2 第4单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数2/a2-u4c-一种新的数.png>) · [PDF](<海报/代数2/a2-u4c-一种新的数.pdf>) |
+| 二次方程无实数解时？ | 第4单元 复数和有理指数 · D部分 | 用复数解二次方程（Solving Quadratics with Complex Numbers） | IM 9–12 Math v.360 代数2 第4单元 D部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数2/a2-u4d-用复数解二次方程.png>) · [PDF](<海报/代数2/a2-u4d-用复数解二次方程.pdf>) |
+| 怎样画成比例的圆？ | 第4单元 复数和有理指数 · E部分 | 综合运用：成比例的圆（Let's Put It to Work） | IM 9–12 Math v.360 代数2 第4单元 E部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数2/a2-u4e-综合运用成比例的圆.png>) · [PDF](<海报/代数2/a2-u4e-综合运用成比例的圆.pdf>) |
+| 分数输入怎么理解？ | 第5单元 指数函数和方程 · A部分 | 增长和衰减（Growing and Shrinking） | IM 9–12 Math v.360 代数2 第5单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数2/a2-u5a-增长和衰减.png>) · [PDF](<海报/代数2/a2-u5a-增长和衰减.pdf>) |
+| 对数是什么？ | 第5单元 指数函数和方程 · B部分 | 缺失的指数（Missing Exponents） | IM 9–12 Math v.360 代数2 第5单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数2/a2-u5b-缺失的指数.png>) · [PDF](<海报/代数2/a2-u5b-缺失的指数.pdf>) |
+| e 是怎样的数？ | 第5单元 指数函数和方程 · C部分 | 常数 e（The Constant e） | IM 9–12 Math v.360 代数2 第5单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数2/a2-u5c-常数e.png>) · [PDF](<海报/代数2/a2-u5c-常数e.pdf>) |
+| 对数函数是什么样？ | 第5单元 指数函数和方程 · D部分 | 对数函数及其图像（Logarithmic Functions and Graphs） | IM 9–12 Math v.360 代数2 第5单元 D部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数2/a2-u5d-对数函数及其图像.png>) · [PDF](<海报/代数2/a2-u5d-对数函数及其图像.pdf>) |
+| 对数刻度用在哪？ | 第5单元 指数函数和方程 · E部分 | 综合运用：对数的应用（Let's Put It to Work） | IM 9–12 Math v.360 代数2 第5单元 E部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数2/a2-u5e-综合运用对数的应用.png>) · [PDF](<海报/代数2/a2-u5e-综合运用对数的应用.pdf>) |
+| 函数图像怎样移动？ | 第6单元 函数的变换 · A部分 | 平移、反射和对称（Translations, Reflections, and Symmetry） | IM 9–12 Math v.360 代数2 第6单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数2/a2-u6a-平移反射和对称.png>) · [PDF](<海报/代数2/a2-u6a-平移反射和对称.pdf>) |
+| 怎样缩放函数？ | 第6单元 函数的变换 · B部分 | 缩放输出和输入（Scaling Outputs and Inputs） | IM 9–12 Math v.360 代数2 第6单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数2/a2-u6b-缩放输出和输入.png>) · [PDF](<海报/代数2/a2-u6b-缩放输出和输入.pdf>) |
+| 变换顺序重要吗？ | 第6单元 函数的变换 · C部分 | 函数的变换（Transformations of Functions） | IM 9–12 Math v.360 代数2 第6单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数2/a2-u6c-函数的变换.png>) · [PDF](<海报/代数2/a2-u6c-函数的变换.pdf>) |
+| 怎样让函数贴合数据？ | 第6单元 函数的变换 · D部分 | 综合运用：为数据建模（Let’s Put It to Work） | IM 9–12 Math v.360 代数2 第6单元 D部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数2/a2-u6d-综合运用为数据建模.png>) · [PDF](<海报/代数2/a2-u6d-综合运用为数据建模.pdf>) |
+| 单位圆上的点在哪？ | 第7单元 三角函数 · A部分 | 单位圆（The Unit Circle） | IM 9–12 Math v.360 代数2 第7单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数2/a2-u7a-单位圆.png>) · [PDF](<海报/代数2/a2-u7a-单位圆.pdf>) |
+| 三角函数图像怎样？ | 第7单元 三角函数 · B部分 | 周期函数（Periodic Functions） | IM 9–12 Math v.360 代数2 第7单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数2/a2-u7b-周期函数.png>) · [PDF](<海报/代数2/a2-u7b-周期函数.pdf>) |
+| 怎样为转动建模？ | 第7单元 三角函数 · C部分 | 三角函数的变换（Trigonometry Transformations） | IM 9–12 Math v.360 代数2 第7单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数2/a2-u7c-三角函数的变换.png>) · [PDF](<海报/代数2/a2-u7c-三角函数的变换.pdf>) |
+| 还有哪些周期现象？ | 第7单元 三角函数 · D部分 | 综合运用：不只是圆（Let’s Put It to Work） | IM 9–12 Math v.360 代数2 第7单元 D部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数2/a2-u7d-综合运用不只是圆.png>) · [PDF](<海报/代数2/a2-u7d-综合运用不只是圆.pdf>) |
+| 研究为什么要随机？ | 第8单元 统计推断 · A部分 | 研究类型（Study Types） | IM 9–12 Math v.360 代数2 第8单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数2/a2-u8a-研究类型.png>) · [PDF](<海报/代数2/a2-u8a-研究类型.pdf>) |
+| 正态分布怎样用？ | 第8单元 统计推断 · B部分 | 分布（Distributions） | IM 9–12 Math v.360 代数2 第8单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数2/a2-u8b-分布.png>) · [PDF](<海报/代数2/a2-u8b-分布.pdf>) |
+| 样本能代表总体吗？ | 第8单元 统计推断 · C部分 | 样本各不相同（Not All Samples Are the Same） | IM 9–12 Math v.360 代数2 第8单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数2/a2-u8c-样本各不相同.png>) · [PDF](<海报/代数2/a2-u8c-样本各不相同.pdf>) |
+| 差异是偶然的吗？ | 第8单元 统计推断 · D部分 | 分析实验数据（Analyzing Experimental Data） | IM 9–12 Math v.360 代数2 第8单元 D部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数2/a2-u8d-分析实验数据.png>) · [PDF](<海报/代数2/a2-u8d-分析实验数据.pdf>) |
+| 运动后心率变多少？ | 第8单元 统计推断 · E部分 | 综合运用：心率（Let's Put It to Work） | IM 9–12 Math v.360 代数2 第8单元 E部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数2/a2-u8e-综合运用心率.png>) · [PDF](<海报/代数2/a2-u8e-综合运用心率.pdf>) |
 
