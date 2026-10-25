@@ -38,7 +38,7 @@
   - [科学](初中/科学/)：OpenSciEd
   - [数学](初中/数学/)：Illustrative Mathematics、Eureka Math
 - [高中](高中/)
-  - [科学](高中/科学/)：OpenSciEd
+  - [科学](高中/科学/)：OpenSciEd、OpenStax
   - [数学](高中/数学/)：Illustrative Mathematics
 
 完整的知名教材清单见 [教材清单](教材清单.md)。
