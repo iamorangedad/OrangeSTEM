@@ -7,7 +7,7 @@
 
 ## 海报
 
-和 IM 6–8 一样每个 Section 一张，全套 102 张（代数1 37、几何 32、代数2 33），按课程放在 `海报/代数1/`、`海报/几何/`、`海报/代数2/`。已完成 37 张（PNG + PDF）：代数1 37。海报只用公制单位和人民币；为说明而举的数字和数据标「示例」，示意图标「示意」；用到圆规、剪刀、镜子或运动的海报加了安全提示；每张海报底部都标注了教材来源。
+和 IM 6–8 一样每个 Section 一张，全套 102 张（代数1 37、几何 32、代数2 33），按课程放在 `海报/代数1/`、`海报/几何/`、`海报/代数2/`。已完成 69 张（PNG + PDF）：代数1 37、几何 32。海报只用公制单位和人民币；为说明而举的数字和数据标「示例」，示意图标「示意」；用到圆规、剪刀、镜子或运动的海报加了安全提示；每张海报底部都标注了教材来源。
 
 ### 代数1（Algebra 1，37 张）
 
@@ -50,4 +50,41 @@
 | 求根公式怎样用？ | 第8单元 一元二次方程 · D部分 | 求根公式（The Quadratic Formula） | IM 9–12 Math v.360 代数1 第8单元 D部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数1/a1-u8d-求根公式.png>) · [PDF](<海报/代数1/a1-u8d-求根公式.pdf>) |
 | 最大值在哪里？ | 第8单元 一元二次方程 · E部分 | 再看顶点式（Vertex Form Revisited） | IM 9–12 Math v.360 代数1 第8单元 E部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数1/a1-u8e-再看顶点式.png>) · [PDF](<海报/代数1/a1-u8e-再看顶点式.pdf>) |
 | 二次方程怎样建模？ | 第8单元 一元二次方程 · F部分 | 综合运用（Let's Put It to Work） | IM 9–12 Math v.360 代数1 第8单元 F部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/代数1/a1-u8f-综合运用.png>) · [PDF](<海报/代数1/a1-u8f-综合运用.pdf>) |
+
+### 几何（Geometry，32 张）
+
+| 海报 | 单元 · 部分 | 部分名称 | 教材来源 | 文件 |
+|---|---|---|---|---|
+| 只用尺规能作什么？ | 第1单元 尺规作图和刚体变换 · A部分 | 尺规作图（Constructions） | IM 9–12 Math v.360 几何 第1单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u1a-尺规作图.png>) · [PDF](<海报/几何/ge-u1a-尺规作图.pdf>) |
+| 什么是刚体变换？ | 第1单元 尺规作图和刚体变换 · B部分 | 定义刚体变换（Defining Rigid Transformations） | IM 9–12 Math v.360 几何 第1单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u1b-定义刚体变换.png>) · [PDF](<海报/几何/ge-u1b-定义刚体变换.pdf>) |
+| 怎样用变换序列？ | 第1单元 尺规作图和刚体变换 · C部分 | 运用刚体变换（Working with Rigid Transformations） | IM 9–12 Math v.360 几何 第1单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u1c-运用刚体变换.png>) · [PDF](<海报/几何/ge-u1c-运用刚体变换.pdf>) |
+| 怎样证明角相等？ | 第1单元 尺规作图和刚体变换 · D部分 | 证据与证明（Evidence and Proof） | IM 9–12 Math v.360 几何 第1单元 D部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u1d-证据与证明.png>) · [PDF](<海报/几何/ge-u1d-证据与证明.pdf>) |
+| 还能作出什么图？ | 第1单元 尺规作图和刚体变换 · E部分 | 综合运用：还能作什么（Let's Put It to Work） | IM 9–12 Math v.360 几何 第1单元 E部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u1e-综合运用还能作什么.png>) · [PDF](<海报/几何/ge-u1e-综合运用还能作什么.pdf>) |
+| 什么是全等？ | 第2单元 全等 · A部分 | 全等图形（Congruent Figures） | IM 9–12 Math v.360 几何 第2单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u2a-全等图形.png>) · [PDF](<海报/几何/ge-u2a-全等图形.pdf>) |
+| 三角形何时全等？ | 第2单元 全等 · B部分 | 三角形全等定理（Triangle Congruence Theorems） | IM 9–12 Math v.360 几何 第2单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u2b-三角形全等定理.png>) · [PDF](<海报/几何/ge-u2b-三角形全等定理.pdf>) |
+| 怎样证明四边形性质？ | 第2单元 全等 · C部分 | 四边形的证明（Proofs about Quadrilaterals） | IM 9–12 Math v.360 几何 第2单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u2c-四边形的证明.png>) · [PDF](<海报/几何/ge-u2c-四边形的证明.pdf>) |
+| 四边形怎样才全等？ | 第2单元 全等 · D部分 | 综合运用：四边形全等（Let’s Put It to Work） | IM 9–12 Math v.360 几何 第2单元 D部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u2d-综合运用四边形全等.png>) · [PDF](<海报/几何/ge-u2d-综合运用四边形全等.pdf>) |
+| 位似有什么性质？ | 第3单元 相似 · A部分 | 位似的性质（Properties of Dilations） | IM 9–12 Math v.360 几何 第3单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u3a-位似的性质.png>) · [PDF](<海报/几何/ge-u3a-位似的性质.pdf>) |
+| 三角形何时相似？ | 第3单元 相似 · B部分 | 相似变换与比例推理（Similarity Transformations and Proportional Reasoning） | IM 9–12 Math v.360 几何 第3单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u3b-相似变换与比例推理.png>) · [PDF](<海报/几何/ge-u3b-相似变换与比例推理.pdf>) |
+| 相似怎样证勾股定理？ | 第3单元 相似 · C部分 | 直角三角形中的相似（Similarity in Right Triangles） | IM 9–12 Math v.360 几何 第3单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u3c-直角三角形中的相似.png>) · [PDF](<海报/几何/ge-u3c-直角三角形中的相似.pdf>) |
+| 镜子怎样测高度？ | 第3单元 相似 · D部分 | 综合运用：镜子测高（Let’s Put It to Work） | IM 9–12 Math v.360 几何 第3单元 D部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u3d-综合运用镜子测高.png>) · [PDF](<海报/几何/ge-u3d-综合运用镜子测高.pdf>) |
+| 角决定边的比吗？ | 第4单元 直角三角形三角学 · A部分 | 角度与陡度（Angles and Steepness） | IM 9–12 Math v.360 几何 第4单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u4a-角度与陡度.png>) · [PDF](<海报/几何/ge-u4a-角度与陡度.pdf>) |
+| 什么是三角比？ | 第4单元 直角三角形三角学 · B部分 | 三角比（Defining Trigonometric Ratios） | IM 9–12 Math v.360 几何 第4单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u4b-三角比.png>) · [PDF](<海报/几何/ge-u4b-三角比.pdf>) |
+| 三角学能解决什么？ | 第4单元 直角三角形三角学 · C部分 | 综合运用（Let’s Put It to Work） | IM 9–12 Math v.360 几何 第4单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u4c-综合运用.png>) · [PDF](<海报/几何/ge-u4c-综合运用.pdf>) |
+| 截面和面积怎样变？ | 第5单元 立体几何 · A部分 | 旋转体、截面与面积缩放（Cross-Sections, Scaling, and Area） | IM 9–12 Math v.360 几何 第5单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u5a-旋转体截面与面积缩放.png>) · [PDF](<海报/几何/ge-u5a-旋转体截面与面积缩放.pdf>) |
+| 立体放大会怎样？ | 第5单元 立体几何 · B部分 | 立体的缩放（Scaling Solids） | IM 9–12 Math v.360 几何 第5单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u5b-立体的缩放.png>) · [PDF](<海报/几何/ge-u5b-立体的缩放.pdf>) |
+| 斜棱柱体积怎么算？ | 第5单元 立体几何 · C部分 | 棱柱和圆柱的体积（Prism and Cylinder Volumes） | IM 9–12 Math v.360 几何 第5单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u5c-棱柱和圆柱的体积.png>) · [PDF](<海报/几何/ge-u5c-棱柱和圆柱的体积.pdf>) |
+| 棱锥体积怎么算？ | 第5单元 立体几何 · D部分 | 棱锥的体积（Understanding Pyramid Volumes） | IM 9–12 Math v.360 几何 第5单元 D部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u5d-棱锥的体积.png>) · [PDF](<海报/几何/ge-u5d-棱锥的体积.pdf>) |
+| 体积还能用在哪？ | 第5单元 立体几何 · E部分 | 综合运用（Let’s Put It to Work） | IM 9–12 Math v.360 几何 第5单元 E部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u5e-综合运用.png>) · [PDF](<海报/几何/ge-u5e-综合运用.pdf>) |
+| 变换也是函数吗？ | 第6单元 坐标几何 · A部分 | 平面中的变换（Transformations in the Plane） | IM 9–12 Math v.360 几何 第6单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u6a-平面中的变换.png>) · [PDF](<海报/几何/ge-u6a-平面中的变换.pdf>) |
+| 圆的方程怎样写？ | 第6单元 坐标几何 · B部分 | 距离、圆和抛物线（Distances, Circles, and Parabolas） | IM 9–12 Math v.360 几何 第6单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u6b-距离圆和抛物线.png>) · [PDF](<海报/几何/ge-u6b-距离圆和抛物线.pdf>) |
+| 坐标怎样证明几何？ | 第6单元 坐标几何 · C部分 | 用代数证明几何定理（Proving Geometric Theorems Algebraically） | IM 9–12 Math v.360 几何 第6单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u6c-用代数证明几何定理.png>) · [PDF](<海报/几何/ge-u6c-用代数证明几何定理.pdf>) |
+| 坐标中怎样求面积？ | 第6单元 坐标几何 · D部分 | 综合运用（Let’s Put It to Work） | IM 9–12 Math v.360 几何 第6单元 D部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u6d-综合运用.png>) · [PDF](<海报/几何/ge-u6d-综合运用.pdf>) |
+| 圆中的角有什么规律？ | 第7单元 圆 · A部分 | 线、角和圆（Lines, Angles, and Circles） | IM 9–12 Math v.360 几何 第7单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u7a-线角和圆.png>) · [PDF](<海报/几何/ge-u7a-线角和圆.pdf>) |
+| 三角形的外接圆在哪？ | 第7单元 圆 · B部分 | 多边形与圆（Polygons and Circles） | IM 9–12 Math v.360 几何 第7单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u7b-多边形与圆.png>) · [PDF](<海报/几何/ge-u7b-多边形与圆.pdf>) |
+| 什么是弧度？ | 第7单元 圆 · C部分 | 圆的度量（Measuring Circles） | IM 9–12 Math v.360 几何 第7单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u7c-圆的度量.png>) · [PDF](<海报/几何/ge-u7c-圆的度量.pdf>) |
+| 怎样综合用圆知识？ | 第7单元 圆 · D部分 | 综合运用（Let’s Put It to Work） | IM 9–12 Math v.360 几何 第7单元 D部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u7d-综合运用.png>) · [PDF](<海报/几何/ge-u7d-综合运用.pdf>) |
+| 复合事件概率怎么算？ | 第8单元 条件概率 · A部分 | 机会（Up to Chance） | IM 9–12 Math v.360 几何 第8单元 A部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u8a-机会.png>) · [PDF](<海报/几何/ge-u8a-机会.pdf>) |
+| 什么是条件概率？ | 第8单元 条件概率 · B部分 | 相关事件（Related Events） | IM 9–12 Math v.360 几何 第8单元 B部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u8b-相关事件.png>) · [PDF](<海报/几何/ge-u8b-相关事件.pdf>) |
+| 这个游戏公平吗？ | 第8单元 条件概率 · C部分 | 综合运用：游戏中的概率（Let's Put It to Work） | IM 9–12 Math v.360 几何 第8单元 C部分 · Illustrative Mathematics（CC BY-NC 4.0） | [PNG](<海报/几何/ge-u8c-综合运用游戏中的概率.png>) · [PDF](<海报/几何/ge-u8c-综合运用游戏中的概率.pdf>) |
 
