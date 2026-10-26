@@ -11,7 +11,7 @@
 
 ## 海报
 
-全套 11 门课程、74 个探究，每个探究一张海报（部分标题有三成左右查不到，所以没有按部分出海报，原因见大纲）。已完成 22 张（PNG + PDF）：推荐六年级的课程 22 张、推荐七年级的课程 0 张、推荐八年级的课程 0 张。每张海报用 01/02/03 三步画出这个探究的关键内容（能查到标题的部分会标出部分号），底部标注教材来源。海报只用公制单位和人民币，需要注意安全的地方写在小结框里。
+全套 11 门课程、74 个探究，每个探究一张海报（部分标题有三成左右查不到，所以没有按部分出海报，原因见大纲）。已完成 50 张（PNG + PDF）：推荐六年级的课程 22 张、推荐七年级的课程 28 张、推荐八年级的课程 0 张。每张海报用 01/02/03 三步画出这个探究的关键内容（能查到标题的部分会标出部分号），底部标注教材来源。海报只用公制单位和人民币，需要注意安全的地方写在小结框里。
 
 ### 天气与水（Weather and Water）· 推荐六年级
 
@@ -49,3 +49,46 @@
 | 人体由哪些层次组成？ | 探究1 系统之间的联系（Systems Connections） | FOSS Next Generation Human Systems Interactions 探究1 · Lawrence Hall of Science / Delta Education | [PNG](<海报/hs-i1-系统之间的联系.png>) · [PDF](<海报/hs-i1-系统之间的联系.pdf>) |
 | 细胞怎样获得养料？ | 探究2 供养细胞（Supporting Cells） | FOSS Next Generation Human Systems Interactions 探究2 · Lawrence Hall of Science / Delta Education | [PNG](<海报/hs-i2-供养细胞.png>) · [PDF](<海报/hs-i2-供养细胞.pdf>) |
 | 身体怎样感知世界？ | 探究3 神经系统（The Nervous System） | FOSS Next Generation Human Systems Interactions 探究3 · Lawrence Hall of Science / Delta Education | [PNG](<海报/hs-i3-神经系统.png>) · [PDF](<海报/hs-i3-神经系统.pdf>) |
+
+### 化学相互作用（Chemical Interactions）· 推荐七年级
+
+| 海报 | 探究 | 教材来源 | 文件 |
+|---|---|---|---|
+| 神秘混合物是什么？ | 探究1 物质（Substances） | FOSS Next Generation Chemical Interactions 探究1 · Lawrence Hall of Science / Delta Education | [PNG](<海报/ci-i1-物质.png>) · [PDF](<海报/ci-i1-物质.pdf>) |
+| 万物由什么组成？ | 探究2 元素（Elements） | FOSS Next Generation Chemical Interactions 探究2 · Lawrence Hall of Science / Delta Education | [PNG](<海报/ci-i2-元素.png>) · [PDF](<海报/ci-i2-元素.pdf>) |
+| 空气也是物质吗？ | 探究3 粒子（Particles） | FOSS Next Generation Chemical Interactions 探究3 · Lawrence Hall of Science / Delta Education | [PNG](<海报/ci-i3-粒子.png>) · [PDF](<海报/ci-i3-粒子.pdf>) |
+| 物体受热为什么膨胀？ | 探究4 动能（Kinetic Energy） | FOSS Next Generation Chemical Interactions 探究4 · Lawrence Hall of Science / Delta Education | [PNG](<海报/ci-i4-动能.png>) · [PDF](<海报/ci-i4-动能.pdf>) |
+| 冷热水混合会怎样？ | 探究5 能量转移（Energy Transfer） | FOSS Next Generation Chemical Interactions 探究5 · Lawrence Hall of Science / Delta Education | [PNG](<海报/ci-i5-能量转移.png>) · [PDF](<海报/ci-i5-能量转移.pdf>) |
+| 怎样让热水凉得慢？ | 探究6 保温瓶工程（Thermos Engineering） | FOSS Next Generation Chemical Interactions 探究6 · Lawrence Hall of Science / Delta Education | [PNG](<海报/ci-i6-保温瓶工程.png>) · [PDF](<海报/ci-i6-保温瓶工程.pdf>) |
+| 糖溶解后去哪了？ | 探究7 溶液（Solutions） | FOSS Next Generation Chemical Interactions 探究7 · Lawrence Hall of Science / Delta Education | [PNG](<海报/ci-i7-溶液.png>) · [PDF](<海报/ci-i7-溶液.pdf>) |
+| 冰为什么会融化？ | 探究8 相变（Phase Change） | FOSS Next Generation Chemical Interactions 探究8 · Lawrence Hall of Science / Delta Education | [PNG](<海报/ci-i8-相变.png>) · [PDF](<海报/ci-i8-相变.pdf>) |
+| 新物质是怎样产生的？ | 探究9 化学反应（Reaction） | FOSS Next Generation Chemical Interactions 探究9 · Lawrence Hall of Science / Delta Education | [PNG](<海报/ci-i9-化学反应.png>) · [PDF](<海报/ci-i9-化学反应.pdf>) |
+| 反应为什么会停下？ | 探究10 限制因素（Limiting Factors） | FOSS Next Generation Chemical Interactions 探究10 · Lawrence Hall of Science / Delta Education | [PNG](<海报/ci-i10-限制因素.png>) · [PDF](<海报/ci-i10-限制因素.pdf>) |
+
+### 地球的历史（Earth History）· 推荐七年级
+
+| 海报 | 探究 | 教材来源 | 文件 |
+|---|---|---|---|
+| 大峡谷的岩石讲了什么？ | 探究1 地球是岩石（Earth Is Rock） | FOSS Next Generation Earth History 探究1 第1–3部分 · Lawrence Hall of Science / Delta Education | [PNG](<海报/eh-i1-地球是岩石.png>) · [PDF](<海报/eh-i1-地球是岩石.pdf>) |
+| 峡谷是怎样形成的？ | 探究2 风化与侵蚀（Weathering and Erosion） | FOSS Next Generation Earth History 探究2 第1–3部分 · Lawrence Hall of Science / Delta Education | [PNG](<海报/eh-i2-风化与侵蚀.png>) · [PDF](<海报/eh-i2-风化与侵蚀.pdf>) |
+| 沉积岩是怎样形成的？ | 探究3 沉积（Deposition） | FOSS Next Generation Earth History 探究3 第1–3部分 · Lawrence Hall of Science / Delta Education | [PNG](<海报/eh-i3-沉积.png>) · [PDF](<海报/eh-i3-沉积.pdf>) |
+| 化石能告诉我们什么？ | 探究4 化石与古环境（Fossils and Past Environments） | FOSS Next Generation Earth History 探究4 第1–3部分 · Lawrence Hall of Science / Delta Education | [PNG](<海报/eh-i4-化石与古环境.png>) · [PDF](<海报/eh-i4-化石与古环境.pdf>) |
+| 火成岩是怎样形成的？ | 探究5 火成岩（Igneous Rocks） | FOSS Next Generation Earth History 探究5 第1–3部分 · Lawrence Hall of Science / Delta Education | [PNG](<海报/eh-i5-火成岩.png>) · [PDF](<海报/eh-i5-火成岩.pdf>) |
+| 大陆为什么在移动？ | 探究6 火山与地震（Volcanoes and Earthquakes） | FOSS Next Generation Earth History 探究6 第1–3部分 · Lawrence Hall of Science / Delta Education | [PNG](<海报/eh-i6-火山与地震.png>) · [PDF](<海报/eh-i6-火山与地震.pdf>) |
+| 山脉是怎样形成的？ | 探究7 山脉与变质岩（Mountains and Metamorphic Rocks） | FOSS Next Generation Earth History 探究7 第1–2部分 · Lawrence Hall of Science / Delta Education | [PNG](<海报/eh-i7-山脉与变质岩.png>) · [PDF](<海报/eh-i7-山脉与变质岩.pdf>) |
+| 一个地方的地质故事 | 探究8 地质情景研究（Geoscenarios） | FOSS Next Generation Earth History 探究8 第1–3部分 · Lawrence Hall of Science / Delta Education | [PNG](<海报/eh-i8-地质情景研究.png>) · [PDF](<海报/eh-i8-地质情景研究.pdf>) |
+| 地球讲了什么故事？ | 探究9 地球的故事（What Is Earth's Story?） | FOSS Next Generation Earth History 探究9 第1–2部分 · Lawrence Hall of Science / Delta Education | [PNG](<海报/eh-i9-地球的故事.png>) · [PDF](<海报/eh-i9-地球的故事.pdf>) |
+
+### 种群与生态系统（Populations and Ecosystems）· 推荐七年级
+
+| 海报 | 探究 | 教材来源 | 文件 |
+|---|---|---|---|
+| 乳草长蝽怎样繁殖？ | 探究1 乳草长蝽（Milkweed Bugs） | FOSS Next Generation Populations and Ecosystems 探究1 · Lawrence Hall of Science / Delta Education | [PNG](<海报/pe-i1-乳草长蝽.png>) · [PDF](<海报/pe-i1-乳草长蝽.pdf>) |
+| 生态系统由什么组成？ | 探究2 生物的分类整理（Sorting Out Life） | FOSS Next Generation Populations and Ecosystems 探究2 · Lawrence Hall of Science / Delta Education | [PNG](<海报/pe-i2-生物的分类整理.png>) · [PDF](<海报/pe-i2-生物的分类整理.pdf>) |
+| 莫诺湖里谁吃谁？ | 探究3 莫诺湖（Mono Lake） | FOSS Next Generation Populations and Ecosystems 探究3 · Lawrence Hall of Science / Delta Education | [PNG](<海报/pe-i3-莫诺湖.png>) · [PDF](<海报/pe-i3-莫诺湖.pdf>) |
+| 小生态瓶里会发生什么？ | 探究4 微型栖息地（Minihabitats） | FOSS Next Generation Populations and Ecosystems 探究4 · Lawrence Hall of Science / Delta Education | [PNG](<海报/pe-i4-微型栖息地.png>) · [PDF](<海报/pe-i4-微型栖息地.pdf>) |
+| 植物需要光吗？ | 探究5 生产者（Producers） | FOSS Next Generation Populations and Ecosystems 探究5 · Lawrence Hall of Science / Delta Education | [PNG](<海报/pe-i5-生产者.png>) · [PDF](<海报/pe-i5-生产者.pdf>) |
+| 能量怎样沿食物链传递？ | 探究6 追踪能量（Following the Energy） | FOSS Next Generation Populations and Ecosystems 探究6 · Lawrence Hall of Science / Delta Education | [PNG](<海报/pe-i6-追踪能量.png>) · [PDF](<海报/pe-i6-追踪能量.pdf>) |
+| 种群为何不会一直增长？ | 探究7 种群大小（Population Size） | FOSS Next Generation Populations and Ecosystems 探究7 · Lawrence Hall of Science / Delta Education | [PNG](<海报/pe-i7-种群大小.png>) · [PDF](<海报/pe-i7-种群大小.pdf>) |
+| 人类怎样改变生态系统？ | 探究8 人类的影响（Human Impact） | FOSS Next Generation Populations and Ecosystems 探究8 · Lawrence Hall of Science / Delta Education | [PNG](<海报/pe-i8-人类的影响.png>) · [PDF](<海报/pe-i8-人类的影响.pdf>) |
+| 怎样保护一个生态系统？ | 探究9 生态情景研究（Ecoscenarios） | FOSS Next Generation Populations and Ecosystems 探究9 · Lawrence Hall of Science / Delta Education | [PNG](<海报/pe-i9-生态情景研究.png>) · [PDF](<海报/pe-i9-生态情景研究.pdf>) |
