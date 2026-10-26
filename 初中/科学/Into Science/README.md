@@ -9,7 +9,7 @@
 
 ## 海报
 
-全套 24 个单元、70 课，每课一张海报。已完成 42 张（PNG + PDF，按年级放在 `海报/六年级/` 等子目录）：六年级 20、七年级 22、八年级 0；其中 28 张的第 02 行是 HMH 官方关联表里列出的 Hands-On Lab（教材活动，步骤为示意），其余是本项目设计的示例探究。每张海报 3 行：01 现象、02 探究、03 结论，小结框有拓展和安全提示，底部标注教材来源。只用公制单位和人民币。
+全套 24 个单元、70 课，每课一张海报。已完成 70 张（PNG + PDF，按年级放在 `海报/六年级/` 等子目录）：六年级 20、七年级 22、八年级 28；其中 52 张的第 02 行是 HMH 官方关联表里列出的 Hands-On Lab（教材活动，步骤为示意），其余是本项目设计的示例探究。每张海报 3 行：01 现象、02 探究、03 结论，小结框有拓展和安全提示，底部标注教材来源。只用公制单位和人民币。
 
 ### 六年级（20 张）
 
@@ -136,3 +136,83 @@
 |---|---|---|---|
 | 天然和合成材料 | 第1课 天然材料和合成材料（Natural and Synthetic Materials）· 教材活动 | HMH Into Science 6–8 Physical Science Unit 5 第1课 · Houghton Mifflin Harcourt | [PNG](<海报/七年级/g7-ps5-l1-天然材料和合成材料.png>) · [PDF](<海报/七年级/g7-ps5-l1-天然材料和合成材料.pdf>) |
 | 合成材料的一生 | 第2课 工程：合成材料的生命周期（Engineer It: The Life Cycle of Synthetic Materials）· 教材活动 | HMH Into Science 6–8 Physical Science Unit 5 第2课 · Houghton Mifflin Harcourt | [PNG](<海报/七年级/g7-ps5-l2-工程-合成材料的生命周期.png>) · [PDF](<海报/七年级/g7-ps5-l2-工程-合成材料的生命周期.pdf>) |
+
+### 八年级（28 张）
+
+#### 地球与空间科学 单元4 地球的演变（Earth Through Time）
+
+| 海报 | 课 | 教材来源 | 文件 |
+|---|---|---|---|
+| 岩石有多少岁？ | 第1课 岩石的年龄（The Age of Earth's Rocks）· 教材活动 | HMH Into Science 6–8 Earth and Space Sciences Unit 4 第1课 · Houghton Mifflin Harcourt | [PNG](<海报/八年级/g8-es4-l1-岩石的年龄.png>) · [PDF](<海报/八年级/g8-es4-l1-岩石的年龄.pdf>) |
+| 地球的历史有多长？ | 第2课 地球的历史（Earth's History）· 教材活动 | HMH Into Science 6–8 Earth and Space Sciences Unit 4 第2课 · Houghton Mifflin Harcourt | [PNG](<海报/八年级/g8-es4-l2-地球的历史.png>) · [PDF](<海报/八年级/g8-es4-l2-地球的历史.pdf>) |
+
+#### 地球与空间科学 单元6 地球系统中的资源（Resources in Earth Systems）
+
+| 海报 | 课 | 教材来源 | 文件 |
+|---|---|---|---|
+| 人口和资源的关系 | 第2课 人口与资源利用（Human Population and Resource Use）· 教材活动 | HMH Into Science 6–8 Earth and Space Sciences Unit 6 第2课 · Houghton Mifflin Harcourt | [PNG](<海报/八年级/g8-es6-l2-人口与资源利用.png>) · [PDF](<海报/八年级/g8-es6-l2-人口与资源利用.pdf>) |
+| 资源利用影响地球 | 第3课 资源利用与地球系统（Resource Use and Earth's Systems）· 教材活动 | HMH Into Science 6–8 Earth and Space Sciences Unit 6 第3课 · Houghton Mifflin Harcourt | [PNG](<海报/八年级/g8-es6-l3-资源利用与地球系统.png>) · [PDF](<海报/八年级/g8-es6-l3-资源利用与地球系统.pdf>) |
+
+#### 地球与空间科学 单元8 太阳系中的规律（Patterns in the Solar System）
+
+| 海报 | 课 | 教材来源 | 文件 |
+|---|---|---|---|
+| 月亮为什么会变？ | 第1课 地球–太阳–月球系统（The Earth-Sun-Moon System）· 教材活动 | HMH Into Science 6–8 Earth and Space Sciences Unit 8 第1课 · Houghton Mifflin Harcourt | [PNG](<海报/八年级/g8-es8-l1-地球-太阳-月球系统.png>) · [PDF](<海报/八年级/g8-es8-l1-地球-太阳-月球系统.pdf>) |
+| 为什么有四季？ | 第2课 四季（Seasons）· 示例探究 | HMH Into Science 6–8 Earth and Space Sciences Unit 8 第2课 · Houghton Mifflin Harcourt | [PNG](<海报/八年级/g8-es8-l2-四季.png>) · [PDF](<海报/八年级/g8-es8-l2-四季.pdf>) |
+
+#### 地球与空间科学 单元9 太阳系与宇宙（The Solar System and Universe）
+
+| 海报 | 课 | 教材来源 | 文件 |
+|---|---|---|---|
+| 太阳系有多大？ | 第1课 地球与太阳系（Earth and the Solar System）· 教材活动 | HMH Into Science 6–8 Earth and Space Sciences Unit 9 第1课 · Houghton Mifflin Harcourt | [PNG](<海报/八年级/g8-es9-l1-地球与太阳系.png>) · [PDF](<海报/八年级/g8-es9-l1-地球与太阳系.pdf>) |
+| 引力怎样塑造宇宙？ | 第2课 引力与宇宙（Gravity and the Universe）· 教材活动 | HMH Into Science 6–8 Earth and Space Sciences Unit 9 第2课 · Houghton Mifflin Harcourt | [PNG](<海报/八年级/g8-es9-l2-引力与宇宙.png>) · [PDF](<海报/八年级/g8-es9-l2-引力与宇宙.pdf>) |
+| 怎样给宇宙做模型？ | 第3课 空间科学中的模型（Modeling in Space Science）· 教材活动 | HMH Into Science 6–8 Earth and Space Sciences Unit 9 第3课 · Houghton Mifflin Harcourt | [PNG](<海报/八年级/g8-es9-l3-空间科学中的模型.png>) · [PDF](<海报/八年级/g8-es9-l3-空间科学中的模型.pdf>) |
+
+#### 生命科学 单元5 地球生命的历史（The History of Life on Earth）
+
+| 海报 | 课 | 教材来源 | 文件 |
+|---|---|---|---|
+| 化石怎样形成？ | 第1课 化石记录（The Fossil Record）· 教材活动 | HMH Into Science 6–8 Life Science Unit 5 第1课 · Houghton Mifflin Harcourt | [PNG](<海报/八年级/g8-ls5-l1-化石记录.png>) · [PDF](<海报/八年级/g8-ls5-l1-化石记录.pdf>) |
+| 生命怎样变化？ | 第2课 地球生命的变化规律（Patterns of Change in Life on Earth）· 教材活动 | HMH Into Science 6–8 Life Science Unit 5 第2课 · Houghton Mifflin Harcourt | [PNG](<海报/八年级/g8-ls5-l2-地球生命的变化规律.png>) · [PDF](<海报/八年级/g8-ls5-l2-地球生命的变化规律.pdf>) |
+| 共同祖先的证据 | 第3课 共同祖先的证据（Evidence of Common Ancestry）· 教材活动 | HMH Into Science 6–8 Life Science Unit 5 第3课 · Houghton Mifflin Harcourt | [PNG](<海报/八年级/g8-ls5-l3-共同祖先的证据.png>) · [PDF](<海报/八年级/g8-ls5-l3-共同祖先的证据.pdf>) |
+
+#### 生命科学 单元6 进化（Evolution）
+
+| 海报 | 课 | 教材来源 | 文件 |
+|---|---|---|---|
+| 基因变化影响性状 | 第1课 基因变化与性状（Genetic Change and Traits）· 教材活动 | HMH Into Science 6–8 Life Science Unit 6 第1课 · Houghton Mifflin Harcourt | [PNG](<海报/八年级/g8-ls6-l1-基因变化与性状.png>) · [PDF](<海报/八年级/g8-ls6-l1-基因变化与性状.pdf>) |
+| 什么是自然选择？ | 第2课 自然选择（Natural Selection）· 教材活动 | HMH Into Science 6–8 Life Science Unit 6 第2课 · Houghton Mifflin Harcourt | [PNG](<海报/八年级/g8-ls6-l2-自然选择.png>) · [PDF](<海报/八年级/g8-ls6-l2-自然选择.pdf>) |
+| 人类怎样影响性状？ | 第3课 人类对性状的影响（Human Influence on Traits）· 示例探究 | HMH Into Science 6–8 Life Science Unit 6 第3课 · Houghton Mifflin Harcourt | [PNG](<海报/八年级/g8-ls6-l3-人类对性状的影响.png>) · [PDF](<海报/八年级/g8-ls6-l3-人类对性状的影响.pdf>) |
+
+#### 物质科学 单元1 能量（Energy）
+
+| 海报 | 课 | 教材来源 | 文件 |
+|---|---|---|---|
+| 什么是能量？ | 第1课 认识能量（Introduction to Energy）· 教材活动 | HMH Into Science 6–8 Physical Science Unit 1 第1课 · Houghton Mifflin Harcourt | [PNG](<海报/八年级/g8-ps1-l1-认识能量.png>) · [PDF](<海报/八年级/g8-ps1-l1-认识能量.pdf>) |
+| 怎样设计能量玩具？ | 第3课 工程：能量的转化（Engineer It: Transforming Energy）· 教材活动 | HMH Into Science 6–8 Physical Science Unit 1 第3课 · Houghton Mifflin Harcourt | [PNG](<海报/八年级/g8-ps1-l3-工程-能量的转化.png>) · [PDF](<海报/八年级/g8-ps1-l3-工程-能量的转化.pdf>) |
+
+#### 物质科学 单元6 力与运动（Forces and Motion）
+
+| 海报 | 课 | 教材来源 | 文件 |
+|---|---|---|---|
+| 力是什么？ | 第1课 认识力（Introduction to Forces）· 教材活动 | HMH Into Science 6–8 Physical Science Unit 6 第1课 · Houghton Mifflin Harcourt | [PNG](<海报/八年级/g8-ps6-l1-认识力.png>) · [PDF](<海报/八年级/g8-ps6-l1-认识力.pdf>) |
+| 牛顿运动定律 | 第2课 牛顿运动定律（Newton's Laws of Motion）· 教材活动 | HMH Into Science 6–8 Physical Science Unit 6 第2课 · Houghton Mifflin Harcourt | [PNG](<海报/八年级/g8-ps6-l2-牛顿运动定律.png>) · [PDF](<海报/八年级/g8-ps6-l2-牛顿运动定律.pdf>) |
+| 怎样减轻碰撞？ | 第3课 工程：物体的碰撞（Engineer It: Collisions between Objects）· 示例探究 | HMH Into Science 6–8 Physical Science Unit 6 第3课 · Houghton Mifflin Harcourt | [PNG](<海报/八年级/g8-ps6-l3-工程-物体的碰撞.png>) · [PDF](<海报/八年级/g8-ps6-l3-工程-物体的碰撞.pdf>) |
+
+#### 物质科学 单元7 电力与磁力（Electric and Magnetic Forces）
+
+| 海报 | 课 | 教材来源 | 文件 |
+|---|---|---|---|
+| 磁力有什么特点？ | 第1课 磁力（The Magnetic Force）· 教材活动 | HMH Into Science 6–8 Physical Science Unit 7 第1课 · Houghton Mifflin Harcourt | [PNG](<海报/八年级/g8-ps7-l1-磁力.png>) · [PDF](<海报/八年级/g8-ps7-l1-磁力.pdf>) |
+| 电力有什么特点？ | 第2课 电力（The Electric Force）· 教材活动 | HMH Into Science 6–8 Physical Science Unit 7 第2课 · Houghton Mifflin Harcourt | [PNG](<海报/八年级/g8-ps7-l2-电力.png>) · [PDF](<海报/八年级/g8-ps7-l2-电力.pdf>) |
+| 看不见的场 | 第3课 场（Fields）· 示例探究 | HMH Into Science 6–8 Physical Science Unit 7 第3课 · Houghton Mifflin Harcourt | [PNG](<海报/八年级/g8-ps7-l3-场.png>) · [PDF](<海报/八年级/g8-ps7-l3-场.pdf>) |
+| 电怎样产生磁？ | 第4课 电磁（Electromagnetism）· 教材活动 | HMH Into Science 6–8 Physical Science Unit 7 第4课 · Houghton Mifflin Harcourt | [PNG](<海报/八年级/g8-ps7-l4-电磁.png>) · [PDF](<海报/八年级/g8-ps7-l4-电磁.pdf>) |
+
+#### 物质科学 单元8 波与信息传递（Waves and Information Transfer）
+
+| 海报 | 课 | 教材来源 | 文件 |
+|---|---|---|---|
+| 波是什么？ | 第1课 认识波（Introduction to Waves）· 教材活动 | HMH Into Science 6–8 Physical Science Unit 8 第1课 · Houghton Mifflin Harcourt | [PNG](<海报/八年级/g8-ps8-l1-认识波.png>) · [PDF](<海报/八年级/g8-ps8-l1-认识波.pdf>) |
+| 机械波怎样传播？ | 第2课 机械波的行为（The Behavior of Mechanical Waves）· 教材活动 | HMH Into Science 6–8 Physical Science Unit 8 第2课 · Houghton Mifflin Harcourt | [PNG](<海报/八年级/g8-ps8-l2-机械波的行为.png>) · [PDF](<海报/八年级/g8-ps8-l2-机械波的行为.pdf>) |
+| 光波怎样传播？ | 第3课 光波的行为（The Behavior of Light Waves）· 教材活动 | HMH Into Science 6–8 Physical Science Unit 8 第3课 · Houghton Mifflin Harcourt | [PNG](<海报/八年级/g8-ps8-l3-光波的行为.png>) · [PDF](<海报/八年级/g8-ps8-l3-光波的行为.pdf>) |
+| 信息怎样传递？ | 第4课 信息传递（Information Transfer）· 教材活动 | HMH Into Science 6–8 Physical Science Unit 8 第4课 · Houghton Mifflin Harcourt | [PNG](<海报/八年级/g8-ps8-l4-信息传递.png>) · [PDF](<海报/八年级/g8-ps8-l4-信息传递.pdf>) |

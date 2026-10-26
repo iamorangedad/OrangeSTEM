@@ -35,7 +35,7 @@
   - [数学](小学/数学/)：Singapore Math、Beast Academy、Bridges in Mathematics、Illustrative Mathematics、Eureka Math、Saxon Math、enVision Mathematics、Into Math
   - [科学](小学/科学/)：Scott Foresman Science、Elevate Science、FOSS、Amplify Science、Mystery Science、Inspire Science、Into Science、STEMscopes
 - [初中](初中/)
-  - [科学](初中/科学/)：OpenSciEd、Amplify Science、FOSS、Elevate Science
+  - [科学](初中/科学/)：OpenSciEd、Amplify Science、FOSS、Elevate Science、Into Science
   - [数学](初中/数学/)：Illustrative Mathematics、Eureka Math
 - [高中](高中/)
   - [科学](高中/科学/)：OpenSciEd、OpenStax
