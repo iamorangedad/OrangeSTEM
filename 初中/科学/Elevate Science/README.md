@@ -9,7 +9,7 @@
 
 ## 海报
 
-全套 30 个主题、118 课，每课一张海报。已完成 79 张（PNG + PDF，按年级放在 `海报/六年级/` 等子目录）：六年级 37、七年级 42、八年级 0；其中 1 张的第 02 行是能查到名称的教材活动，其余是本项目设计的示例探究。每张海报 3 行：01 现象、02 探究、03 结论，小结框有拓展和安全提示，底部标注教材来源。只用公制单位和人民币。
+全套 30 个主题、118 课，每课一张海报。已完成 118 张（PNG + PDF，按年级放在 `海报/六年级/` 等子目录）：六年级 37、七年级 42、八年级 39；其中 4 张的第 02 行是能查到名称的教材活动，其余是本项目设计的示例探究。每张海报 3 行：01 现象、02 探究、03 结论，小结框有拓展和安全提示，底部标注教材来源。只用公制单位和人民币。
 
 ### 六年级（Course 1，37 张）
 
@@ -193,3 +193,94 @@
 | 电路怎样工作？ | 第1课 电路（Electric Circuits）· 示例探究 | Elevate Science Course 2（七年级）Topic 10 第1课 · Savvas | [PNG](<海报/七年级/g7-t10-l1-电路.png>) · [PDF](<海报/七年级/g7-t10-l1-电路.pdf>) |
 | 信号怎样传递信息？ | 第2课 信号（Signals）· 示例探究 | Elevate Science Course 2（七年级）Topic 10 第2课 · Savvas | [PNG](<海报/七年级/g7-t10-l2-信号.png>) · [PDF](<海报/七年级/g7-t10-l2-信号.pdf>) |
 | 通信技术怎样发展？ | 第3课 通信与技术（Communication and Technology）· 示例探究 | Elevate Science Course 2（七年级）Topic 10 第3课 · Savvas | [PNG](<海报/七年级/g7-t10-l3-通信与技术.png>) · [PDF](<海报/七年级/g7-t10-l3-通信与技术.pdf>) |
+
+### 八年级（Course 3，39 张）
+
+#### Topic 1 原子与元素周期表（Atoms and the Periodic Table）
+
+| 海报 | 课 | 教材来源 | 文件 |
+|---|---|---|---|
+| 原子长什么样？ | 第1课 原子理论（Atomic Theory）· 示例探究 | Elevate Science Course 3（八年级）Topic 1 第1课 · Savvas | [PNG](<海报/八年级/g8-t1-l1-原子理论.png>) · [PDF](<海报/八年级/g8-t1-l1-原子理论.pdf>) |
+| 元素周期表怎样排？ | 第2课 元素周期表（The Periodic Table）· 示例探究 | Elevate Science Course 3（八年级）Topic 1 第2课 · Savvas | [PNG](<海报/八年级/g8-t1-l2-元素周期表.png>) · [PDF](<海报/八年级/g8-t1-l2-元素周期表.pdf>) |
+| 原子为什么要结合？ | 第3课 化学键与周期表（Bonding and the Periodic Table）· 示例探究 | Elevate Science Course 3（八年级）Topic 1 第3课 · Savvas | [PNG](<海报/八年级/g8-t1-l3-化学键与周期表.png>) · [PDF](<海报/八年级/g8-t1-l3-化学键与周期表.pdf>) |
+| 化学键有哪些？ | 第4课 化学键的类型（Types of Bonds）· 示例探究 | Elevate Science Course 3（八年级）Topic 1 第4课 · Savvas | [PNG](<海报/八年级/g8-t1-l4-化学键的类型.png>) · [PDF](<海报/八年级/g8-t1-l4-化学键的类型.pdf>) |
+| 酸和碱有什么不同？ | 第5课 酸和碱（Acids and Bases）· 示例探究 | Elevate Science Course 3（八年级）Topic 1 第5课 · Savvas | [PNG](<海报/八年级/g8-t1-l5-酸和碱.png>) · [PDF](<海报/八年级/g8-t1-l5-酸和碱.pdf>) |
+
+#### Topic 2 化学反应（Chemical Reactions）
+
+| 海报 | 课 | 教材来源 | 文件 |
+|---|---|---|---|
+| 混合物和溶液？ | 第1课 混合物与溶液（Mixtures and Solutions）· 示例探究 | Elevate Science Course 3（八年级）Topic 2 第1课 · Savvas | [PNG](<海报/八年级/g8-t2-l1-混合物与溶液.png>) · [PDF](<海报/八年级/g8-t2-l1-混合物与溶液.pdf>) |
+| 什么是化学变化？ | 第2课 化学变化（Chemical Change）· 示例探究 | Elevate Science Course 3（八年级）Topic 2 第2课 · Savvas | [PNG](<海报/八年级/g8-t2-l2-化学变化.png>) · [PDF](<海报/八年级/g8-t2-l2-化学变化.pdf>) |
+| 化学反应守恒吗？ | 第3课 化学反应的模型（Modeling Chemical Reactions）· 教材活动 | Elevate Science Course 3（八年级）Topic 2 第3课 · Savvas | [PNG](<海报/八年级/g8-t2-l3-化学反应的模型.png>) · [PDF](<海报/八年级/g8-t2-l3-化学反应的模型.pdf>) |
+| 怎样制造新材料？ | 第4课 制造有用的材料（Producing Useful Materials）· 示例探究 | Elevate Science Course 3（八年级）Topic 2 第4课 · Savvas | [PNG](<海报/八年级/g8-t2-l4-制造有用的材料.png>) · [PDF](<海报/八年级/g8-t2-l4-制造有用的材料.pdf>) |
+
+#### Topic 3 力与运动（Forces and Motion）
+
+| 海报 | 课 | 教材来源 | 文件 |
+|---|---|---|---|
+| 怎样描述运动和力？ | 第1课 描述运动和力（Describing Motion and Force）· 示例探究 | Elevate Science Course 3（八年级）Topic 3 第1课 · Savvas | [PNG](<海报/八年级/g8-t3-l1-描述运动和力.png>) · [PDF](<海报/八年级/g8-t3-l1-描述运动和力.pdf>) |
+| 速度和加速度？ | 第2课 速率、速度和加速度（Speed, Velocity, and Acceleration）· 示例探究 | Elevate Science Course 3（八年级）Topic 3 第2课 · Savvas | [PNG](<海报/八年级/g8-t3-l2-速率-速度和加速度.png>) · [PDF](<海报/八年级/g8-t3-l2-速率-速度和加速度.pdf>) |
+| 牛顿运动定律 | 第3课 牛顿运动定律（Newton's Laws of Motion）· 示例探究 | Elevate Science Course 3（八年级）Topic 3 第3课 · Savvas | [PNG](<海报/八年级/g8-t3-l3-牛顿运动定律.png>) · [PDF](<海报/八年级/g8-t3-l3-牛顿运动定律.pdf>) |
+| 摩擦力和引力 | 第4课 摩擦力与引力（Friction and Gravitational Interactions）· 示例探究 | Elevate Science Course 3（八年级）Topic 3 第4课 · Savvas | [PNG](<海报/八年级/g8-t3-l4-摩擦力与引力.png>) · [PDF](<海报/八年级/g8-t3-l4-摩擦力与引力.pdf>) |
+
+#### Topic 4 基因与遗传（Genes and Heredity）
+
+| 海报 | 课 | 教材来源 | 文件 |
+|---|---|---|---|
+| 遗传有什么规律？ | 第1课 遗传的规律（Patterns of Inheritance）· 示例探究 | Elevate Science Course 3（八年级）Topic 4 第1课 · Savvas | [PNG](<海报/八年级/g8-t4-l1-遗传的规律.png>) · [PDF](<海报/八年级/g8-t4-l1-遗传的规律.pdf>) |
+| 染色体与遗传 | 第2课 染色体与遗传（Chromosomes and Inheritance）· 教材活动 | Elevate Science Course 3（八年级）Topic 4 第2课 · Savvas | [PNG](<海报/八年级/g8-t4-l2-染色体与遗传.png>) · [PDF](<海报/八年级/g8-t4-l2-染色体与遗传.pdf>) |
+| DNA 怎样指导生命？ | 第3课 遗传密码与蛋白质合成（Genetic Coding and Protein Synthesis）· 示例探究 | Elevate Science Course 3（八年级）Topic 4 第3课 · Savvas | [PNG](<海报/八年级/g8-t4-l3-遗传密码与蛋白质合成.png>) · [PDF](<海报/八年级/g8-t4-l3-遗传密码与蛋白质合成.pdf>) |
+| 性状为什么有变异？ | 第4课 性状的变异（Trait Variations）· 示例探究 | Elevate Science Course 3（八年级）Topic 4 第4课 · Savvas | [PNG](<海报/八年级/g8-t4-l4-性状的变异.png>) · [PDF](<海报/八年级/g8-t4-l4-性状的变异.pdf>) |
+| 遗传技术能做什么？ | 第5课 遗传技术（Genetic Technologies）· 示例探究 | Elevate Science Course 3（八年级）Topic 4 第5课 · Savvas | [PNG](<海报/八年级/g8-t4-l5-遗传技术.png>) · [PDF](<海报/八年级/g8-t4-l5-遗传技术.pdf>) |
+
+#### Topic 5 自然选择与演变（Natural Selection and Change Over Time）
+
+| 海报 | 课 | 教材来源 | 文件 |
+|---|---|---|---|
+| 早期的进化研究 | 第1课 早期的进化研究（Early Study of Evolution）· 教材活动 | Elevate Science Course 3（八年级）Topic 5 第1课 · Savvas | [PNG](<海报/八年级/g8-t5-l1-早期的进化研究.png>) · [PDF](<海报/八年级/g8-t5-l1-早期的进化研究.pdf>) |
+| 什么是自然选择？ | 第2课 自然选择（Natural Selection）· 示例探究 | Elevate Science Course 3（八年级）Topic 5 第2课 · Savvas | [PNG](<海报/八年级/g8-t5-l2-自然选择.png>) · [PDF](<海报/八年级/g8-t5-l2-自然选择.pdf>) |
+| 进化是怎样发生的？ | 第3课 进化的过程（The Process of Evolution）· 示例探究 | Elevate Science Course 3（八年级）Topic 5 第3课 · Savvas | [PNG](<海报/八年级/g8-t5-l3-进化的过程.png>) · [PDF](<海报/八年级/g8-t5-l3-进化的过程.pdf>) |
+| 化石里的证据 | 第4课 化石记录中的证据（Evidence in the Fossil Record）· 示例探究 | Elevate Science Course 3（八年级）Topic 5 第4课 · Savvas | [PNG](<海报/八年级/g8-t5-l4-化石记录中的证据.png>) · [PDF](<海报/八年级/g8-t5-l4-化石记录中的证据.pdf>) |
+| 进化还有哪些证据？ | 第5课 进化的其他证据（Other Evidence of Evolution）· 示例探究 | Elevate Science Course 3（八年级）Topic 5 第5课 · Savvas | [PNG](<海报/八年级/g8-t5-l5-进化的其他证据.png>) · [PDF](<海报/八年级/g8-t5-l5-进化的其他证据.pdf>) |
+
+#### Topic 6 地球的历史（History of Earth）
+
+| 海报 | 课 | 教材来源 | 文件 |
+|---|---|---|---|
+| 怎样测岩石的年龄？ | 第1课 测定岩石的年龄（Determining Ages of Rocks）· 示例探究 | Elevate Science Course 3（八年级）Topic 6 第1课 · Savvas | [PNG](<海报/八年级/g8-t6-l1-测定岩石的年龄.png>) · [PDF](<海报/八年级/g8-t6-l1-测定岩石的年龄.pdf>) |
+| 地质年代表 | 第2课 地质年代表（Geologic Time Scale）· 示例探究 | Elevate Science Course 3（八年级）Topic 6 第2课 · Savvas | [PNG](<海报/八年级/g8-t6-l2-地质年代表.png>) · [PDF](<海报/八年级/g8-t6-l2-地质年代表.pdf>) |
+| 地球史上的大事件 | 第3课 地球历史上的重大事件（Major Events in Earth's History）· 示例探究 | Elevate Science Course 3（八年级）Topic 6 第3课 · Savvas | [PNG](<海报/八年级/g8-t6-l3-地球历史上的重大事件.png>) · [PDF](<海报/八年级/g8-t6-l3-地球历史上的重大事件.pdf>) |
+
+#### Topic 7 大气和海洋中的能量（Energy in the Atmosphere and Ocean）
+
+| 海报 | 课 | 教材来源 | 文件 |
+|---|---|---|---|
+| 大气中的能量 | 第1课 地球大气中的能量（Energy in Earth's Atmosphere）· 示例探究 | Elevate Science Course 3（八年级）Topic 7 第1课 · Savvas | [PNG](<海报/八年级/g8-t7-l1-地球大气中的能量.png>) · [PDF](<海报/八年级/g8-t7-l1-地球大气中的能量.pdf>) |
+| 大气环流 | 第2课 大气环流（Patterns of Circulation in the Atmosphere）· 示例探究 | Elevate Science Course 3（八年级）Topic 7 第2课 · Savvas | [PNG](<海报/八年级/g8-t7-l2-大气环流.png>) · [PDF](<海报/八年级/g8-t7-l2-大气环流.pdf>) |
+| 洋流 | 第3课 洋流（Patterns of Circulation in the Ocean）· 示例探究 | Elevate Science Course 3（八年级）Topic 7 第3课 · Savvas | [PNG](<海报/八年级/g8-t7-l3-洋流.png>) · [PDF](<海报/八年级/g8-t7-l3-洋流.pdf>) |
+
+#### Topic 8 气候（Climate）
+
+| 海报 | 课 | 教材来源 | 文件 |
+|---|---|---|---|
+| 什么影响气候？ | 第1课 气候因素（Climate Factors）· 示例探究 | Elevate Science Course 3（八年级）Topic 8 第1课 · Savvas | [PNG](<海报/八年级/g8-t8-l1-气候因素.png>) · [PDF](<海报/八年级/g8-t8-l1-气候因素.pdf>) |
+| 气候为什么在变化？ | 第2课 气候变化（Climate Change）· 示例探究 | Elevate Science Course 3（八年级）Topic 8 第2课 · Savvas | [PNG](<海报/八年级/g8-t8-l2-气候变化.png>) · [PDF](<海报/八年级/g8-t8-l2-气候变化.pdf>) |
+| 气候变化的影响 | 第3课 气候变化的影响（Effects of a Changing Climate）· 示例探究 | Elevate Science Course 3（八年级）Topic 8 第3课 · Savvas | [PNG](<海报/八年级/g8-t8-l3-气候变化的影响.png>) · [PDF](<海报/八年级/g8-t8-l3-气候变化的影响.pdf>) |
+
+#### Topic 9 地球–太阳–月球系统（Earth-Sun-Moon System）
+
+| 海报 | 课 | 教材来源 | 文件 |
+|---|---|---|---|
+| 天体怎样运动？ | 第1课 太空中的运动（Movement in Space）· 示例探究 | Elevate Science Course 3（八年级）Topic 9 第1课 · Savvas | [PNG](<海报/八年级/g8-t9-l1-太空中的运动.png>) · [PDF](<海报/八年级/g8-t9-l1-太空中的运动.pdf>) |
+| 地球怎样运动？ | 第2课 地球在太空中的运动（Earth's Movement in Space）· 示例探究 | Elevate Science Course 3（八年级）Topic 9 第2课 · Savvas | [PNG](<海报/八年级/g8-t9-l2-地球在太空中的运动.png>) · [PDF](<海报/八年级/g8-t9-l2-地球在太空中的运动.pdf>) |
+| 月相和日月食 | 第3课 月相与日月食（Phases and Eclipses）· 示例探究 | Elevate Science Course 3（八年级）Topic 9 第3课 · Savvas | [PNG](<海报/八年级/g8-t9-l3-月相与日月食.png>) · [PDF](<海报/八年级/g8-t9-l3-月相与日月食.pdf>) |
+
+#### Topic 10 太阳系与宇宙（Solar System and the Universe）
+
+| 海报 | 课 | 教材来源 | 文件 |
+|---|---|---|---|
+| 太阳系有哪些天体？ | 第1课 太阳系天体（Solar System Objects）· 示例探究 | Elevate Science Course 3（八年级）Topic 10 第1课 · Savvas | [PNG](<海报/八年级/g8-t10-l1-太阳系天体.png>) · [PDF](<海报/八年级/g8-t10-l1-太阳系天体.pdf>) |
+| 人们怎样认识宇宙？ | 第2课 认识宇宙（Learning About the Universe）· 示例探究 | Elevate Science Course 3（八年级）Topic 10 第2课 · Savvas | [PNG](<海报/八年级/g8-t10-l2-认识宇宙.png>) · [PDF](<海报/八年级/g8-t10-l2-认识宇宙.pdf>) |
+| 恒星的一生 | 第3课 恒星（Stars）· 示例探究 | Elevate Science Course 3（八年级）Topic 10 第3课 · Savvas | [PNG](<海报/八年级/g8-t10-l3-恒星.png>) · [PDF](<海报/八年级/g8-t10-l3-恒星.pdf>) |
+| 星系有哪些？ | 第4课 星系（Galaxies）· 示例探究 | Elevate Science Course 3（八年级）Topic 10 第4课 · Savvas | [PNG](<海报/八年级/g8-t10-l4-星系.png>) · [PDF](<海报/八年级/g8-t10-l4-星系.pdf>) |
