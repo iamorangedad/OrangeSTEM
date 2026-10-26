@@ -9,7 +9,7 @@
 
 ## 海报
 
-全套 27 个单元。启动单元和核心单元共 80 章，每章一张海报；6 个工程实习单元不分章，每个单元一张海报。共 86 张，已完成 28 张（PNG + PDF）：六年级 28、七年级 0、八年级 0。每张海报用 01/02/03 三步画出这一章的锚定问题和关键课（标注课号），底部标注教材来源。海报只用公制单位和人民币，需要注意安全的地方写在小结框里。
+全套 27 个单元。启动单元和核心单元共 80 章，每章一张海报；6 个工程实习单元不分章，每个单元一张海报。共 86 张，已完成 57 张（PNG + PDF）：六年级 28、七年级 29、八年级 0。每张海报用 01/02/03 三步画出这一章的锚定问题和关键课（标注课号），底部标注教材来源。海报只用公制单位和人民币，需要注意安全的地方写在小结框里。
 
 | 海报 | 年级 | 单元 | 章 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -41,3 +41,32 @@
 | 怎样阻止温室气体增加？ | 六年级 | 地球变化的气候（Earth's Changing Climate） | 第3章 怎样才能阻止大气中的二氧化碳和甲烷继续增加？ | Amplify Science Grade 6 Earth's Changing Climate 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g6-ecc-c3-人类活动与气候.png>) · [PDF](<海报/g6-ecc-c3-人类活动与气候.pdf>) |
 | 火山喷发后会变冷吗？ | 六年级 | 地球变化的气候（Earth's Changing Climate） | 第4章 火山喷发不是 1880 年以来长期升温的原因，但会以别的方式影响气候。大型火山喷发后的 5–10 年里，气候会变暖还是变冷？ | Amplify Science Grade 6 Earth's Changing Climate 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g6-ecc-c4-火山喷发与气候.png>) · [PDF](<海报/g6-ecc-c4-火山喷发与气候.pdf>) |
 | 设计可持续屋顶 | 六年级 | 气候工程实习（Earth's Changing Climate Engineering Internship） | 工程实习（10课） 怎样为沙漠城市设计屋顶改造方案，减少对气候的影响、保留历史风貌并控制成本？ | Amplify Science Grade 6 Earth's Changing Climate Engineering Internship: Rooftops for Sustainable Cities · Amplify / Lawrence Hall of Science | [PNG](<海报/g6-eccei-c1-可持续屋顶.png>) · [PDF](<海报/g6-eccei-c1-可持续屋顶.pdf>) |
+| 火星沟道怎样形成？ | 七年级 | 火星地质（Geology on Mars） | 第1章 什么地质过程可能形成了火星上的这条沟道？ | Amplify Science Grade 7 Geology on Mars 第1章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g7-gom-c1-比较岩质行星.png>) · [PDF](<海报/g7-gom-c1-比较岩质行星.pdf>) |
+| 熔岩还是水冲出的？ | 七年级 | 火星地质（Geology on Mars） | 第2章 怎样收集更多证据，判断沟道是熔岩还是水形成的？ | Amplify Science Grade 7 Geology on Mars 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g7-gom-c2-用模型作证据.png>) · [PDF](<海报/g7-gom-c2-用模型作证据.pdf>) |
+| 怎样判断沟道成因？ | 七年级 | 火星地质（Geology on Mars） | 第3章 怎样判断是哪种地质过程形成了火星上的沟道？ | Amplify Science Grade 7 Geology on Mars 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g7-gom-c3-分析新证据.png>) · [PDF](<海报/g7-gom-c3-分析新证据.pdf>) |
+| 化石所在地什么样？ | 七年级 | 板块运动（Plate Motion） | 第1章 发现中龙化石的那片土地是什么样的？ | Amplify Science Grade 7 Plate Motion 第1章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g7-pm-c1-地球的外层.png>) · [PDF](<海报/g7-pm-c1-地球的外层.pdf>) |
+| 两块板块怎样移动？ | 七年级 | 板块运动（Plate Motion） | 第2章 南美洲板块和非洲板块是怎样移动的？ | Amplify Science Grade 7 Plate Motion 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g7-pm-c2-板块边界.png>) · [PDF](<海报/g7-pm-c2-板块边界.pdf>) |
+| 化石怎样分隔这么远？ | 七年级 | 板块运动（Plate Motion） | 第3章 南美洲板块和非洲板块上的中龙化石，怎样分隔得这么远？ | Amplify Science Grade 7 Plate Motion 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g7-pm-c3-板块移动速度.png>) · [PDF](<海报/g7-pm-c3-板块移动速度.pdf>) |
+| 哈利斯科为何多震？ | 七年级 | 板块运动（Plate Motion） | 第4章 墨西哥哈利斯科地区近来火山活动和地震频繁。这是板块分离造成的，还是板块汇聚造成的？ | Amplify Science Grade 7 Plate Motion 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g7-pm-c4-科学研讨会.png>) · [PDF](<海报/g7-pm-c4-科学研讨会.pdf>) |
+| 设计海啸预警系统 | 七年级 | 板块运动工程实习（Plate Motion Engineering Internship） | 工程实习（10课） 怎样在印度洋地区布置传感器，让预警时间长、误报少、成本低？ | Amplify Science Grade 7 Plate Motion Engineering Internship: Tsunami Warning Systems · Amplify / Lawrence Hall of Science | [PNG](<海报/g7-pmei-c1-海啸预警.png>) · [PDF](<海报/g7-pmei-c1-海啸预警.pdf>) |
+| 两地岩石怎样形成？ | 七年级 | 岩石转化（Rock Transformations） | 第1章 大平原和落基山的岩石是怎样形成的？ | Amplify Science Grade 7 Rock Transformations 第1章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g7-rt-c1-岩层.png>) · [PDF](<海报/g7-rt-c1-岩层.pdf>) |
+| 岩浆和沉积物何来？ | 七年级 | 岩石转化（Rock Transformations） | 第2章 形成这两个地区岩石的岩浆和沉积物是从哪里来的？ | Amplify Science Grade 7 Rock Transformations 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g7-rt-c2-沉积物与岩浆.png>) · [PDF](<海报/g7-rt-c2-沉积物与岩浆.pdf>) |
+| 岩石怎样变成另一种？ | 七年级 | 岩石转化（Rock Transformations） | 第3章 一个地区的岩石，怎样可能变成另一个地区的另一种岩石？ | Amplify Science Grade 7 Rock Transformations 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g7-rt-c3-岩层的移动.png>) · [PDF](<海报/g7-rt-c3-岩层的移动.pdf>) |
+| 金星上会有什么岩石？ | 七年级 | 岩石转化（Rock Transformations） | 第4章 金星表面环境恶劣、云层很厚，至今着陆器无法长期考察。未来的着陆器可能在金星上找到哪类岩石？ | Amplify Science Grade 7 Rock Transformations 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g7-rt-c4-金星上的岩石.png>) · [PDF](<海报/g7-rt-c4-金星上的岩石.pdf>) |
+| 土卫六的湖去哪了？ | 七年级 | 相变（Phase Change） | 第1章 土卫六湖里的液体怎么了？ | Amplify Science Grade 7 Phase Change 第1章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g7-pc-c1-两个尺度看相变.png>) · [PDF](<海报/g7-pc-c1-两个尺度看相变.pdf>) |
+| 甲烷为何会相变？ | 七年级 | 相变（Phase Change） | 第2章 什么能让液态甲烷发生相变？ | Amplify Science Grade 7 Phase Change 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g7-pc-c2-能量与相变.png>) · [PDF](<海报/g7-pc-c2-能量与相变.pdf>) |
+| 以前为何没相变？ | 七年级 | 相变（Phase Change） | 第3章 为什么液态甲烷在 2007 年以前没有发生相变？ | Amplify Science Grade 7 Phase Change 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g7-pc-c3-吸引力与相变.png>) · [PDF](<海报/g7-pc-c3-吸引力与相变.pdf>) |
+| 液氧为何变少了？ | 七年级 | 相变（Phase Change） | 第4章 下一次考察土卫六的火箭要用液氧作燃料，可制造液氧的装置产出的液氧比平常少。是什么让装置出了故障？ | Amplify Science Grade 7 Phase Change 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g7-pc-c4-科学研讨会.png>) · [PDF](<海报/g7-pc-c4-科学研讨会.pdf>) |
+| 设计便携保温箱 | 七年级 | 相变工程实习（Phase Change Engineering Internship） | 工程实习（10课） 怎样设计便携式婴儿保温箱，让体温接近 37 °C、少超出健康范围、成本低？ | Amplify Science Grade 7 Phase Change Engineering Internship: Portable Baby Incubators · Amplify / Lawrence Hall of Science | [PNG](<海报/g7-pcei-c1-婴儿保温箱.png>) · [PDF](<海报/g7-pcei-c1-婴儿保温箱.pdf>) |
+| 红褐色物质是什么？ | 七年级 | 化学反应（Chemical Reactions） | 第1章 水里的红褐色物质是什么？ | Amplify Science Grade 7 Chemical Reactions 第1章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g7-cr-c1-性质与原子.png>) · [PDF](<海报/g7-cr-c1-性质与原子.pdf>) |
+| 铁锈是怎样形成的？ | 七年级 | 化学反应（Chemical Reactions） | 第2章 铁锈是怎样形成的？ | Amplify Science Grade 7 Chemical Reactions 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g7-cr-c2-化学反应.png>) · [PDF](<海报/g7-cr-c2-化学反应.pdf>) |
+| 反应生成了什么？ | 七年级 | 化学反应（Chemical Reactions） | 第3章 铁管和化肥反应时生成了什么？ | Amplify Science Grade 7 Chemical Reactions 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g7-cr-c3-原子守恒.png>) · [PDF](<海报/g7-cr-c3-原子守恒.pdf>) |
+| 割开玻璃的是什么？ | 七年级 | 化学反应（Chemical Reactions） | 第4章 韦斯特菲尔德博物馆的拉瓦锡钻石被盗。罪犯用一种未知物质在保护钻石的玻璃上弄出了洞。这种物质是什么？是谁用的？ | Amplify Science Grade 7 Chemical Reactions 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g7-cr-c4-科学研讨会.png>) · [PDF](<海报/g7-cr-c4-科学研讨会.pdf>) |
+| 水母为何变多了？ | 七年级 | 种群与资源（Populations and Resources） | 第1章 是什么让冰川海的海月水母种群变大了？ | Amplify Science Grade 7 Populations and Resources 第1章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g7-par-c1-种群的变化.png>) · [PDF](<海报/g7-par-c1-种群的变化.pdf>) |
+| 水母出生为何增加？ | 七年级 | 种群与资源（Populations and Resources） | 第2章 是什么让海月水母的出生增加或死亡减少？ | Amplify Science Grade 7 Populations and Resources 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g7-par-c2-能量与种群.png>) · [PDF](<海报/g7-par-c2-能量与种群.pdf>) |
+| 谁间接让水母变多？ | 七年级 | 种群与资源（Populations and Resources） | 第3章 除了浮游动物和海龟，还有哪个种群可能让海月水母变多？ | Amplify Science Grade 7 Populations and Resources 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g7-par-c3-间接影响.png>) · [PDF](<海报/g7-par-c3-间接影响.pdf>) |
+| 橙腹鹦鹉为何变少？ | 七年级 | 种群与资源（Populations and Resources） | 第4章 澳大利亚近海一个岛上的橙腹鹦鹉种群变小了。是因为出生减少，还是死亡增加？ | Amplify Science Grade 7 Populations and Resources 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g7-par-c4-科学研讨会.png>) · [PDF](<海报/g7-par-c4-科学研讨会.pdf>) |
+| 储能分子为何不够？ | 七年级 | 生态系统中的物质与能量（Matter and Energy in Ecosystems） | 第1章 为什么生物穹顶里的植物和动物没有足够的储能分子？ | Amplify Science Grade 7 Matter and Energy in Ecosystems 第1章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g7-mee-c1-光合作用.png>) · [PDF](<海报/g7-mee-c1-光合作用.pdf>) |
+| 二氧化碳为何减少？ | 七年级 | 生态系统中的物质与能量（Matter and Energy in Ecosystems） | 第2章 是什么让生物穹顶空气（非生物物质）中的二氧化碳减少了？ | Amplify Science Grade 7 Matter and Energy in Ecosystems 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g7-mee-c2-细胞呼吸.png>) · [PDF](<海报/g7-mee-c2-细胞呼吸.pdf>) |
+| 空气里的碳去哪了？ | 七年级 | 生态系统中的物质与能量（Matter and Energy in Ecosystems） | 第3章 原来在生物穹顶空气（非生物物质）中的碳去了哪里？ | Amplify Science Grade 7 Matter and Energy in Ecosystems 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g7-mee-c3-碳的移动.png>) · [PDF](<海报/g7-mee-c3-碳的移动.pdf>) |
+| 砍伐森林为何增碳？ | 七年级 | 生态系统中的物质与能量（Matter and Energy in Ecosystems） | 第4章 一群农民砍掉森林开垦农田后，发现空气中的二氧化碳增加了。是砍伐森林造成的吗？ | Amplify Science Grade 7 Matter and Energy in Ecosystems 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g7-mee-c4-科学研讨会.png>) · [PDF](<海报/g7-mee-c4-科学研讨会.pdf>) |
