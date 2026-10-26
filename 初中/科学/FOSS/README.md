@@ -11,7 +11,7 @@
 
 ## 海报
 
-全套 11 门课程、74 个探究，每个探究一张海报（部分标题有三成左右查不到，所以没有按部分出海报，原因见大纲）。已完成 50 张（PNG + PDF）：推荐六年级的课程 22 张、推荐七年级的课程 28 张、推荐八年级的课程 0 张。每张海报用 01/02/03 三步画出这个探究的关键内容（能查到标题的部分会标出部分号），底部标注教材来源。海报只用公制单位和人民币，需要注意安全的地方写在小结框里。
+全套 11 门课程、74 个探究，每个探究一张海报（部分标题有三成左右查不到，所以没有按部分出海报，原因见大纲）。已完成 74 张（PNG + PDF）：推荐六年级的课程 22 张、推荐七年级的课程 28 张、推荐八年级的课程 24 张。每张海报用 01/02/03 三步画出这个探究的关键内容（能查到标题的部分会标出部分号），底部标注教材来源。海报只用公制单位和人民币，需要注意安全的地方写在小结框里。
 
 ### 天气与水（Weather and Water）· 推荐六年级
 
@@ -92,3 +92,52 @@
 | 种群为何不会一直增长？ | 探究7 种群大小（Population Size） | FOSS Next Generation Populations and Ecosystems 探究7 · Lawrence Hall of Science / Delta Education | [PNG](<海报/pe-i7-种群大小.png>) · [PDF](<海报/pe-i7-种群大小.pdf>) |
 | 人类怎样改变生态系统？ | 探究8 人类的影响（Human Impact） | FOSS Next Generation Populations and Ecosystems 探究8 · Lawrence Hall of Science / Delta Education | [PNG](<海报/pe-i8-人类的影响.png>) · [PDF](<海报/pe-i8-人类的影响.pdf>) |
 | 怎样保护一个生态系统？ | 探究9 生态情景研究（Ecoscenarios） | FOSS Next Generation Populations and Ecosystems 探究9 · Lawrence Hall of Science / Delta Education | [PNG](<海报/pe-i9-生态情景研究.png>) · [PDF](<海报/pe-i9-生态情景研究.pdf>) |
+
+### 遗传与适应（Heredity and Adaptation）· 推荐八年级
+
+| 海报 | 探究 | 教材来源 | 文件 |
+|---|---|---|---|
+| 生物是怎样变化的？ | 探究1 生命的历史（The History of Life） | FOSS Next Generation Heredity and Adaptation 探究1 · Lawrence Hall of Science / Delta Education | [PNG](<海报/ha-i1-生命的历史.png>) · [PDF](<海报/ha-i1-生命的历史.pdf>) |
+| 性状是怎样遗传的？ | 探究2 遗传（Heredity） | FOSS Next Generation Heredity and Adaptation 探究2 · Lawrence Hall of Science / Delta Education | [PNG](<海报/ha-i2-遗传.png>) · [PDF](<海报/ha-i2-遗传.pdf>) |
+| 物种是怎样进化的？ | 探究3 进化（Evolution） | FOSS Next Generation Heredity and Adaptation 探究3 · Lawrence Hall of Science / Delta Education | [PNG](<海报/ha-i3-进化.png>) · [PDF](<海报/ha-i3-进化.pdf>) |
+
+### 电磁力（Electromagnetic Force）· 推荐八年级
+
+| 海报 | 探究 | 教材来源 | 文件 |
+|---|---|---|---|
+| 力是什么？ | 探究1 什么是力（What Is Force?） | FOSS Next Generation Electromagnetic Force 探究1 第1–3部分 · Lawrence Hall of Science / Delta Education | [PNG](<海报/em-i1-什么是力.png>) · [PDF](<海报/em-i1-什么是力.pdf>) |
+| 磁力有什么特点？ | 探究2 磁力（The Force of Magnetism） | FOSS Next Generation Electromagnetic Force 探究2 第1–3部分 · Lawrence Hall of Science / Delta Education | [PNG](<海报/em-i2-磁力.png>) · [PDF](<海报/em-i2-磁力.pdf>) |
+| 电怎样产生磁？ | 探究3 电磁现象（Electromagnetism） | FOSS Next Generation Electromagnetic Force 探究3 第1–3部分 · Lawrence Hall of Science / Delta Education | [PNG](<海报/em-i3-电磁现象.png>) · [PDF](<海报/em-i3-电磁现象.pdf>) |
+| 电和运动怎样转换？ | 探究4 能量转移（Energy Transfer） | FOSS Next Generation Electromagnetic Force 探究4 第1–3部分 · Lawrence Hall of Science / Delta Education | [PNG](<海报/em-i4-能量转移.png>) · [PDF](<海报/em-i4-能量转移.pdf>) |
+
+### 重力与动能（Gravity and Kinetic Energy）· 推荐八年级
+
+| 海报 | 探究 | 教材来源 | 文件 |
+|---|---|---|---|
+| 物体怎样越来越快？ | 探究1 加速度（Acceleration） | FOSS Next Generation Gravity and Kinetic Energy 探究1 · Lawrence Hall of Science / Delta Education | [PNG](<海报/gk-i1-加速度.png>) · [PDF](<海报/gk-i1-加速度.pdf>) |
+| 重力有多大？ | 探究2 重力（Force of Gravity） | FOSS Next Generation Gravity and Kinetic Energy 探究2 · Lawrence Hall of Science / Delta Education | [PNG](<海报/gk-i2-重力.png>) · [PDF](<海报/gk-i2-重力.pdf>) |
+| 碰撞时能量去哪了？ | 探究3 能量与碰撞（Energy and Collisions） | FOSS Next Generation Gravity and Kinetic Energy 探究3 · Lawrence Hall of Science / Delta Education | [PNG](<海报/gk-i3-能量与碰撞.png>) · [PDF](<海报/gk-i3-能量与碰撞.pdf>) |
+| 怎样让碰撞更安全？ | 探究4 碰撞工程（Collision Engineering） | FOSS Next Generation Gravity and Kinetic Energy 探究4 · Lawrence Hall of Science / Delta Education | [PNG](<海报/gk-i4-碰撞工程.png>) · [PDF](<海报/gk-i4-碰撞工程.pdf>) |
+
+### 波（Waves）· 推荐八年级
+
+| 海报 | 探究 | 教材来源 | 文件 |
+|---|---|---|---|
+| 波是什么样子的？ | 探究1 制造波（Make Waves） | FOSS Next Generation Waves 探究1 第1–2部分 · Lawrence Hall of Science / Delta Education | [PNG](<海报/wv-i1-制造波.png>) · [PDF](<海报/wv-i1-制造波.pdf>) |
+| 波怎样传递能量？ | 探究2 波的能量（Wave Energy） | FOSS Next Generation Waves 探究2 第1–3部分 · Lawrence Hall of Science / Delta Education | [PNG](<海报/wv-i2-波的能量.png>) · [PDF](<海报/wv-i2-波的能量.pdf>) |
+| 光是怎样传播的？ | 探究3 光波（Light Waves） | FOSS Next Generation Waves 探究3 第1–4部分 · Lawrence Hall of Science / Delta Education | [PNG](<海报/wv-i3-光波.png>) · [PDF](<海报/wv-i3-光波.pdf>) |
+| 波怎样传递信息？ | 探究4 通信用的波（Communication Waves） | FOSS Next Generation Waves 探究4 第1–3部分 · Lawrence Hall of Science / Delta Education | [PNG](<海报/wv-i4-通信用的波.png>) · [PDF](<海报/wv-i4-通信用的波.pdf>) |
+
+### 行星科学（Planetary Science）· 推荐八年级
+
+| 海报 | 探究 | 教材来源 | 文件 |
+|---|---|---|---|
+| 地球是一个系统吗？ | 探究1 地球是一个系统（Earth as a System） | FOSS Next Generation Planetary Science 探究1 · Lawrence Hall of Science / Delta Education | [PNG](<海报/ps-i1-地球是一个系统.png>) · [PDF](<海报/ps-i1-地球是一个系统.pdf>) |
+| 四季是怎样形成的？ | 探究2 地球与太阳（Earth/Sun Relationship） | FOSS Next Generation Planetary Science 探究2 · Lawrence Hall of Science / Delta Education | [PNG](<海报/ps-i2-地球与太阳.png>) · [PDF](<海报/ps-i2-地球与太阳.pdf>) |
+| 月球是什么样的？ | 探究3 研究月球（Moon Study） | FOSS Next Generation Planetary Science 探究3 · Lawrence Hall of Science / Delta Education | [PNG](<海报/ps-i3-研究月球.png>) · [PDF](<海报/ps-i3-研究月球.pdf>) |
+| 月亮为什么会变形？ | 探究4 月相（Phases of the Moon） | FOSS Next Generation Planetary Science 探究4 · Lawrence Hall of Science / Delta Education | [PNG](<海报/ps-i4-月相.png>) · [PDF](<海报/ps-i4-月相.pdf>) |
+| 撞击坑是怎样形成的？ | 探究5 撞击坑（Craters） | FOSS Next Generation Planetary Science 探究5 · Lawrence Hall of Science / Delta Education | [PNG](<海报/ps-i5-撞击坑.png>) · [PDF](<海报/ps-i5-撞击坑.pdf>) |
+| 月球之外有什么？ | 探究6 月球之外（Beyond the Moon） | FOSS Next Generation Planetary Science 探究6 · Lawrence Hall of Science / Delta Education | [PNG](<海报/ps-i6-月球之外.png>) · [PDF](<海报/ps-i6-月球之外.pdf>) |
+| 太阳系里有什么？ | 探究7 太阳系（The Solar System） | FOSS Next Generation Planetary Science 探究7 · Lawrence Hall of Science / Delta Education | [PNG](<海报/ps-i7-太阳系.png>) · [PDF](<海报/ps-i7-太阳系.pdf>) |
+| 人类怎样探索太空？ | 探究8 太空探索（Space Exploration） | FOSS Next Generation Planetary Science 探究8 · Lawrence Hall of Science / Delta Education | [PNG](<海报/ps-i8-太空探索.png>) · [PDF](<海报/ps-i8-太空探索.pdf>) |
+| 怎样寻找新世界？ | 探究9 轨道与新世界（Orbits and New Worlds） | FOSS Next Generation Planetary Science 探究9 · Lawrence Hall of Science / Delta Education | [PNG](<海报/ps-i9-轨道与新世界.png>) · [PDF](<海报/ps-i9-轨道与新世界.pdf>) |
