@@ -9,7 +9,7 @@
 
 ## 海报
 
-每个模块一张，全套 121 张。已完成 101 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个模块一张，全套 121 张。已完成 121 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 模块 | 课次 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -114,3 +114,23 @@
 | 测量单位的大小 | 四年级 | 模块 19 测量单位的大小（Relative Sizes of Customary Measurement Units） | 19.1–19.5 课 | Into Math Grade 4 · Module 19（19.1–19.5 课） · HMH | [PNG](<海报/g4-m19-测量单位的大小.png>) · [PDF](<海报/g4-m19-测量单位的大小.pdf>) |
 | 公制单位的大小 | 四年级 | 模块 20 公制单位的大小（Relative Sizes of Metric Measurement Units） | 20.1–20.4 课 | Into Math Grade 4 · Module 20（20.1–20.4 课） · HMH | [PNG](<海报/g4-m20-公制单位的大小.png>) · [PDF](<海报/g4-m20-公制单位的大小.pdf>) |
 | 时间与测量问题 | 四年级 | 模块 21 时间与测量问题（Solve Problems with Time and Measurement） | 21.1–21.4 课 | Into Math Grade 4 · Module 21（21.1–21.4 课） · HMH | [PNG](<海报/g4-m21-时间与测量问题.png>) · [PDF](<海报/g4-m21-时间与测量问题.pdf>) |
+| 位值与乘法 | 五年级 | 模块 1 位值与乘法（Whole Number Place Value and Multiplication） | 1.1–1.6 课 | Into Math Grade 5 · Module 1（1.1–1.6 课） · HMH | [PNG](<海报/g5-m01-位值与乘法.png>) · [PDF](<海报/g5-m01-位值与乘法.pdf>) |
+| 理解整数除法 | 五年级 | 模块 2 理解整数除法（Understand Division of Whole Numbers） | 2.1–2.4 课 | Into Math Grade 5 · Module 2（2.1–2.4 课） · HMH | [PNG](<海报/g5-m02-理解整数除法.png>) · [PDF](<海报/g5-m02-理解整数除法.pdf>) |
+| 整数除法练习 | 五年级 | 模块 3 整数除法练习（Practice Division of Whole Numbers） | 3.1–3.4 课 | Into Math Grade 5 · Module 3（3.1–3.4 课） · HMH | [PNG](<海报/g5-m03-整数除法练习.png>) · [PDF](<海报/g5-m03-整数除法练习.pdf>) |
+| 数值表达式 | 五年级 | 模块 4 数值表达式（Expressions） | 4.1–4.4 课 | Into Math Grade 5 · Module 4（4.1–4.4 课） · HMH | [PNG](<海报/g5-m04-数值表达式.png>) · [PDF](<海报/g5-m04-数值表达式.pdf>) |
+| 体积 | 五年级 | 模块 5 体积（Volume） | 5.1–5.6 课 | Into Math Grade 5 · Module 5（5.1–5.6 课） · HMH | [PNG](<海报/g5-m05-体积.png>) · [PDF](<海报/g5-m05-体积.pdf>) |
+| 理解异分母加减 | 五年级 | 模块 6 理解异分母加减（Understand Addition and Subtraction of Fractions with Unlike Denominators） | 6.1–6.4 课 | Into Math Grade 5 · Module 6（6.1–6.4 课） · HMH | [PNG](<海报/g5-m06-理解异分母加减.png>) · [PDF](<海报/g5-m06-理解异分母加减.pdf>) |
+| 异分母分数加减 | 五年级 | 模块 7 异分母分数加减（Add and Subtract Fractions and Mixed Numbers with Unlike Denominators） | 7.1–7.6 课 | Into Math Grade 5 · Module 7（7.1–7.6 课） · HMH | [PNG](<海报/g5-m07-异分母分数加减.png>) · [PDF](<海报/g5-m07-异分母分数加减.pdf>) |
+| 理解分数乘法 | 五年级 | 模块 8 理解分数乘法（Understand Multiplication of Fractions） | 8.1–8.7 课 | Into Math Grade 5 · Module 8（8.1–8.7 课） · HMH | [PNG](<海报/g5-m08-理解分数乘法.png>) · [PDF](<海报/g5-m08-理解分数乘法.pdf>) |
+| 带分数乘法 | 五年级 | 模块 9 带分数乘法（Understand and Apply Multiplication of Mixed Numbers） | 9.1–9.4 课 | Into Math Grade 5 · Module 9（9.1–9.4 课） · HMH | [PNG](<海报/g5-m09-带分数乘法.png>) · [PDF](<海报/g5-m09-带分数乘法.pdf>) |
+| 理解分数除法 | 五年级 | 模块 10 理解分数除法（Understand Division with Whole Numbers and Unit Fractions） | 10.1–10.5 课 | Into Math Grade 5 · Module 10（10.1–10.5 课） · HMH | [PNG](<海报/g5-m10-理解分数除法.png>) · [PDF](<海报/g5-m10-理解分数除法.pdf>) |
+| 整数和单位分数的除法 | 五年级 | 模块 11 整数和单位分数的除法（Divide with Whole Numbers and Unit Fractions） | 11.1–11.6 课 | Into Math Grade 5 · Module 11（11.1–11.6 课） · HMH | [PNG](<海报/g5-m11-整数和单位分数的除法.png>) · [PDF](<海报/g5-m11-整数和单位分数的除法.pdf>) |
+| 测量换算（一） | 五年级 | 模块 12 测量换算（一）（Customary Measurement） | 12.1–12.4 课 | Into Math Grade 5 · Module 12（12.1–12.4 课） · HMH | [PNG](<海报/g5-m12-测量换算一.png>) · [PDF](<海报/g5-m12-测量换算一.pdf>) |
+| 小数的位值 | 五年级 | 模块 13 小数的位值（Decimal Place Value） | 13.1–13.4 课 | Into Math Grade 5 · Module 13（13.1–13.4 课） · HMH | [PNG](<海报/g5-m13-小数的位值.png>) · [PDF](<海报/g5-m13-小数的位值.pdf>) |
+| 小数加减法 | 五年级 | 模块 14 小数加减法（Add and Subtract Decimals） | 14.1–14.6 课 | Into Math Grade 5 · Module 14（14.1–14.6 课） · HMH | [PNG](<海报/g5-m14-小数加减法.png>) · [PDF](<海报/g5-m14-小数加减法.pdf>) |
+| 小数乘整数 | 五年级 | 模块 15 小数乘整数（Multiply Decimals and Whole Numbers） | 15.1–15.6 课 | Into Math Grade 5 · Module 15（15.1–15.6 课） · HMH | [PNG](<海报/g5-m15-小数乘整数.png>) · [PDF](<海报/g5-m15-小数乘整数.pdf>) |
+| 小数乘小数 | 五年级 | 模块 16 小数乘小数（Multiply Decimals） | 16.1–16.3 课 | Into Math Grade 5 · Module 16（16.1–16.3 课） · HMH | [PNG](<海报/g5-m16-小数乘小数.png>) · [PDF](<海报/g5-m16-小数乘小数.pdf>) |
+| 小数除法 | 五年级 | 模块 17 小数除法（Divide Decimals） | 17.1–17.7 课 | Into Math Grade 5 · Module 17（17.1–17.7 课） · HMH | [PNG](<海报/g5-m17-小数除法.png>) · [PDF](<海报/g5-m17-小数除法.pdf>) |
+| 测量换算（二） | 五年级 | 模块 18 测量换算（二）（Customary and Metric Measurement） | 18.1–18.3 课 | Into Math Grade 5 · Module 18（18.1–18.3 课） · HMH | [PNG](<海报/g5-m18-测量换算二.png>) · [PDF](<海报/g5-m18-测量换算二.pdf>) |
+| 图像与规律 | 五年级 | 模块 19 图像与规律（Graphs and Patterns） | 19.1–19.5 课 | Into Math Grade 5 · Module 19（19.1–19.5 课） · HMH | [PNG](<海报/g5-m19-图像与规律.png>) · [PDF](<海报/g5-m19-图像与规律.pdf>) |
+| 平面图形分类 | 五年级 | 模块 20 平面图形分类（Classify Two-Dimensional Figures） | 20.1–20.4 课 | Into Math Grade 5 · Module 20（20.1–20.4 课） · HMH | [PNG](<海报/g5-m20-平面图形分类.png>) · [PDF](<海报/g5-m20-平面图形分类.pdf>) |
