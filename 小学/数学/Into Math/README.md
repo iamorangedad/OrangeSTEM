@@ -9,7 +9,7 @@
 
 ## 海报
 
-每个模块一张，全套 121 张。已完成 60 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个模块一张，全套 121 张。已完成 80 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 模块 | 课次 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -73,3 +73,23 @@
 | 长度的加减 | 二年级 | 模块 20 长度的加减（Relate Addition and Subtraction to Length） | 20.1–20.5 课 | Into Math Grade 2 · Module 20（20.1–20.5 课） · HMH | [PNG](<海报/g2-m20-长度的加减.png>) · [PDF](<海报/g2-m20-长度的加减.pdf>) |
 | 平面和立体图形 | 二年级 | 模块 21 平面和立体图形（Two- and Three-Dimensional Shapes） | 21.1–21.4 课 | Into Math Grade 2 · Module 21（21.1–21.4 课） · HMH | [PNG](<海报/g2-m21-平面和立体图形.png>) · [PDF](<海报/g2-m21-平面和立体图形.pdf>) |
 | 理解分数 | 二年级 | 模块 22 理解分数（Understand Fractions） | 22.1–22.5 课 | Into Math Grade 2 · Module 22（22.1–22.5 课） · HMH | [PNG](<海报/g2-m22-理解分数.png>) · [PDF](<海报/g2-m22-理解分数.pdf>) |
+| 理解乘法 | 三年级 | 模块 1 理解乘法（Understand Multiplication） | 1.1–1.6 课 | Into Math Grade 3 · Module 1（1.1–1.6 课） · HMH | [PNG](<海报/g3-m01-理解乘法.png>) · [PDF](<海报/g3-m01-理解乘法.pdf>) |
+| 乘法与面积 | 三年级 | 模块 2 乘法与面积（Relate Multiplication and Area） | 2.1–2.5 课 | Into Math Grade 3 · Module 2（2.1–2.5 课） · HMH | [PNG](<海报/g3-m02-乘法与面积.png>) · [PDF](<海报/g3-m02-乘法与面积.pdf>) |
+| 乘法策略 | 三年级 | 模块 3 乘法策略（Understand Multiplication Strategies） | 3.1–3.3 课 | Into Math Grade 3 · Module 3（3.1–3.3 课） · HMH | [PNG](<海报/g3-m03-乘法策略.png>) · [PDF](<海报/g3-m03-乘法策略.pdf>) |
+| 用运算律乘 | 三年级 | 模块 4 用运算律乘（Apply Multiplication Properties as Strategies） | 4.1–4.7 课 | Into Math Grade 3 · Module 4（4.1–4.7 课） · HMH | [PNG](<海报/g3-m04-用运算律乘.png>) · [PDF](<海报/g3-m04-用运算律乘.pdf>) |
+| 乘整十数 | 三年级 | 模块 5 乘整十数（Multiplication with Multiples of 10） | 5.1–5.4 课 | Into Math Grade 3 · Module 5（5.1–5.4 课） · HMH | [PNG](<海报/g3-m05-乘整十数.png>) · [PDF](<海报/g3-m05-乘整十数.pdf>) |
+| 理解除法 | 三年级 | 模块 6 理解除法（Understand Division） | 6.1–6.7 课 | Into Math Grade 3 · Module 6（6.1–6.7 课） · HMH | [PNG](<海报/g3-m06-理解除法.png>) · [PDF](<海报/g3-m06-理解除法.pdf>) |
+| 乘除法的关系 | 三年级 | 模块 7 乘除法的关系（Relate Multiplication and Division） | 7.1–7.7 课 | Into Math Grade 3 · Module 7（7.1–7.7 课） · HMH | [PNG](<海报/g3-m07-乘除法的关系.png>) · [PDF](<海报/g3-m07-乘除法的关系.pdf>) |
+| 乘除法的应用 | 三年级 | 模块 8 乘除法的应用（Apply Multiplication and Division） | 8.1–8.5 课 | Into Math Grade 3 · Module 8（8.1–8.5 课） · HMH | [PNG](<海报/g3-m08-乘除法的应用.png>) · [PDF](<海报/g3-m08-乘除法的应用.pdf>) |
+| 加减法策略 | 三年级 | 模块 9 加减法策略（Addition and Subtraction Strategies） | 9.1–9.6 课 | Into Math Grade 3 · Module 9（9.1–9.6 课） · HMH | [PNG](<海报/g3-m09-加减法策略.png>) · [PDF](<海报/g3-m09-加减法策略.pdf>) |
+| 1000 以内加减 | 三年级 | 模块 10 1000 以内加减（Addition and Subtraction Within 1,000） | 10.1–10.6 课 | Into Math Grade 3 · Module 10（10.1–10.6 课） · HMH | [PNG](<海报/g3-m10-1000以内加减.png>) · [PDF](<海报/g3-m10-1000以内加减.pdf>) |
+| 理解周长 | 三年级 | 模块 11 理解周长（Understand Perimeter） | 11.1–11.5 课 | Into Math Grade 3 · Module 11（11.1–11.5 课） · HMH | [PNG](<海报/g3-m11-理解周长.png>) · [PDF](<海报/g3-m11-理解周长.pdf>) |
+| 时间与时间段 | 三年级 | 模块 12 时间与时间段（Time Measurement and Intervals） | 12.1–12.5 课 | Into Math Grade 3 · Module 12（12.1–12.5 课） · HMH | [PNG](<海报/g3-m12-时间与时间段.png>) · [PDF](<海报/g3-m12-时间与时间段.pdf>) |
+| 分数是数 | 三年级 | 模块 13 分数是数（Understand Fractions as Numbers） | 13.1–13.7 课 | Into Math Grade 3 · Module 13（13.1–13.7 课） · HMH | [PNG](<海报/g3-m13-分数是数.png>) · [PDF](<海报/g3-m13-分数是数.pdf>) |
+| 图形、分数与面积 | 三年级 | 模块 14 图形、分数与面积（Relate Shapes, Fractions, and Area） | 14.1–14.3 课 | Into Math Grade 3 · Module 14（14.1–14.3 课） · HMH | [PNG](<海报/g3-m14-图形分数与面积.png>) · [PDF](<海报/g3-m14-图形分数与面积.pdf>) |
+| 比较分数 | 三年级 | 模块 15 比较分数（Compare Fractions） | 15.1–15.4 课 | Into Math Grade 3 · Module 15（15.1–15.4 课） · HMH | [PNG](<海报/g3-m15-比较分数.png>) · [PDF](<海报/g3-m15-比较分数.pdf>) |
+| 等值分数 | 三年级 | 模块 16 等值分数（Understand Equivalent Fractions） | 16.1–16.3 课 | Into Math Grade 3 · Module 16（16.1–16.3 课） · HMH | [PNG](<海报/g3-m16-等值分数.png>) · [PDF](<海报/g3-m16-等值分数.pdf>) |
+| 容量与质量 | 三年级 | 模块 17 容量与质量（Liquid Volume and Mass） | 17.1–17.3 课 | Into Math Grade 3 · Module 17（17.1–17.3 课） · HMH | [PNG](<海报/g3-m17-容量与质量.png>) · [PDF](<海报/g3-m17-容量与质量.pdf>) |
+| 表示与解读数据 | 三年级 | 模块 18 表示与解读数据（Represent and Interpret Data） | 18.1–18.7 课 | Into Math Grade 3 · Module 18（18.1–18.7 课） · HMH | [PNG](<海报/g3-m18-表示与解读数据.png>) · [PDF](<海报/g3-m18-表示与解读数据.pdf>) |
+| 定义平面图形 | 三年级 | 模块 19 定义平面图形（Define Two-Dimensional Shapes） | 19.1–19.4 课 | Into Math Grade 3 · Module 19（19.1–19.4 课） · HMH | [PNG](<海报/g3-m19-定义平面图形.png>) · [PDF](<海报/g3-m19-定义平面图形.pdf>) |
+| 平面图形分类 | 三年级 | 模块 20 平面图形分类（Categorize Two-Dimensional Shapes） | 20.1–20.3 课 | Into Math Grade 3 · Module 20（20.1–20.3 课） · HMH | [PNG](<海报/g3-m20-平面图形分类.png>) · [PDF](<海报/g3-m20-平面图形分类.pdf>) |
