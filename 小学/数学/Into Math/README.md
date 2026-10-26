@@ -9,7 +9,7 @@
 
 ## 海报
 
-每个模块一张，全套 121 张。已完成 38 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个模块一张，全套 121 张。已完成 60 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 模块 | 课次 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -51,3 +51,25 @@
 | 分数的基础 | 一年级 | 模块 16 分数的基础（Fraction Foundations） | 16.1–16.4 课 | Into Math Grade 1 · Module 16（16.1–16.4 课） · HMH | [PNG](<海报/g1-m16-分数的基础.png>) · [PDF](<海报/g1-m16-分数的基础.pdf>) |
 | 测量长度 | 一年级 | 模块 17 测量长度（Measure Length） | 17.1–17.4 课 | Into Math Grade 1 · Module 17（17.1–17.4 课） · HMH | [PNG](<海报/g1-m17-测量长度.png>) · [PDF](<海报/g1-m17-测量长度.pdf>) |
 | 认识时间 | 一年级 | 模块 18 认识时间（Measure Time） | 18.1–18.4 课 | Into Math Grade 1 · Module 18（18.1–18.4 课） · HMH | [PNG](<海报/g1-m18-认识时间.png>) · [PDF](<海报/g1-m18-认识时间.pdf>) |
+| 20 以内加减熟练 | 二年级 | 模块 1 20 以内加减熟练（Fluency for Addition and Subtraction Within 20） | 1.1–1.7 课 | Into Math Grade 2 · Module 1（1.1–1.7 课） · HMH | [PNG](<海报/g2-m01-20以内加减熟练.png>) · [PDF](<海报/g2-m01-20以内加减熟练.pdf>) |
+| 相等的组 | 二年级 | 模块 2 相等的组（Equal Groups） | 2.1–2.5 课 | Into Math Grade 2 · Module 2（2.1–2.5 课） · HMH | [PNG](<海报/g2-m02-相等的组.png>) · [PDF](<海报/g2-m02-相等的组.pdf>) |
+| 数据 | 二年级 | 模块 3 数据（Data） | 3.1–3.5 课 | Into Math Grade 2 · Module 3（3.1–3.5 课） · HMH | [PNG](<海报/g2-m03-数据.png>) · [PDF](<海报/g2-m03-数据.pdf>) |
+| 理解位值 | 二年级 | 模块 4 理解位值（Understand Place Value） | 4.1–4.5 课 | Into Math Grade 2 · Module 4（4.1–4.5 课） · HMH | [PNG](<海报/g2-m04-理解位值.png>) · [PDF](<海报/g2-m04-理解位值.pdf>) |
+| 读写 1000 以内数 | 二年级 | 模块 5 读写 1000 以内数（Read, Write, and Show Numbers to 1,000） | 5.1–5.5 课 | Into Math Grade 2 · Module 5（5.1–5.5 课） · HMH | [PNG](<海报/g2-m05-读写1000以内数.png>) · [PDF](<海报/g2-m05-读写1000以内数.pdf>) |
+| 运用位值 | 二年级 | 模块 6 运用位值（Use Place Value） | 6.1–6.5 课 | Into Math Grade 2 · Module 6（6.1–6.5 课） · HMH | [PNG](<海报/g2-m06-运用位值.png>) · [PDF](<海报/g2-m06-运用位值.pdf>) |
+| 硬币 | 二年级 | 模块 7 硬币（Coins） | 7.1–7.4 课 | Into Math Grade 2 · Module 7（7.1–7.4 课） · HMH | [PNG](<海报/g2-m07-硬币.png>) · [PDF](<海报/g2-m07-硬币.pdf>) |
+| 元的计算 | 二年级 | 模块 8 元的计算（Dollar Amounts） | 8.1–8.3 课 | Into Math Grade 2 · Module 8（8.1–8.3 课） · HMH | [PNG](<海报/g2-m08-元的计算.png>) · [PDF](<海报/g2-m08-元的计算.pdf>) |
+| 时间 | 二年级 | 模块 9 时间（Time） | 9.1–9.4 课 | Into Math Grade 2 · Module 9（9.1–9.4 课） · HMH | [PNG](<海报/g2-m09-时间.png>) · [PDF](<海报/g2-m09-时间.pdf>) |
+| 加减的数数策略 | 二年级 | 模块 10 加减的数数策略（Addition and Subtraction Counting Strategies） | 10.1–10.3 课 | Into Math Grade 2 · Module 10（10.1–10.3 课） · HMH | [PNG](<海报/g2-m10-加减的数数策略.png>) · [PDF](<海报/g2-m10-加减的数数策略.pdf>) |
+| 加减的拆数策略 | 二年级 | 模块 11 加减的拆数策略（Addition and Subtraction Grouping Strategies） | 11.1–11.5 课 | Into Math Grade 2 · Module 11（11.1–11.5 课） · HMH | [PNG](<海报/g2-m11-加减的拆数策略.png>) · [PDF](<海报/g2-m11-加减的拆数策略.pdf>) |
+| 表示和记录加减 | 二年级 | 模块 12 表示和记录加减（Represent and Record Addition and Subtraction） | 12.1–12.6 课 | Into Math Grade 2 · Module 12（12.1–12.6 课） · HMH | [PNG](<海报/g2-m12-表示和记录加减.png>) · [PDF](<海报/g2-m12-表示和记录加减.pdf>) |
+| 加减法熟练 | 二年级 | 模块 13 加减法熟练（Develop Addition and Subtraction Fluency） | 13.1–13.5 课 | Into Math Grade 2 · Module 13（13.1–13.5 课） · HMH | [PNG](<海报/g2-m13-加减法熟练.png>) · [PDF](<海报/g2-m13-加减法熟练.pdf>) |
+| 用图和等式表示 | 二年级 | 模块 14 用图和等式表示（Algebra） | 14.1–14.4 课 | Into Math Grade 2 · Module 14（14.1–14.4 课） · HMH | [PNG](<海报/g2-m14-用图和等式表示.png>) · [PDF](<海报/g2-m14-用图和等式表示.pdf>) |
+| 加减法应用题 | 二年级 | 模块 15 加减法应用题（Addition and Subtraction Word Problems） | 15.1–15.3 课 | Into Math Grade 2 · Module 15（15.1–15.3 课） · HMH | [PNG](<海报/g2-m15-加减法应用题.png>) · [PDF](<海报/g2-m15-加减法应用题.pdf>) |
+| 三位数加法 | 二年级 | 模块 16 三位数加法（Three-Digit Addition） | 16.1–16.4 课 | Into Math Grade 2 · Module 16（16.1–16.4 课） · HMH | [PNG](<海报/g2-m16-三位数加法.png>) · [PDF](<海报/g2-m16-三位数加法.pdf>) |
+| 三位数减法 | 二年级 | 模块 17 三位数减法（Three-Digit Subtraction） | 17.1–17.6 课 | Into Math Grade 2 · Module 17（17.1–17.6 课） · HMH | [PNG](<海报/g2-m17-三位数减法.png>) · [PDF](<海报/g2-m17-三位数减法.pdf>) |
+| 用厘米估测长度 | 二年级 | 模块 18 用厘米估测长度（Length in Inches, Feet, and Yards） | 18.1–18.8 课 | Into Math Grade 2 · Module 18（18.1–18.8 课） · HMH | [PNG](<海报/g2-m18-用厘米估测长度.png>) · [PDF](<海报/g2-m18-用厘米估测长度.pdf>) |
+| 厘米和米 | 二年级 | 模块 19 厘米和米（Length in Centimeters and Meters） | 19.1–19.4 课 | Into Math Grade 2 · Module 19（19.1–19.4 课） · HMH | [PNG](<海报/g2-m19-厘米和米.png>) · [PDF](<海报/g2-m19-厘米和米.pdf>) |
+| 长度的加减 | 二年级 | 模块 20 长度的加减（Relate Addition and Subtraction to Length） | 20.1–20.5 课 | Into Math Grade 2 · Module 20（20.1–20.5 课） · HMH | [PNG](<海报/g2-m20-长度的加减.png>) · [PDF](<海报/g2-m20-长度的加减.pdf>) |
+| 平面和立体图形 | 二年级 | 模块 21 平面和立体图形（Two- and Three-Dimensional Shapes） | 21.1–21.4 课 | Into Math Grade 2 · Module 21（21.1–21.4 课） · HMH | [PNG](<海报/g2-m21-平面和立体图形.png>) · [PDF](<海报/g2-m21-平面和立体图形.pdf>) |
+| 理解分数 | 二年级 | 模块 22 理解分数（Understand Fractions） | 22.1–22.5 课 | Into Math Grade 2 · Module 22（22.1–22.5 课） · HMH | [PNG](<海报/g2-m22-理解分数.png>) · [PDF](<海报/g2-m22-理解分数.pdf>) |
