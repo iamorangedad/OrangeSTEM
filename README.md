@@ -32,7 +32,7 @@
 按「教育阶段 / 学科 / 教材」整理：
 
 - [小学](小学/)
-  - [数学](小学/数学/)：Singapore Math、Beast Academy、Bridges in Mathematics、Illustrative Mathematics、Eureka Math、Saxon Math
+  - [数学](小学/数学/)：Singapore Math、Beast Academy、Bridges in Mathematics、Illustrative Mathematics、Eureka Math、Saxon Math、enVision Mathematics
   - [科学](小学/科学/)：Scott Foresman Science、Elevate Science、FOSS、Amplify Science、Mystery Science、Inspire Science、Into Science、STEMscopes
 - [初中](初中/)
   - [科学](初中/科学/)：OpenSciEd
