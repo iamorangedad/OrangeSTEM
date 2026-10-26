@@ -9,7 +9,7 @@
 
 ## 海报
 
-全套 24 个单元、70 课，每课一张海报。已完成 20 张（PNG + PDF，按年级放在 `海报/六年级/` 等子目录）：六年级 20、七年级 0、八年级 0；其中 11 张的第 02 行是 HMH 官方关联表里列出的 Hands-On Lab（教材活动，步骤为示意），其余是本项目设计的示例探究。每张海报 3 行：01 现象、02 探究、03 结论，小结框有拓展和安全提示，底部标注教材来源。只用公制单位和人民币。
+全套 24 个单元、70 课，每课一张海报。已完成 42 张（PNG + PDF，按年级放在 `海报/六年级/` 等子目录）：六年级 20、七年级 22、八年级 0；其中 28 张的第 02 行是 HMH 官方关联表里列出的 Hands-On Lab（教材活动，步骤为示意），其余是本项目设计的示例探究。每张海报 3 行：01 现象、02 探究、03 结论，小结框有拓展和安全提示，底部标注教材来源。只用公制单位和人民币。
 
 ### 六年级（20 张）
 
@@ -72,3 +72,67 @@
 |---|---|---|---|
 | 温度和热一样吗？ | 第1课 温度与热（Temperature and Heat）· 教材活动 | HMH Into Science 6–8 Physical Science Unit 2 第1课 · Houghton Mifflin Harcourt | [PNG](<海报/六年级/g6-ps2-l1-温度与热.png>) · [PDF](<海报/六年级/g6-ps2-l1-温度与热.pdf>) |
 | 怎样做保温容器？ | 第2课 工程：系统中的热传递（Engineer It: Thermal Energy Transfer in Systems）· 教材活动 | HMH Into Science 6–8 Physical Science Unit 2 第2课 · Houghton Mifflin Harcourt | [PNG](<海报/六年级/g6-ps2-l2-工程-系统中的热传递.png>) · [PDF](<海报/六年级/g6-ps2-l2-工程-系统中的热传递.pdf>) |
+
+### 七年级（22 张）
+
+#### 地球与空间科学 单元3 变动的地球（The Dynamic Earth）
+
+| 海报 | 课 | 教材来源 | 文件 |
+|---|---|---|---|
+| 地表为什么会变？ | 第1课 地质变化与地表过程（Geologic Change and Surface Processes）· 教材活动 | HMH Into Science 6–8 Earth and Space Sciences Unit 3 第1课 · Houghton Mifflin Harcourt | [PNG](<海报/七年级/g7-es3-l1-地质变化与地表过程.png>) · [PDF](<海报/七年级/g7-es3-l1-地质变化与地表过程.pdf>) |
+| 岩石怎样循环？ | 第2课 岩石循环（The Rock Cycle）· 教材活动 | HMH Into Science 6–8 Earth and Space Sciences Unit 3 第2课 · Houghton Mifflin Harcourt | [PNG](<海报/七年级/g7-es3-l2-岩石循环.png>) · [PDF](<海报/七年级/g7-es3-l2-岩石循环.pdf>) |
+| 板块怎样移动？ | 第3课 地球的板块（Earth's Plates）· 教材活动 | HMH Into Science 6–8 Earth and Space Sciences Unit 3 第3课 · Houghton Mifflin Harcourt | [PNG](<海报/七年级/g7-es3-l3-地球的板块.png>) · [PDF](<海报/七年级/g7-es3-l3-地球的板块.pdf>) |
+
+#### 地球与空间科学 单元5 地球的自然灾害（Earth's Natural Hazards）
+
+| 海报 | 课 | 教材来源 | 文件 |
+|---|---|---|---|
+| 灾害能预测吗？ | 第1课 自然灾害预测（Natural Hazard Prediction）· 教材活动 | HMH Into Science 6–8 Earth and Space Sciences Unit 5 第1课 · Houghton Mifflin Harcourt | [PNG](<海报/七年级/g7-es5-l1-自然灾害预测.png>) · [PDF](<海报/七年级/g7-es5-l1-自然灾害预测.pdf>) |
+| 怎样减轻灾害？ | 第2课 工程：减轻自然灾害（Engineer It: Reducing the Effects of Natural Hazards）· 教材活动 | HMH Into Science 6–8 Earth and Space Sciences Unit 5 第2课 · Houghton Mifflin Harcourt | [PNG](<海报/七年级/g7-es5-l2-工程-减轻自然灾害.png>) · [PDF](<海报/七年级/g7-es5-l2-工程-减轻自然灾害.pdf>) |
+
+#### 地球与空间科学 单元6 地球系统中的资源（Resources in Earth Systems）
+
+| 海报 | 课 | 教材来源 | 文件 |
+|---|---|---|---|
+| 自然资源从哪来？ | 第1课 自然资源（Natural Resources）· 教材活动 | HMH Into Science 6–8 Earth and Space Sciences Unit 6 第1课 · Houghton Mifflin Harcourt | [PNG](<海报/七年级/g7-es6-l1-自然资源.png>) · [PDF](<海报/七年级/g7-es6-l1-自然资源.pdf>) |
+
+#### 生命科学 单元3 生命系统中的物质与能量（Matter and Energy in Living Systems）
+
+| 海报 | 课 | 教材来源 | 文件 |
+|---|---|---|---|
+| 生物怎样获得能量？ | 第1课 生物体中的物质与能量（Matter and Energy in Organisms）· 教材活动 | HMH Into Science 6–8 Life Science Unit 3 第1课 · Houghton Mifflin Harcourt | [PNG](<海报/七年级/g7-ls3-l1-生物体中的物质与能量.png>) · [PDF](<海报/七年级/g7-ls3-l1-生物体中的物质与能量.pdf>) |
+| 资源影响生物吗？ | 第2课 资源多少影响生物（Resource Availability Affects Organisms）· 教材活动 | HMH Into Science 6–8 Life Science Unit 3 第2课 · Houghton Mifflin Harcourt | [PNG](<海报/七年级/g7-ls3-l2-资源多少影响生物.png>) · [PDF](<海报/七年级/g7-ls3-l2-资源多少影响生物.pdf>) |
+| 生物之间怎样相互作用？ | 第3课 生态系统中的相互作用（Interactions in Ecosystems）· 教材活动 | HMH Into Science 6–8 Life Science Unit 3 第3课 · Houghton Mifflin Harcourt | [PNG](<海报/七年级/g7-ls3-l3-生态系统中的相互作用.png>) · [PDF](<海报/七年级/g7-ls3-l3-生态系统中的相互作用.pdf>) |
+| 物质怎样循环？ | 第4课 生态系统中的物质与能量（Matter and Energy in Ecosystems）· 教材活动 | HMH Into Science 6–8 Life Science Unit 3 第4课 · Houghton Mifflin Harcourt | [PNG](<海报/七年级/g7-ls3-l4-生态系统中的物质与能量.png>) · [PDF](<海报/七年级/g7-ls3-l4-生态系统中的物质与能量.pdf>) |
+
+#### 生命科学 单元4 生态系统的动态（Ecosystem Dynamics）
+
+| 海报 | 课 | 教材来源 | 文件 |
+|---|---|---|---|
+| 生物多样性有多丰富？ | 第1课 生态系统中的生物多样性（Biodiversity in Ecosystems）· 示例探究 | HMH Into Science 6–8 Life Science Unit 4 第1课 · Houghton Mifflin Harcourt | [PNG](<海报/七年级/g7-ls4-l1-生态系统中的生物多样性.png>) · [PDF](<海报/七年级/g7-ls4-l1-生态系统中的生物多样性.pdf>) |
+| 生态系统怎样变化？ | 第2课 生态系统的变化（Changes in Ecosystems）· 示例探究 | HMH Into Science 6–8 Life Science Unit 4 第2课 · Houghton Mifflin Harcourt | [PNG](<海报/七年级/g7-ls4-l2-生态系统的变化.png>) · [PDF](<海报/七年级/g7-ls4-l2-生态系统的变化.pdf>) |
+| 怎样保护生物多样性？ | 第3课 工程：维护生物多样性（Engineer It: Maintaining Biodiversity）· 教材活动 | HMH Into Science 6–8 Life Science Unit 4 第3课 · Houghton Mifflin Harcourt | [PNG](<海报/七年级/g7-ls4-l3-工程-维护生物多样性.png>) · [PDF](<海报/七年级/g7-ls4-l3-工程-维护生物多样性.pdf>) |
+
+#### 物质科学 单元3 物质的结构（The Structure of Matter）
+
+| 海报 | 课 | 教材来源 | 文件 |
+|---|---|---|---|
+| 物质有哪些性质？ | 第1课 物质的性质（The Properties of Matter）· 示例探究 | HMH Into Science 6–8 Physical Science Unit 3 第1课 · Houghton Mifflin Harcourt | [PNG](<海报/七年级/g7-ps3-l1-物质的性质.png>) · [PDF](<海报/七年级/g7-ps3-l1-物质的性质.pdf>) |
+| 物质怎样变化状态？ | 第2课 状态的变化（Changes of State）· 教材活动 | HMH Into Science 6–8 Physical Science Unit 3 第2课 · Houghton Mifflin Harcourt | [PNG](<海报/七年级/g7-ps3-l2-状态的变化.png>) · [PDF](<海报/七年级/g7-ps3-l2-状态的变化.pdf>) |
+| 物质由什么组成？ | 第3课 原子和元素（Atoms and Elements）· 示例探究 | HMH Into Science 6–8 Physical Science Unit 3 第3课 · Houghton Mifflin Harcourt | [PNG](<海报/七年级/g7-ps3-l3-原子和元素.png>) · [PDF](<海报/七年级/g7-ps3-l3-原子和元素.pdf>) |
+| 分子和晶体 | 第4课 分子和延展结构（Molecules and Extended Structures）· 教材活动 | HMH Into Science 6–8 Physical Science Unit 3 第4课 · Houghton Mifflin Harcourt | [PNG](<海报/七年级/g7-ps3-l4-分子和延展结构.png>) · [PDF](<海报/七年级/g7-ps3-l4-分子和延展结构.pdf>) |
+
+#### 物质科学 单元4 化学过程与方程式（Chemical Processes and Equations）
+
+| 海报 | 课 | 教材来源 | 文件 |
+|---|---|---|---|
+| 什么是化学反应？ | 第1课 化学反应（Chemical Reactions）· 教材活动 | HMH Into Science 6–8 Physical Science Unit 4 第1课 · Houghton Mifflin Harcourt | [PNG](<海报/七年级/g7-ps4-l1-化学反应.png>) · [PDF](<海报/七年级/g7-ps4-l1-化学反应.pdf>) |
+| 化学方程式 | 第2课 化学方程式（Chemical Equations）· 教材活动 | HMH Into Science 6–8 Physical Science Unit 4 第2课 · Houghton Mifflin Harcourt | [PNG](<海报/七年级/g7-ps4-l2-化学方程式.png>) · [PDF](<海报/七年级/g7-ps4-l2-化学方程式.pdf>) |
+| 化学反应能放热吗？ | 第3课 工程：热能与化学过程（Engineer It: Thermal Energy and Chemical Processes）· 示例探究 | HMH Into Science 6–8 Physical Science Unit 4 第3课 · Houghton Mifflin Harcourt | [PNG](<海报/七年级/g7-ps4-l3-工程-热能与化学过程.png>) · [PDF](<海报/七年级/g7-ps4-l3-工程-热能与化学过程.pdf>) |
+
+#### 物质科学 单元5 材料的化学（The Chemistry of Materials）
+
+| 海报 | 课 | 教材来源 | 文件 |
+|---|---|---|---|
+| 天然和合成材料 | 第1课 天然材料和合成材料（Natural and Synthetic Materials）· 教材活动 | HMH Into Science 6–8 Physical Science Unit 5 第1课 · Houghton Mifflin Harcourt | [PNG](<海报/七年级/g7-ps5-l1-天然材料和合成材料.png>) · [PDF](<海报/七年级/g7-ps5-l1-天然材料和合成材料.pdf>) |
+| 合成材料的一生 | 第2课 工程：合成材料的生命周期（Engineer It: The Life Cycle of Synthetic Materials）· 教材活动 | HMH Into Science 6–8 Physical Science Unit 5 第2课 · Houghton Mifflin Harcourt | [PNG](<海报/七年级/g7-ps5-l2-工程-合成材料的生命周期.png>) · [PDF](<海报/七年级/g7-ps5-l2-工程-合成材料的生命周期.pdf>) |
