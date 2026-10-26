@@ -9,7 +9,7 @@
 
 ## 海报
 
-每个模块一张，全套 121 张。已完成 20 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个模块一张，全套 121 张。已完成 38 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 模块 | 课次 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -33,3 +33,21 @@
 | 写出 11 到 20 | 幼儿园 | 模块 18 写出 11 到 20（Place Value Foundations: Represent Numbers to 20 with a Written Numeral） | 18.1–18.4 课 | Into Math Grade K · Module 18（18.1–18.4 课） · HMH | [PNG](<海报/g0-m18-写出11到20.png>) · [PDF](<海报/g0-m18-写出11到20.pdf>) |
 | 长度和高度 | 幼儿园 | 模块 19 长度和高度（Length and Height） | 19.1–19.3 课 | Into Math Grade K · Module 19（19.1–19.3 课） · HMH | [PNG](<海报/g0-m19-长度和高度.png>) · [PDF](<海报/g0-m19-长度和高度.pdf>) |
 | 轻重 | 幼儿园 | 模块 20 轻重（Weight） | 20.1–20.3 课 | Into Math Grade K · Module 20（20.1–20.3 课） · HMH | [PNG](<海报/g0-m20-轻重.png>) · [PDF](<海报/g0-m20-轻重.pdf>) |
+| 加法策略 | 一年级 | 模块 1 加法策略（Addition Strategies） | 1.1–1.7 课 | Into Math Grade 1 · Module 1（1.1–1.7 课） · HMH | [PNG](<海报/g1-m01-加法策略.png>) · [PDF](<海报/g1-m01-加法策略.pdf>) |
+| 减法策略 | 一年级 | 模块 2 减法策略（Subtraction Strategies） | 2.1–2.6 课 | Into Math Grade 1 · Module 2（2.1–2.6 课） · HMH | [PNG](<海报/g1-m02-减法策略.png>) · [PDF](<海报/g1-m02-减法策略.pdf>) |
+| 运算的性质 | 一年级 | 模块 3 运算的性质（Properties of Operations） | 3.1–3.7 课 | Into Math Grade 1 · Module 3（3.1–3.7 课） · HMH | [PNG](<海报/g1-m03-运算的性质.png>) · [PDF](<海报/g1-m03-运算的性质.pdf>) |
+| 加减法的关系 | 一年级 | 模块 4 加减法的关系（Apply the Addition and Subtraction Relationship） | 4.1–4.7 课 | Into Math Grade 1 · Module 4（4.1–4.7 课） · HMH | [PNG](<海报/g1-m04-加减法的关系.png>) · [PDF](<海报/g1-m04-加减法的关系.pdf>) |
+| 添上和拿走的问题 | 一年级 | 模块 5 添上和拿走的问题（Understand Add To and Take From Problems） | 5.1–5.4 课 | Into Math Grade 1 · Module 5（5.1–5.4 课） · HMH | [PNG](<海报/g1-m05-添上和拿走的问题.png>) · [PDF](<海报/g1-m05-添上和拿走的问题.pdf>) |
+| 合起来和分开的问题 | 一年级 | 模块 6 合起来和分开的问题（Understand Put Together and Take Apart Problems） | 6.1–6.7 课 | Into Math Grade 1 · Module 6（6.1–6.7 课） · HMH | [PNG](<海报/g1-m06-合起来和分开的问题.png>) · [PDF](<海报/g1-m06-合起来和分开的问题.pdf>) |
+| 比较的问题 | 一年级 | 模块 7 比较的问题（Understand Compare Problems） | 7.1–7.7 课 | Into Math Grade 1 · Module 7（7.1–7.7 课） · HMH | [PNG](<海报/g1-m07-比较的问题.png>) · [PDF](<海报/g1-m07-比较的问题.pdf>) |
+| 数据 | 一年级 | 模块 8 数据（Data） | 8.1–8.7 课 | Into Math Grade 1 · Module 8（8.1–8.7 课） · HMH | [PNG](<海报/g1-m08-数据.png>) · [PDF](<海报/g1-m08-数据.pdf>) |
+| 理解位值 | 一年级 | 模块 9 理解位值（Understand Place Value） | 9.1–9.3 课 | Into Math Grade 1 · Module 9（9.1–9.3 课） · HMH | [PNG](<海报/g1-m09-理解位值.png>) · [PDF](<海报/g1-m09-理解位值.pdf>) |
+| 数和表示数 | 一年级 | 模块 10 数和表示数（Count and Represent Numbers） | 10.1–10.6 课 | Into Math Grade 1 · Module 10（10.1–10.6 课） · HMH | [PNG](<海报/g1-m10-数和表示数.png>) · [PDF](<海报/g1-m10-数和表示数.pdf>) |
+| 比较数的大小 | 一年级 | 模块 11 比较数的大小（Compare Numbers） | 11.1–11.4 课 | Into Math Grade 1 · Module 11（11.1–11.4 课） · HMH | [PNG](<海报/g1-m11-比较数的大小.png>) · [PDF](<海报/g1-m11-比较数的大小.pdf>) |
+| 十和一的加减 | 一年级 | 模块 12 十和一的加减（Understand Addition and Subtraction with Tens and Ones） | 12.1–12.8 课 | Into Math Grade 1 · Module 12（12.1–12.8 课） · HMH | [PNG](<海报/g1-m12-十和一的加减.png>) · [PDF](<海报/g1-m12-十和一的加减.pdf>) |
+| 两位数加减法 | 一年级 | 模块 13 两位数加减法（Two-Digit Addition and Subtraction） | 13.1–13.6 课 | Into Math Grade 1 · Module 13（13.1–13.6 课） · HMH | [PNG](<海报/g1-m13-两位数加减法.png>) · [PDF](<海报/g1-m13-两位数加减法.pdf>) |
+| 立体图形 | 一年级 | 模块 14 立体图形（Three-Dimensional Shapes） | 14.1–14.3 课 | Into Math Grade 1 · Module 14（14.1–14.3 课） · HMH | [PNG](<海报/g1-m14-立体图形.png>) · [PDF](<海报/g1-m14-立体图形.pdf>) |
+| 平面图形 | 一年级 | 模块 15 平面图形（Two-Dimensional Shapes） | 15.1–15.5 课 | Into Math Grade 1 · Module 15（15.1–15.5 课） · HMH | [PNG](<海报/g1-m15-平面图形.png>) · [PDF](<海报/g1-m15-平面图形.pdf>) |
+| 分数的基础 | 一年级 | 模块 16 分数的基础（Fraction Foundations） | 16.1–16.4 课 | Into Math Grade 1 · Module 16（16.1–16.4 课） · HMH | [PNG](<海报/g1-m16-分数的基础.png>) · [PDF](<海报/g1-m16-分数的基础.pdf>) |
+| 测量长度 | 一年级 | 模块 17 测量长度（Measure Length） | 17.1–17.4 课 | Into Math Grade 1 · Module 17（17.1–17.4 课） · HMH | [PNG](<海报/g1-m17-测量长度.png>) · [PDF](<海报/g1-m17-测量长度.pdf>) |
+| 认识时间 | 一年级 | 模块 18 认识时间（Measure Time） | 18.1–18.4 课 | Into Math Grade 1 · Module 18（18.1–18.4 课） · HMH | [PNG](<海报/g1-m18-认识时间.png>) · [PDF](<海报/g1-m18-认识时间.pdf>) |
