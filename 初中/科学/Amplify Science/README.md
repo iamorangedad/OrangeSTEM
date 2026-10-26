@@ -9,7 +9,7 @@
 
 ## 海报
 
-全套 27 个单元。启动单元和核心单元共 80 章，每章一张海报；6 个工程实习单元不分章，每个单元一张海报。共 86 张，已完成 57 张（PNG + PDF）：六年级 28、七年级 29、八年级 0。每张海报用 01/02/03 三步画出这一章的锚定问题和关键课（标注课号），底部标注教材来源。海报只用公制单位和人民币，需要注意安全的地方写在小结框里。
+全套 27 个单元。启动单元和核心单元共 80 章，每章一张海报；6 个工程实习单元不分章，每个单元一张海报。共 86 张，已完成 86 张（PNG + PDF）：六年级 28、七年级 29、八年级 29。每张海报用 01/02/03 三步画出这一章的锚定问题和关键课（标注课号），底部标注教材来源。海报只用公制单位和人民币，需要注意安全的地方写在小结框里。
 
 | 海报 | 年级 | 单元 | 章 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -70,3 +70,32 @@
 | 二氧化碳为何减少？ | 七年级 | 生态系统中的物质与能量（Matter and Energy in Ecosystems） | 第2章 是什么让生物穹顶空气（非生物物质）中的二氧化碳减少了？ | Amplify Science Grade 7 Matter and Energy in Ecosystems 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g7-mee-c2-细胞呼吸.png>) · [PDF](<海报/g7-mee-c2-细胞呼吸.pdf>) |
 | 空气里的碳去哪了？ | 七年级 | 生态系统中的物质与能量（Matter and Energy in Ecosystems） | 第3章 原来在生物穹顶空气（非生物物质）中的碳去了哪里？ | Amplify Science Grade 7 Matter and Energy in Ecosystems 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g7-mee-c3-碳的移动.png>) · [PDF](<海报/g7-mee-c3-碳的移动.pdf>) |
 | 砍伐森林为何增碳？ | 七年级 | 生态系统中的物质与能量（Matter and Energy in Ecosystems） | 第4章 一群农民砍掉森林开垦农田后，发现空气中的二氧化碳增加了。是砍伐森林造成的吗？ | Amplify Science Grade 7 Matter and Energy in Ecosystems 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g7-mee-c4-科学研讨会.png>) · [PDF](<海报/g7-mee-c4-科学研讨会.pdf>) |
+| 什么是能量？ | 八年级 | 利用人体能量（Harnessing Human Energy） | 第1章 什么是能量？它对救援队为什么重要？ | Amplify Science Grade 8 Harnessing Human Energy 第1章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g8-hhe-c1-什么是能量.png>) · [PDF](<海报/g8-hhe-c1-什么是能量.pdf>) |
+| 怎样给电池送能量？ | 八年级 | 利用人体能量（Harnessing Human Energy） | 第2章 救援人员执行任务时，怎样把能量送进设备的电池？ | Amplify Science Grade 8 Harnessing Human Energy 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g8-hhe-c2-救援队的能量需求.png>) · [PDF](<海报/g8-hhe-c2-救援队的能量需求.pdf>) |
+| 怎样收集运动能量？ | 八年级 | 利用人体能量（Harnessing Human Energy） | 第3章 救援人员在任务中，怎样最好地收集身体运动的能量？ | Amplify Science Grade 8 Harnessing Human Energy 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g8-hhe-c3-设计能量方案.png>) · [PDF](<海报/g8-hhe-c3-设计能量方案.pdf>) |
+| 舱为何改变方向？ | 八年级 | 力与运动（Force and Motion） | 第1章 是什么让舱改变了方向？ | Amplify Science Grade 8 Force and Motion 第1章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g8-fam-c1-力与速度.png>) · [PDF](<海报/g8-fam-c1-力与速度.pdf>) |
+| 同样的力为何不同？ | 八年级 | 力与运动（Force and Motion） | 第2章 ACM 舱推进器的力和其他舱一样大，为什么它的运动不一样？ | Amplify Science Grade 8 Force and Motion 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g8-fam-c2-质量与速度.png>) · [PDF](<海报/g8-fam-c2-质量与速度.pdf>) |
+| 碰撞后谁怎样动？ | 八年级 | 力与运动（Force and Motion） | 第3章 碰撞之后，舱的运动和空间站的运动相比怎样？ | Amplify Science Grade 8 Force and Motion 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g8-fam-c3-碰撞.png>) · [PDF](<海报/g8-fam-c3-碰撞.pdf>) |
+| 车为何掉下悬崖？ | 八年级 | 力与运动（Force and Motion） | 第4章 为什么在克莱尔的碰撞测试里 2 号车掉下了悬崖，在电影《冰雪世界复仇》里却没有？ | Amplify Science Grade 8 Force and Motion 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g8-fam-c4-电影布景中的力.png>) · [PDF](<海报/g8-fam-c4-电影布景中的力.pdf>) |
+| 设计物资空投舱 | 八年级 | 力与运动工程实习（Force and Motion Engineering Internship） | 工程实习（10课） 怎样设计空投舱，让货物损坏少、舱壳完好、成本低？ | Amplify Science Grade 8 Force and Motion Engineering Internship: Pods for Emergency Supplies · Amplify / Lawrence Hall of Science | [PNG](<海报/g8-famei-c1-物资空投舱.png>) · [PDF](<海报/g8-famei-c1-物资空投舱.pdf>) |
+| 不接触怎样推动？ | 八年级 | 磁场（Magnetic Fields） | 第1章 发射器怎样不接触就让飞船模型动起来？ | Amplify Science Grade 8 Magnetic Fields 第1章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g8-mf-c1-磁力建模.png>) · [PDF](<海报/g8-mf-c1-磁力建模.pdf>) |
+| 发射能量从哪来？ | 八年级 | 磁场（Magnetic Fields） | 第2章 发射飞船模型的能量是从哪里来的？ | Amplify Science Grade 8 Magnetic Fields 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g8-mf-c2-势能.png>) · [PDF](<海报/g8-mf-c2-势能.pdf>) |
+| 周三势能为何更多？ | 八年级 | 磁场（Magnetic Fields） | 第3章 为什么周三发射器系统里储存的势能比周二多得多？ | Amplify Science Grade 8 Magnetic Fields 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g8-mf-c3-磁力的强度.png>) · [PDF](<海报/g8-mf-c3-磁力的强度.pdf>) |
+| 哪种设计最快？ | 八年级 | 磁场（Magnetic Fields） | 第4章 哪种设计能让过山车车厢发射得最快？ | Amplify Science Grade 8 Magnetic Fields 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g8-mf-c4-设计过山车.png>) · [PDF](<海报/g8-mf-c4-设计过山车.pdf>) |
+| 阳光怎样引起皮肤癌？ | 八年级 | 光波（Light Waves） | 第1章 阳光怎样引起皮肤癌？ | Amplify Science Grade 8 Light Waves 第1章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g8-lw-c1-光引起的变化.png>) · [PDF](<海报/g8-lw-c1-光引起的变化.pdf>) |
+| 同样阳光为何不同？ | 八年级 | 光波（Light Waves） | 第2章 同样多的阳光，为什么皮肤癌发病率会不同？ | Amplify Science Grade 8 Light Waves 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g8-lw-c2-光是一种波.png>) · [PDF](<海报/g8-lw-c2-光是一种波.pdf>) |
+| 澳洲紫外线为何多？ | 八年级 | 光波（Light Waves） | 第3章 为什么澳大利亚接收到的紫外线比世界其他地区多？ | Amplify Science Grade 8 Light Waves 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g8-lw-c3-光的更多作用.png>) · [PDF](<海报/g8-lw-c3-光的更多作用.pdf>) |
+| 海底的蟹看得见吗？ | 八年级 | 光波（Light Waves） | 第4章 虚构的澳大利亚海洋生物研究所知道一种住在海底附近的蟹吃浮游生物，但海底可见光很弱。这种蟹能看见它吃的浮游生物吗？ | Amplify Science Grade 8 Light Waves 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g8-lw-c4-科学研讨会.png>) · [PDF](<海报/g8-lw-c4-科学研讨会.pdf>) |
+| 月球为何有明暗线？ | 八年级 | 地球、月球与太阳（Earth, Moon, and Sun） | 第1章 为什么月球上有明暗分界线？ | Amplify Science Grade 8 Earth, Moon, and Sun 第1章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g8-ems-c1-月球的明与暗.png>) · [PDF](<海报/g8-ems-c1-月球的明与暗.pdf>) |
+| 明暗线为何会移动？ | 八年级 | 地球、月球与太阳（Earth, Moon, and Sun） | 第2章 为什么月球上明暗分界线的位置会变？ | Amplify Science Grade 8 Earth, Moon, and Sun 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g8-ems-c2-月相.png>) · [PDF](<海报/g8-ems-c2-月相.pdf>) |
+| 月食怎样发生？ | 八年级 | 地球、月球与太阳（Earth, Moon, and Sun） | 第3章 发生月食需要什么条件？ | Amplify Science Grade 8 Earth, Moon, and Sun 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g8-ems-c3-月食.png>) · [PDF](<海报/g8-ems-c3-月食.pdf>) |
+| 双星行星有月食吗？ | 八年级 | 地球、月球与太阳（Earth, Moon, and Sun） | 第4章 开普勒-47c 是一颗绕一对双星运行的行星。它的卫星会发生月食吗？ | Amplify Science Grade 8 Earth, Moon, and Sun 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g8-ems-c4-科学研讨会.png>) · [PDF](<海报/g8-ems-c4-科学研讨会.pdf>) |
+| 蝾螈为何更毒了？ | 八年级 | 自然选择（Natural Selection） | 第1章 是什么让这个蝾螈种群毒性变强了？ | Amplify Science Grade 8 Natural Selection 第1章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g8-ns-c1-环境与性状.png>) · [PDF](<海报/g8-ns-c1-环境与性状.pdf>) |
+| 高毒为何变常见？ | 八年级 | 自然选择（Natural Selection） | 第2章 高毒性状是怎样在蝾螈种群里变得常见的？ | Amplify Science Grade 8 Natural Selection 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g8-ns-c2-选择与繁殖.png>) · [PDF](<海报/g8-ns-c2-选择与繁殖.pdf>) |
+| 新性状从哪里来？ | 八年级 | 自然选择（Natural Selection） | 第3章 一个原来没有的毒性性状，怎样变成了蝾螈种群里最常见的性状？ | Amplify Science Grade 8 Natural Selection 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g8-ns-c3-突变与适应.png>) · [PDF](<海报/g8-ns-c3-突变与适应.pdf>) |
+| 刺鱼为何变了？ | 八年级 | 自然选择（Natural Selection） | 第4章 刺鱼来到阿拉斯加一个从没有过刺鱼的湖里，几代以后护甲变少、游得更快。这是为了更好地躲避捕食者，还是为了更好地捕食？ | Amplify Science Grade 8 Natural Selection 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g8-ns-c4-科学研讨会.png>) · [PDF](<海报/g8-ns-c4-科学研讨会.pdf>) |
+| 设计疟疾治疗方案 | 八年级 | 自然选择工程实习（Natural Selection Engineering Internship） | 工程实习（10课） 怎样设计疟疾治疗方案，让耐药性少、副作用小、成本低？ | Amplify Science Grade 8 Natural Selection Engineering Internship: Fighting Drug-Resistant Malaria · Amplify / Lawrence Hall of Science | [PNG](<海报/g8-nsei-c1-耐药疟疾.png>) · [PDF](<海报/g8-nsei-c1-耐药疟疾.pdf>) |
+| 新化石该放哪里？ | 八年级 | 演化史（Evolutionary History） | 第1章 这块新化石应该放在博物馆的哪个区域？ | Amplify Science Grade 8 Evolutionary History 第1章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g8-eh-c1-物种的相似.png>) · [PDF](<海报/g8-eh-c1-物种的相似.pdf>) |
+| 怎样变得这么不同？ | 八年级 | 演化史（Evolutionary History） | 第2章 狼、鲸和神秘化石，怎样变得和它们的共同祖先差别这么大？ | Amplify Science Grade 8 Evolutionary History 第2章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g8-eh-c2-身体结构的差异.png>) · [PDF](<海报/g8-eh-c2-身体结构的差异.pdf>) |
+| 更像狼还是像鲸？ | 八年级 | 演化史（Evolutionary History） | 第3章 怎样判断神秘化石和狼更近，还是和鲸更近？ | Amplify Science Grade 8 Evolutionary History 第3章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g8-eh-c3-亲缘关系.png>) · [PDF](<海报/g8-eh-c3-亲缘关系.pdf>) |
+| 托梅蒂化石像谁？ | 八年级 | 演化史（Evolutionary History） | 第4章 托梅蒂化石以在中国发现的中华龙鸟化石为原型。它和鸵鸟更近，还是和鳄鱼更近？这三个物种是什么关系？ | Amplify Science Grade 8 Evolutionary History 第4章 · Amplify / Lawrence Hall of Science | [PNG](<海报/g8-eh-c4-科学研讨会.png>) · [PDF](<海报/g8-eh-c4-科学研讨会.pdf>) |
