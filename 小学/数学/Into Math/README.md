@@ -9,7 +9,7 @@
 
 ## 海报
 
-每个模块一张，全套 121 张。已完成 80 张（PNG + PDF），每张海报底部都标注了教材来源。
+每个模块一张，全套 121 张。已完成 101 张（PNG + PDF），每张海报底部都标注了教材来源。
 
 | 海报 | 年级 | 模块 | 课次 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -93,3 +93,24 @@
 | 表示与解读数据 | 三年级 | 模块 18 表示与解读数据（Represent and Interpret Data） | 18.1–18.7 课 | Into Math Grade 3 · Module 18（18.1–18.7 课） · HMH | [PNG](<海报/g3-m18-表示与解读数据.png>) · [PDF](<海报/g3-m18-表示与解读数据.pdf>) |
 | 定义平面图形 | 三年级 | 模块 19 定义平面图形（Define Two-Dimensional Shapes） | 19.1–19.4 课 | Into Math Grade 3 · Module 19（19.1–19.4 课） · HMH | [PNG](<海报/g3-m19-定义平面图形.png>) · [PDF](<海报/g3-m19-定义平面图形.pdf>) |
 | 平面图形分类 | 三年级 | 模块 20 平面图形分类（Categorize Two-Dimensional Shapes） | 20.1–20.3 课 | Into Math Grade 3 · Module 20（20.1–20.3 课） · HMH | [PNG](<海报/g3-m20-平面图形分类.png>) · [PDF](<海报/g3-m20-平面图形分类.pdf>) |
+| 整数的位值 | 四年级 | 模块 1 整数的位值（Place Value of Whole Numbers） | 1.1–1.5 课 | Into Math Grade 4 · Module 1（1.1–1.5 课） · HMH | [PNG](<海报/g4-m01-整数的位值.png>) · [PDF](<海报/g4-m01-整数的位值.pdf>) |
+| 整数加减法 | 四年级 | 模块 2 整数加减法（Addition and Subtraction of Whole Numbers） | 2.1–2.4 课 | Into Math Grade 4 · Module 2（2.1–2.4 课） · HMH | [PNG](<海报/g4-m02-整数加减法.png>) · [PDF](<海报/g4-m02-整数加减法.pdf>) |
+| 理解问题情境 | 四年级 | 模块 3 理解问题情境（Interpret and Solve Problem Situations） | 3.1–3.5 课 | Into Math Grade 4 · Module 3（3.1–3.5 课） · HMH | [PNG](<海报/g4-m03-理解问题情境.png>) · [PDF](<海报/g4-m03-理解问题情境.pdf>) |
+| 心算与估算 | 四年级 | 模块 4 心算与估算（Mental Math and Estimation Strategies） | 4.1–4.5 课 | Into Math Grade 4 · Module 4（4.1–4.5 课） · HMH | [PNG](<海报/g4-m04-心算与估算.png>) · [PDF](<海报/g4-m04-心算与估算.pdf>) |
+| 乘一位数 | 四年级 | 模块 5 乘一位数（Multiply by 1-Digit Numbers） | 5.1–5.7 课 | Into Math Grade 4 · Module 5（5.1–5.7 课） · HMH | [PNG](<海报/g4-m05-乘一位数.png>) · [PDF](<海报/g4-m05-乘一位数.pdf>) |
+| 理解除以一位数 | 四年级 | 模块 6 理解除以一位数（Understand Division by 1-Digit Numbers） | 6.1–6.6 课 | Into Math Grade 4 · Module 6（6.1–6.6 课） · HMH | [PNG](<海报/g4-m06-理解除以一位数.png>) · [PDF](<海报/g4-m06-理解除以一位数.pdf>) |
+| 除以一位数 | 四年级 | 模块 7 除以一位数（Divide by 1-Digit Numbers） | 7.1–7.4 课 | Into Math Grade 4 · Module 7（7.1–7.4 课） · HMH | [PNG](<海报/g4-m07-除以一位数.png>) · [PDF](<海报/g4-m07-除以一位数.pdf>) |
+| 乘两位数 | 四年级 | 模块 8 乘两位数（Multiply by 2-Digit Numbers） | 8.1–8.7 课 | Into Math Grade 4 · Module 8（8.1–8.7 课） · HMH | [PNG](<海报/g4-m08-乘两位数.png>) · [PDF](<海报/g4-m08-乘两位数.pdf>) |
+| 乘法与面积 | 四年级 | 模块 9 乘法与面积（Apply Multiplication to Area） | 9.1–9.4 课 | Into Math Grade 4 · Module 9（9.1–9.4 课） · HMH | [PNG](<海报/g4-m09-乘法与面积.png>) · [PDF](<海报/g4-m09-乘法与面积.pdf>) |
+| 因数、倍数与规律 | 四年级 | 模块 10 因数、倍数与规律（Algebraic Thinking: Number Theory） | 10.1–10.5 课 | Into Math Grade 4 · Module 10（10.1–10.5 课） · HMH | [PNG](<海报/g4-m10-因数倍数与规律.png>) · [PDF](<海报/g4-m10-因数倍数与规律.pdf>) |
+| 分数的等值与比较 | 四年级 | 模块 11 分数的等值与比较（Fraction Equivalence and Comparison） | 11.1–11.7 课 | Into Math Grade 4 · Module 11（11.1–11.7 课） · HMH | [PNG](<海报/g4-m11-分数的等值与比较.png>) · [PDF](<海报/g4-m11-分数的等值与比较.pdf>) |
+| 分数与小数 | 四年级 | 模块 12 分数与小数（Relate Fractions and Decimals） | 12.1–12.6 课 | Into Math Grade 4 · Module 12（12.1–12.6 课） · HMH | [PNG](<海报/g4-m12-分数与小数.png>) · [PDF](<海报/g4-m12-分数与小数.pdf>) |
+| 用分数理解角 | 四年级 | 模块 13 用分数理解角（Use Fractions to Understand Angles） | 13.1–13.7 课 | Into Math Grade 4 · Module 13（13.1–13.7 课） · HMH | [PNG](<海报/g4-m13-用分数理解角.png>) · [PDF](<海报/g4-m13-用分数理解角.pdf>) |
+| 同分母分数加减 | 四年级 | 模块 14 同分母分数加减（Understand Addition and Subtraction of Fractions with Like Denominators） | 14.1–14.6 课 | Into Math Grade 4 · Module 14（14.1–14.6 课） · HMH | [PNG](<海报/g4-m14-同分母分数加减.png>) · [PDF](<海报/g4-m14-同分母分数加减.pdf>) |
+| 同分母带分数加减 | 四年级 | 模块 15 同分母带分数加减（Add and Subtract Fractions and Mixed Numbers with Like Denominators） | 15.1–15.6 课 | Into Math Grade 4 · Module 15（15.1–15.6 课） · HMH | [PNG](<海报/g4-m15-同分母带分数加减.png>) · [PDF](<海报/g4-m15-同分母带分数加减.pdf>) |
+| 分数乘整数 | 四年级 | 模块 16 分数乘整数（Multiply Fractions by Whole Numbers） | 16.1–16.4 课 | Into Math Grade 4 · Module 16（16.1–16.4 课） · HMH | [PNG](<海报/g4-m16-分数乘整数.png>) · [PDF](<海报/g4-m16-分数乘整数.pdf>) |
+| 平面图形 | 四年级 | 模块 17 平面图形（Two-Dimensional Figures） | 17.1–17.5 课 | Into Math Grade 4 · Module 17（17.1–17.5 课） · HMH | [PNG](<海报/g4-m17-平面图形.png>) · [PDF](<海报/g4-m17-平面图形.pdf>) |
+| 对称与规律 | 四年级 | 模块 18 对称与规律（Symmetry and Patterns） | 18.1–18.3 课 | Into Math Grade 4 · Module 18（18.1–18.3 课） · HMH | [PNG](<海报/g4-m18-对称与规律.png>) · [PDF](<海报/g4-m18-对称与规律.pdf>) |
+| 测量单位的大小 | 四年级 | 模块 19 测量单位的大小（Relative Sizes of Customary Measurement Units） | 19.1–19.5 课 | Into Math Grade 4 · Module 19（19.1–19.5 课） · HMH | [PNG](<海报/g4-m19-测量单位的大小.png>) · [PDF](<海报/g4-m19-测量单位的大小.pdf>) |
+| 公制单位的大小 | 四年级 | 模块 20 公制单位的大小（Relative Sizes of Metric Measurement Units） | 20.1–20.4 课 | Into Math Grade 4 · Module 20（20.1–20.4 课） · HMH | [PNG](<海报/g4-m20-公制单位的大小.png>) · [PDF](<海报/g4-m20-公制单位的大小.pdf>) |
+| 时间与测量问题 | 四年级 | 模块 21 时间与测量问题（Solve Problems with Time and Measurement） | 21.1–21.4 课 | Into Math Grade 4 · Module 21（21.1–21.4 课） · HMH | [PNG](<海报/g4-m21-时间与测量问题.png>) · [PDF](<海报/g4-m21-时间与测量问题.pdf>) |
