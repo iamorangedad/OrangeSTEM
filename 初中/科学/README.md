@@ -7,3 +7,4 @@
 | [FOSS](FOSS/) | Lawrence Hall of Science / Delta Education | 74 |
 | [Elevate Science](Elevate%20Science/) | Savvas | 118 |
 | [Into Science](Into%20Science/) | Houghton Mifflin Harcourt (HMH) | 70 |
+| [STEMscopes](STEMscopes/) | Accelerate Learning | 60 |

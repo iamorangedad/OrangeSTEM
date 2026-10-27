@@ -9,7 +9,7 @@
 
 ## 海报
 
-综合版共 12 个单元、60 个不同的 Scope（「动能」和「人类对环境的影响」在六、八年级重复出现，只在六年级出海报），每个 Scope 一张海报。已完成 39 张（PNG + PDF，按年级放在 `海报/六年级/` 等子目录）：六年级 16、七年级 23、八年级 0；其中教材活动 4 张、示例探究 35 张。每张海报 3 行对应 5E 的 Engage（现象）、Explore（探究）、Explain（结论），小结框里的「拓展」对应 Elaborate，有安全提示，底部标注教材来源。只用公制单位和人民币。
+综合版共 12 个单元、60 个不同的 Scope（「动能」和「人类对环境的影响」在六、八年级重复出现，只在六年级出海报），每个 Scope 一张海报。已完成 60 张（PNG + PDF，按年级放在 `海报/六年级/` 等子目录）：六年级 16、七年级 23、八年级 21；其中教材活动 5 张、示例探究 55 张。每张海报 3 行对应 5E 的 Engage（现象）、Explore（探究）、Explain（结论），小结框里的「拓展」对应 Elaborate，有安全提示，底部标注教材来源。只用公制单位和人民币。
 
 ### 六年级（16 张）
 
@@ -93,3 +93,48 @@
 | 石头怎样变成沙？ | 第4章 风化与侵蚀（Weathering & Erosion） | 示例探究 | STEMscopes Grade 7 Weathering & Erosion · Accelerate Learning | [PNG](<海报/七年级/g7-b4-s4-风化与侵蚀.png>) · [PDF](<海报/七年级/g7-b4-s4-风化与侵蚀.pdf>) |
 | 地震能预测吗？ | 第5章 自然灾害预测（Natural Hazard Predictions） | 示例探究 | STEMscopes Grade 7 Natural Hazard Predictions · Accelerate Learning | [PNG](<海报/七年级/g7-b4-s5-自然灾害预测.png>) · [PDF](<海报/七年级/g7-b4-s5-自然灾害预测.pdf>) |
 | 塑料从哪里来？ | 第6章 合成材料（Synthetic Materials） | 示例探究 | STEMscopes Grade 7 Synthetic Materials · Accelerate Learning | [PNG](<海报/七年级/g7-b4-s6-合成材料.png>) · [PDF](<海报/七年级/g7-b4-s6-合成材料.pdf>) |
+
+### 八年级（21 张）
+
+#### 单元1 物体的运动与碰撞（Objects Move and Collide）
+
+| 海报 | 章（Scope） | 活动类型 | 教材来源 | 文件 |
+|---|---|---|---|---|
+| 踢球为什么脚会疼？ | 第1章 牛顿第三定律（Newton's Third Law of Motion） | 教材活动 | STEMscopes Grade 8 Newton's Third Law of Motion · Accelerate Learning | [PNG](<海报/八年级/g8-b1-s1-牛顿第三定律.png>) · [PDF](<海报/八年级/g8-b1-s1-牛顿第三定律.pdf>) |
+| 怎样让小车更快？ | 第2章 力与运动的变化（Changes in Force & Motion） | 示例探究 | STEMscopes Grade 8 Changes in Force & Motion · Accelerate Learning | [PNG](<海报/八年级/g8-b1-s2-力与运动的变化.png>) · [PDF](<海报/八年级/g8-b1-s2-力与运动的变化.pdf>) |
+| 月球上为何跳得高？ | 第3章 引力（Gravitational Forces） | 示例探究 | STEMscopes Grade 8 Gravitational Forces · Accelerate Learning | [PNG](<海报/八年级/g8-b1-s3-引力.png>) · [PDF](<海报/八年级/g8-b1-s3-引力.pdf>) |
+| — | 第4章 动能（Kinetic Energy） | 与六年级单元2第3章相同 | — | 见六年级 |
+
+#### 单元2 非接触力影响现象（Noncontact Forces Influence Phenomena）
+
+| 海报 | 章（Scope） | 活动类型 | 教材来源 | 文件 |
+|---|---|---|---|---|
+| 能量藏在哪里？ | 第1章 势能（Potential Energy） | 示例探究 | STEMscopes Grade 8 Potential Energy · Accelerate Learning | [PNG](<海报/八年级/g8-b2-s1-势能.png>) · [PDF](<海报/八年级/g8-b2-s1-势能.pdf>) |
+| 日食怎样发生？ | 第2章 地球、太阳和月球系统（Earth, Sun, & Moon System） | 示例探究 | STEMscopes Grade 8 Earth, Sun, & Moon System · Accelerate Learning | [PNG](<海报/八年级/g8-b2-s2-地球-太阳和月球系统.png>) · [PDF](<海报/八年级/g8-b2-s2-地球-太阳和月球系统.pdf>) |
+| 星系怎样形成？ | 第3章 星系的形成与运动（Formation & Motion of Galaxies） | 示例探究 | STEMscopes Grade 8 Formation & Motion of Galaxies · Accelerate Learning | [PNG](<海报/八年级/g8-b2-s3-星系的形成与运动.png>) · [PDF](<海报/八年级/g8-b2-s3-星系的形成与运动.pdf>) |
+| 太阳系有多大？ | 第4章 太阳系（The Solar System） | 示例探究 | STEMscopes Grade 8 The Solar System · Accelerate Learning | [PNG](<海报/八年级/g8-b2-s4-太阳系.png>) · [PDF](<海报/八年级/g8-b2-s4-太阳系.pdf>) |
+| 电磁铁怎样更强？ | 第5章 电力与磁力（Electric & Magnetic Forces） | 示例探究 | STEMscopes Grade 8 Electric & Magnetic Forces · Accelerate Learning | [PNG](<海报/八年级/g8-b2-s5-电力与磁力.png>) · [PDF](<海报/八年级/g8-b2-s5-电力与磁力.pdf>) |
+
+#### 单元3 进化解释生命的统一性和多样性（Evolution Explains Life's Unity and Diversity）
+
+| 海报 | 章（Scope） | 活动类型 | 教材来源 | 文件 |
+|---|---|---|---|---|
+| 哪层岩石最老？ | 第1章 地球的地质历史（Geologic History of Earth） | 示例探究 | STEMscopes Grade 8 Geologic History of Earth · Accelerate Learning | [PNG](<海报/八年级/g8-b3-s1-地球的地质历史.png>) · [PDF](<海报/八年级/g8-b3-s1-地球的地质历史.pdf>) |
+| 化石讲了什么？ | 第2章 化石记录（Fossil Record） | 示例探究 | STEMscopes Grade 8 Fossil Record · Accelerate Learning | [PNG](<海报/八年级/g8-b3-s2-化石记录.png>) · [PDF](<海报/八年级/g8-b3-s2-化石记录.pdf>) |
+| 胚胎为何很像？ | 第3章 胚胎的相似性（Embryonic Similarities） | 示例探究 | STEMscopes Grade 8 Embryonic Similarities · Accelerate Learning | [PNG](<海报/八年级/g8-b3-s3-胚胎的相似性.png>) · [PDF](<海报/八年级/g8-b3-s3-胚胎的相似性.pdf>) |
+| 鲸和蝙蝠是亲戚？ | 第4章 进化历史与亲缘关系（Evolutionary History & Relationships） | 示例探究 | STEMscopes Grade 8 Evolutionary History & Relationships · Accelerate Learning | [PNG](<海报/八年级/g8-b3-s4-进化历史与亲缘关系.png>) · [PDF](<海报/八年级/g8-b3-s4-进化历史与亲缘关系.pdf>) |
+| 谁更容易活下来？ | 第5章 自然选择（Natural Selection） | 示例探究 | STEMscopes Grade 8 Natural Selection · Accelerate Learning | [PNG](<海报/八年级/g8-b3-s5-自然选择.png>) · [PDF](<海报/八年级/g8-b3-s5-自然选择.pdf>) |
+| 基因怎样决定性状？ | 第6章 基因与蛋白质（Genes & Proteins） | 示例探究 | STEMscopes Grade 8 Genes & Proteins · Accelerate Learning | [PNG](<海报/八年级/g8-b3-s6-基因与蛋白质.png>) · [PDF](<海报/八年级/g8-b3-s6-基因与蛋白质.pdf>) |
+| 基因改变会怎样？ | 第7章 突变（Mutations） | 示例探究 | STEMscopes Grade 8 Mutations · Accelerate Learning | [PNG](<海报/八年级/g8-b3-s7-突变.png>) · [PDF](<海报/八年级/g8-b3-s7-突变.pdf>) |
+| 白菜家族怎样来？ | 第8章 人工选择（Artificial Selection） | 示例探究 | STEMscopes Grade 8 Artificial Selection · Accelerate Learning | [PNG](<海报/八年级/g8-b3-s8-人工选择.png>) · [PDF](<海报/八年级/g8-b3-s8-人工选择.pdf>) |
+
+#### 单元4 维持本地和全球生物多样性（Sustaining Local and Global Biodiversity）
+
+| 海报 | 章（Scope） | 活动类型 | 教材来源 | 文件 |
+|---|---|---|---|---|
+| 波有什么特点？ | 第2章 波的性质入门（Introduction to Properties of Waves） | 示例探究 | STEMscopes Grade 8 Introduction to Properties of Waves · Accelerate Learning | [PNG](<海报/八年级/g8-b4-s2-波的性质入门.png>) · [PDF](<海报/八年级/g8-b4-s2-波的性质入门.pdf>) |
+| 声音在哪里传得快？ | 第3章 波在不同介质中传播（Modeling Waves Through Various Mediums） | 示例探究 | STEMscopes Grade 8 Modeling Waves Through Various Mediums · Accelerate Learning | [PNG](<海报/八年级/g8-b4-s3-波在不同介质中传播.png>) · [PDF](<海报/八年级/g8-b4-s3-波在不同介质中传播.pdf>) |
+| 光碰到物体会怎样？ | 第4章 可见光的性质（Properties of Visible Light） | 示例探究 | STEMscopes Grade 8 Properties of Visible Light · Accelerate Learning | [PNG](<海报/八年级/g8-b4-s4-可见光的性质.png>) · [PDF](<海报/八年级/g8-b4-s4-可见光的性质.pdf>) |
+| 彩虹从哪里来？ | 第5章 光波建模（Modeling Light Waves） | 示例探究 | STEMscopes Grade 8 Modeling Light Waves · Accelerate Learning | [PNG](<海报/八年级/g8-b4-s5-光波建模.png>) · [PDF](<海报/八年级/g8-b4-s5-光波建模.pdf>) |
+| 手机怎样传信息？ | 第6章 数字信号与模拟信号（Digital vs Analog Signals） | 示例探究 | STEMscopes Grade 8 Digital vs Analog Signals · Accelerate Learning | [PNG](<海报/八年级/g8-b4-s6-数字信号与模拟信号.png>) · [PDF](<海报/八年级/g8-b4-s6-数字信号与模拟信号.pdf>) |
+| — | 第1章 人类对环境的影响（Human Impact on the Environment） | 与六年级单元4第1章相同 | — | 见六年级 |
