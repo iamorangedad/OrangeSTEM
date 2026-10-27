@@ -9,6 +9,14 @@
 
 ## 海报
 
-全套计划 21 张，已完成 0 张（PNG + PDF）。每张海报 3 行讲这一单元最核心的内容，小结框里有要点；只用公制单位和人民币；底部标注教材来源。
+全套计划 21 张，已完成 7 张（PNG + PDF）：六年级 7。每张海报 3 行讲这一单元最核心的内容，小结框里有要点；只用公制单位和人民币；底部标注教材来源。
 
-海报制作中。
+| 海报 | 分册 | 单元 | 名称 | 教材来源 | 文件 |
+|---|---|---|---|---|---|
+| 因数和倍数 | 六年级 | 单元1 | 质数时间：因数和倍数（Prime Time） | Connected Mathematics 3 · 六年级 · Prime Time · Michigan State University / Savvas Learning（版权所有） | [PNG](<海报/六年级/g6u1-质数时间.png>) · [PDF](<海报/六年级/g6u1-质数时间.pdf>) |
+| 比、有理数和百分数 | 六年级 | 单元2 | 比较零碎：比、有理数和等值（Comparing Bits and Pieces） | Connected Mathematics 3 · 六年级 · Comparing Bits and Pieces · Michigan State University / Savvas Learning（版权所有） | [PNG](<海报/六年级/g6u2-比较零碎.png>) · [PDF](<海报/六年级/g6u2-比较零碎.pdf>) |
+| 分数的四则运算 | 六年级 | 单元3 | 分数运算：理解分数四则（Let's Be Rational） | Connected Mathematics 3 · 六年级 · Let's Be Rational · Michigan State University / Savvas Learning（版权所有） | [PNG](<海报/六年级/g6u3-分数运算.png>) · [PDF](<海报/六年级/g6u3-分数运算.pdf>) |
+| 面积、周长和体积 | 六年级 | 单元4 | 面积和周长：二维测量（Covering and Surrounding） | Connected Mathematics 3 · 六年级 · Covering and Surrounding · Michigan State University / Savvas Learning（版权所有） | [PNG](<海报/六年级/g6u4-面积和周长.png>) · [PDF](<海报/六年级/g6u4-面积和周长.pdf>) |
+| 小数和百分数计算 | 六年级 | 单元5 | 小数运算：小数和百分数计算（Decimal Ops） | Connected Mathematics 3 · 六年级 · Decimal Ops · Michigan State University / Savvas Learning（版权所有） | [PNG](<海报/六年级/g6u5-小数运算.png>) · [PDF](<海报/六年级/g6u5-小数运算.pdf>) |
+| 变量、表格和方程 | 六年级 | 单元6 | 变量和规律：代数入门（Variables and Patterns） | Connected Mathematics 3 · 六年级 · Variables and Patterns · Michigan State University / Savvas Learning（版权所有） | [PNG](<海报/六年级/g6u6-变量和规律.png>) · [PDF](<海报/六年级/g6u6-变量和规律.pdf>) |
+| 统计：中心和离散 | 六年级 | 单元7 | 关于我们的数据：统计（Data About Us） | Connected Mathematics 3 · 六年级 · Data About Us · Michigan State University / Savvas Learning（版权所有） | [PNG](<海报/六年级/g6u7-关于我们的数据.png>) · [PDF](<海报/六年级/g6u7-关于我们的数据.pdf>) |
