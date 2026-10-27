@@ -9,7 +9,7 @@
 
 ## 海报
 
-全套计划 21 张，已完成 15 张（PNG + PDF）：六年级 7、七年级 8。每张海报 3 行讲这一单元最核心的内容，小结框里有要点；只用公制单位和人民币；底部标注教材来源。
+全套计划 21 张，已完成 21 张（PNG + PDF）：六年级 7、七年级 8、八年级 6。每张海报 3 行讲这一单元最核心的内容，小结框里有要点；只用公制单位和人民币；底部标注教材来源。
 
 | 海报 | 分册 | 单元 | 名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -28,3 +28,9 @@
 | 概率和期望值 | 七年级 | 单元6 | 期望是多少：概率和期望值（What Do You Expect?） | Connected Mathematics 3 · 七年级 · What Do You Expect? · Michigan State University / Savvas Learning（版权所有） | [PNG](<海报/七年级/g7u6-期望是多少.png>) · [PDF](<海报/七年级/g7u6-期望是多少.pdf>) |
 | 立体图形的体积 | 七年级 | 单元7 | 装填和包装：立体测量（Filling and Wrapping） | Connected Mathematics 3 · 七年级 · Filling and Wrapping · Michigan State University / Savvas Learning（版权所有） | [PNG](<海报/七年级/g7u7-装填和包装.png>) · [PDF](<海报/七年级/g7u7-装填和包装.pdf>) |
 | 样本和总体 | 七年级 | 单元8 | 样本和总体：比较和预测（Samples and Populations） | Connected Mathematics 3 · 七年级 · Samples and Populations · Michigan State University / Savvas Learning（版权所有） | [PNG](<海报/七年级/g7u8-样本和总体.png>) · [PDF](<海报/七年级/g7u8-样本和总体.pdf>) |
+| 线性和反比例模型 | 八年级 | 单元1 | 数学模型：线性变化和反比例变化（Thinking With Mathematical Models） | Connected Mathematics 3 · 八年级 · Thinking With Mathematical Models · Michigan State University / Savvas Learning（版权所有） | [PNG](<海报/八年级/g8u1-数学模型.png>) · [PDF](<海报/八年级/g8u1-数学模型.pdf>) |
+| 勾股定理和实数 | 八年级 | 单元2 | 寻找毕达哥拉斯：勾股定理（Looking for Pythagoras） | Connected Mathematics 3 · 八年级 · Looking for Pythagoras · Michigan State University / Savvas Learning（版权所有） | [PNG](<海报/八年级/g8u2-寻找毕达哥拉斯.png>) · [PDF](<海报/八年级/g8u2-寻找毕达哥拉斯.pdf>) |
+| 指数增长和衰减 | 八年级 | 单元3 | 增长、增长、再增长：指数函数（Growing, Growing, Growing） | Connected Mathematics 3 · 八年级 · Growing, Growing, Growing · Michigan State University / Savvas Learning（版权所有） | [PNG](<海报/八年级/g8u3-增长增长再增长.png>) · [PDF](<海报/八年级/g8u3-增长增长再增长.pdf>) |
+| 对称、变换和相似 | 八年级 | 单元4 | 蝴蝶、风车和墙纸：对称和变换（Butterflies, Pinwheels, and Wallpaper） | Connected Mathematics 3 · 八年级 · Butterflies, Pinwheels, and Wallpaper · Michigan State University / Savvas Learning（版权所有） | [PNG](<海报/八年级/g8u4-蝴蝶风车和墙纸.png>) · [PDF](<海报/八年级/g8u4-蝴蝶风车和墙纸.pdf>) |
+| 表达式、方程和函数 | 八年级 | 单元5 | 用符号说：理解符号（Say It With Symbols） | Connected Mathematics 3 · 八年级 · Say It With Symbols · Michigan State University / Savvas Learning（版权所有） | [PNG](<海报/八年级/g8u5-用符号说.png>) · [PDF](<海报/八年级/g8u5-用符号说.pdf>) |
+| 方程组和不等式组 | 八年级 | 单元6 | 方程组：线性方程组和不等式组（It's In the System） | Connected Mathematics 3 · 八年级 · It's In the System · Michigan State University / Savvas Learning（版权所有） | [PNG](<海报/八年级/g8u6-方程组.png>) · [PDF](<海报/八年级/g8u6-方程组.pdf>) |
