@@ -11,7 +11,7 @@
 
 ## 海报
 
-已完成 10 张（PNG + PDF，按年级放在 `海报/六年级/` 等子目录）：六年级 5、七年级 5、八年级 0；其中教材活动 10 张、示例探究 0 张。每张海报 3 行：01 现象（锚定现象）、02 探究、03 结论；小结框里有拓展问题和安全提示，底部标注教材来源。只用公制单位和人民币。
+已完成 16 张（PNG + PDF，按年级放在 `海报/六年级/` 等子目录）：六年级 5、七年级 5、八年级 6；其中教材活动 16 张、示例探究 0 张。每张海报 3 行：01 现象（锚定现象）、02 探究、03 结论；小结框里有拓展问题和安全提示，底部标注教材来源。只用公制单位和人民币。
 
 ### 六年级（5 张）
 
@@ -32,3 +32,14 @@
 | 斑马为何变少？ | 单元8 斑马的生存（Zebra Survival） | 生命科学 | 教材活动：L2 活动5 The Zebra Survival Game - Part 1: Resource Availability（步骤为示意） | Discovery Education Science Techbook 6–8 · Unit 8 Zebra Survival · Discovery Education | [PNG](<海报/七年级/u08-斑马的生存.png>) · [PDF](<海报/七年级/u08-斑马的生存.pdf>) |
 | 超级风暴怎样形成？ | 单元9 1993 年超级风暴（Superstorm of 1993） | 地球与空间科学 | 教材活动：L2 活动2 Hands-On Investigation: Clouds（步骤为示意） | Discovery Education Science Techbook 6–8 · Unit 9 Superstorm of 1993 · Discovery Education | [PNG](<海报/七年级/u09-1993-年超级风暴.png>) · [PDF](<海报/七年级/u09-1993-年超级风暴.pdf>) |
 | 比赛为何改起点？ | 单元10 雪橇犬比赛（Dogsled Race） | 地球与空间科学 | 教材活动：L6 活动15 Hands-On Investigation: Greenhouse Effect（步骤为示意） | Discovery Education Science Techbook 6–8 · Unit 10 Dogsled Race · Discovery Education | [PNG](<海报/七年级/u10-雪橇犬比赛.png>) · [PDF](<海报/七年级/u10-雪橇犬比赛.pdf>) |
+
+### 八年级（6 张）
+
+| 海报 | 单元 | 学科 | 02 行活动 | 教材来源 | 文件 |
+|---|---|---|---|---|---|
+| 音箱怎样传声？ | 单元11 无线音箱（Wireless Speaker） | 物质科学 | 教材活动：L2 活动5 Hands-On Investigation: Transmit Sound with a Paper Cup Telephone（步骤为示意） | Discovery Education Science Techbook 6–8 · Unit 11 Wireless Speaker · Discovery Education | [PNG](<海报/八年级/u11-无线音箱.png>) · [PDF](<海报/八年级/u11-无线音箱.pdf>) |
+| 松鼠为何是白的？ | 单元12 白化松鼠（Albino Squirrels） | 生命科学 | 教材活动：L2 活动5 Modeling Squirrel Offspring（步骤为示意） | Discovery Education Science Techbook 6–8 · Unit 12 Albino Squirrels · Discovery Education | [PNG](<海报/八年级/u12-白化松鼠.png>) · [PDF](<海报/八年级/u12-白化松鼠.pdf>) |
+| 化石讲了什么？ | 单元13 神秘化石（Mystery Fossil） | 生命科学 | 教材活动：L2 活动2 Colossal Fossil Jostle（步骤为示意） | Discovery Education Science Techbook 6–8 · Unit 13 Mystery Fossil · Discovery Education | [PNG](<海报/八年级/u13-神秘化石.png>) · [PDF](<海报/八年级/u13-神秘化石.pdf>) |
+| 果蝇为何濒危？ | 单元14 夏威夷果蝇（Hawaiian Flies） | 生命科学 | 教材活动：L3 活动6 Hands-On Investigation: Trait Variation（步骤为示意） | Discovery Education Science Techbook 6–8 · Unit 14 Hawaiian Flies · Discovery Education | [PNG](<海报/八年级/u14-夏威夷果蝇.png>) · [PDF](<海报/八年级/u14-夏威夷果蝇.pdf>) |
+| 地震从哪里来？ | 单元15 波多黎各地震（Puerto Rico Earthquake） | 地球与空间科学 | 教材活动：L2 活动5 Hands-On Investigation: Plate Interactions（步骤为示意） | Discovery Education Science Techbook 6–8 · Unit 15 Puerto Rico Earthquake · Discovery Education | [PNG](<海报/八年级/u15-波多黎各地震.png>) · [PDF](<海报/八年级/u15-波多黎各地震.pdf>) |
+| 三角洲为何死鱼？ | 单元16 三角洲的死鱼（Dead Fish in the Delta） | 地球与空间科学 | 教材活动：L3 活动8 Nutrients and the Watershed（步骤为示意） | Discovery Education Science Techbook 6–8 · Unit 16 Dead Fish in the Delta · Discovery Education | [PNG](<海报/八年级/u16-三角洲的死鱼.png>) · [PDF](<海报/八年级/u16-三角洲的死鱼.pdf>) |
