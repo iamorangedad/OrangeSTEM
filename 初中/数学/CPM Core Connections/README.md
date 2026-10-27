@@ -9,7 +9,7 @@
 
 ## 海报
 
-全套计划 28 张，已完成 9 张（PNG + PDF）：Course 1 9。每张海报 3 行讲这一单元最核心的内容，小结框里有要点；只用公制单位和人民币；底部标注教材来源。
+全套计划 28 张，已完成 18 张（PNG + PDF）：Course 1 9、Course 2 9。每张海报 3 行讲这一单元最核心的内容，小结框里有要点；只用公制单位和人民币；底部标注教材来源。
 
 | 海报 | 分册 | 章 | 名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -22,3 +22,12 @@
 | 比率、方程和不等式 | Course 1 | 第7章 | 比率和运算（Rates & Operations） | CPM Core Connections, Course 1 · Ch. 7 Rates & Operations · CPM Educational Program（版权所有） | [PNG](<海报/Course 1/c1ch07-比率和运算.png>) · [PDF](<海报/Course 1/c1ch07-比率和运算.pdf>) |
 | 统计和乘法方程 | Course 1 | 第8章 | 统计和乘法方程（Statistics & Multiplication Equations） | CPM Core Connections, Course 1 · Ch. 8 Statistics & Multiplication Equations · CPM Educational Program（版权所有） | [PNG](<海报/Course 1/c1ch08-统计和乘法方程.png>) · [PDF](<海报/Course 1/c1ch08-统计和乘法方程.pdf>) |
 | 体积、表面积和百分数 | Course 1 | 第9章 | 体积和百分数（Volume & Percents） | CPM Core Connections, Course 1 · Ch. 9 Volume & Percents · CPM Educational Program（版权所有） | [PNG](<海报/Course 1/c1ch09-体积和百分数.png>) · [PDF](<海报/Course 1/c1ch09-体积和百分数.pdf>) |
+| 概率和分数加法 | Course 2 | 第1章 | 导入和概率（Introduction & Probability） | CPM Core Connections, Course 2 · Ch. 1 Introduction & Probability · CPM Educational Program（版权所有） | [PNG](<海报/Course 2/c2ch01-导入和概率.png>) · [PDF](<海报/Course 2/c2ch01-导入和概率.pdf>) |
+| 小数、整数和分数乘法 | Course 2 | 第2章 | 分数和整数加法（Fractions & Integer Addition） | CPM Core Connections, Course 2 · Ch. 2 Fractions & Integer Addition · CPM Educational Program（版权所有） | [PNG](<海报/Course 2/c2ch02-分数和整数加法.png>) · [PDF](<海报/Course 2/c2ch02-分数和整数加法.pdf>) |
+| 有理数运算和运算律 | Course 2 | 第3章 | 运算性质（Arithmetic Properties） | CPM Core Connections, Course 2 · Ch. 3 Arithmetic Properties · CPM Educational Program（版权所有） | [PNG](<海报/Course 2/c2ch03-运算性质.png>) · [PDF](<海报/Course 2/c2ch03-运算性质.pdf>) |
+| 比例关系和代数式 | Course 2 | 第4章 | 比例和代数式（Proportions & Expressions） | CPM Core Connections, Course 2 · Ch. 4 Proportions & Expressions · CPM Educational Program（版权所有） | [PNG](<海报/Course 2/c2ch04-比例和代数式.png>) · [PDF](<海报/Course 2/c2ch04-比例和代数式.pdf>) |
+| 百分数、概率树和应用题 | Course 2 | 第5章 | 概率和解应用题（Probability & Solving Word Problems） | CPM Core Connections, Course 2 · Ch. 5 Probability & Solving Word Problems · CPM Educational Program（版权所有） | [PNG](<海报/Course 2/c2ch05-概率和解应用题.png>) · [PDF](<海报/Course 2/c2ch05-概率和解应用题.pdf>) |
+| 解不等式和方程 | Course 2 | 第6章 | 解不等式和方程（Solving Inequalities & Equations） | CPM Core Connections, Course 2 · Ch. 6 Solving Inequalities & Equations · CPM Educational Program（版权所有） | [PNG](<海报/Course 2/c2ch06-解不等式和方程.png>) · [PDF](<海报/Course 2/c2ch06-解不等式和方程.pdf>) |
+| 比例和百分数应用 | Course 2 | 第7章 | 比例和百分数（Proportions & Percents） | CPM Core Connections, Course 2 · Ch. 7 Proportions & Percents · CPM Educational Program（版权所有） | [PNG](<海报/Course 2/c2ch07-比例和百分数.png>) · [PDF](<海报/Course 2/c2ch07-比例和百分数.pdf>) |
+| 统计推断和角的关系 | Course 2 | 第8章 | 统计和角的关系（Statistics & Angle Relationships） | CPM Core Connections, Course 2 · Ch. 8 Statistics & Angle Relationships · CPM Educational Program（版权所有） | [PNG](<海报/Course 2/c2ch08-统计和角的关系.png>) · [PDF](<海报/Course 2/c2ch08-统计和角的关系.pdf>) |
+| 圆、组合图形和体积 | Course 2 | 第9章 | 圆和体积（Circles & Volume） | CPM Core Connections, Course 2 · Ch. 9 Circles & Volume · CPM Educational Program（版权所有） | [PNG](<海报/Course 2/c2ch09-圆和体积.png>) · [PDF](<海报/Course 2/c2ch09-圆和体积.pdf>) |
