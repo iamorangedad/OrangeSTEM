@@ -9,7 +9,7 @@
 
 ## 海报
 
-全套计划 30 张，已完成 20 张（PNG + PDF）：六年级 10、七年级 10。每张海报 3 行讲这一单元最核心的内容，小结框里有要点；只用公制单位和人民币；底部标注教材来源。
+全套计划 30 张，已完成 30 张（PNG + PDF）：六年级 10、七年级 10、八年级 10。每张海报 3 行讲这一单元最核心的内容，小结框里有要点；只用公制单位和人民币；底部标注教材来源。
 
 | 海报 | 分册 | 章 | 名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -33,3 +33,13 @@
 | 样本和总体 | 七年级 | 第8章 | 统计（Statistics） | Big Ideas Math: Modeling Real Life Grade 7（2022 Common Core Edition）· Ch. 8 Statistics · Big Ideas Learning（版权所有） | [PNG](<海报/七年级/g7ch08-统计.png>) · [PDF](<海报/七年级/g7ch08-统计.pdf>) |
 | 圆、组合图形和角 | 七年级 | 第9章 | 几何图形和角（Geometric Shapes and Angles） | Big Ideas Math: Modeling Real Life Grade 7（2022 Common Core Edition）· Ch. 9 Geometric Shapes and Angles · Big Ideas Learning（版权所有） | [PNG](<海报/七年级/g7ch09-几何图形和角.png>) · [PDF](<海报/七年级/g7ch09-几何图形和角.pdf>) |
 | 表面积、体积和截面 | 七年级 | 第10章 | 表面积和体积（Surface Area and Volume） | Big Ideas Math: Modeling Real Life Grade 7（2022 Common Core Edition）· Ch. 10 Surface Area and Volume · Big Ideas Learning（版权所有） | [PNG](<海报/七年级/g7ch10-表面积和体积.png>) · [PDF](<海报/七年级/g7ch10-表面积和体积.pdf>) |
+| 解方程和变形公式 | 八年级 | 第1章 | 方程（Equations） | Big Ideas Math: Modeling Real Life Grade 8（2022 Common Core Edition）· Ch. 1 Equations · Big Ideas Learning（版权所有） | [PNG](<海报/八年级/g8ch01-方程.png>) · [PDF](<海报/八年级/g8ch01-方程.pdf>) |
+| 图形的变换 | 八年级 | 第2章 | 图形的变换（Transformations） | Big Ideas Math: Modeling Real Life Grade 8（2022 Common Core Edition）· Ch. 2 Transformations · Big Ideas Learning（版权所有） | [PNG](<海报/八年级/g8ch02-图形的变换.png>) · [PDF](<海报/八年级/g8ch02-图形的变换.pdf>) |
+| 平行线和多边形的角 | 八年级 | 第3章 | 角和三角形（Angles and Triangles） | Big Ideas Math: Modeling Real Life Grade 8（2022 Common Core Edition）· Ch. 3 Angles and Triangles · Big Ideas Learning（版权所有） | [PNG](<海报/八年级/g8ch03-角和三角形.png>) · [PDF](<海报/八年级/g8ch03-角和三角形.pdf>) |
+| 一次方程的图像 | 八年级 | 第4章 | 一次方程的图像和写法（Graphing and Writing Linear Equations） | Big Ideas Math: Modeling Real Life Grade 8（2022 Common Core Edition）· Ch. 4 Graphing and Writing Linear Equations · Big Ideas Learning（版权所有） | [PNG](<海报/八年级/g8ch04-一次方程的图像和写法.png>) · [PDF](<海报/八年级/g8ch04-一次方程的图像和写法.pdf>) |
+| 二元一次方程组 | 八年级 | 第5章 | 二元一次方程组（Systems of Linear Equations） | Big Ideas Math: Modeling Real Life Grade 8（2022 Common Core Edition）· Ch. 5 Systems of Linear Equations · Big Ideas Learning（版权所有） | [PNG](<海报/八年级/g8ch05-二元一次方程组.png>) · [PDF](<海报/八年级/g8ch05-二元一次方程组.pdf>) |
+| 散点图和双向表 | 八年级 | 第6章 | 数据分析和表示（Data Analysis and Displays） | Big Ideas Math: Modeling Real Life Grade 8（2022 Common Core Edition）· Ch. 6 Data Analysis and Displays · Big Ideas Learning（版权所有） | [PNG](<海报/八年级/g8ch06-数据分析和表示.png>) · [PDF](<海报/八年级/g8ch06-数据分析和表示.pdf>) |
+| 函数 | 八年级 | 第7章 | 函数（Functions） | Big Ideas Math: Modeling Real Life Grade 8（2022 Common Core Edition）· Ch. 7 Functions · Big Ideas Learning（版权所有） | [PNG](<海报/八年级/g8ch07-函数.png>) · [PDF](<海报/八年级/g8ch07-函数.pdf>) |
+| 指数和科学记数法 | 八年级 | 第8章 | 指数和科学记数法（Exponents and Scientific Notation） | Big Ideas Math: Modeling Real Life Grade 8（2022 Common Core Edition）· Ch. 8 Exponents and Scientific Notation · Big Ideas Learning（版权所有） | [PNG](<海报/八年级/g8ch08-指数和科学记数法.png>) · [PDF](<海报/八年级/g8ch08-指数和科学记数法.pdf>) |
+| 实数和勾股定理 | 八年级 | 第9章 | 实数和勾股定理（Real Numbers and the Pythagorean Theorem） | Big Ideas Math: Modeling Real Life Grade 8（2022 Common Core Edition）· Ch. 9 Real Numbers and the Pythagorean Theorem · Big Ideas Learning（版权所有） | [PNG](<海报/八年级/g8ch09-实数和勾股定理.png>) · [PDF](<海报/八年级/g8ch09-实数和勾股定理.pdf>) |
+| 旋转体和相似立体 | 八年级 | 第10章 | 体积和相似立体（Volume and Similar Solids） | Big Ideas Math: Modeling Real Life Grade 8（2022 Common Core Edition）· Ch. 10 Volume and Similar Solids · Big Ideas Learning（版权所有） | [PNG](<海报/八年级/g8ch10-体积和相似立体.png>) · [PDF](<海报/八年级/g8ch10-体积和相似立体.pdf>) |
