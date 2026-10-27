@@ -8,7 +8,7 @@
 
 ## 海报
 
-全套计划 15 张，已完成 10 张（PNG + PDF）：六年级 5、七年级 5。每张海报 3 行讲这一单元最核心的内容，小结框里有要点；只用公制单位和人民币；底部标注教材来源。
+全套计划 15 张，已完成 15 张（PNG + PDF）：六年级 5、七年级 5、八年级 5。每张海报 3 行讲这一单元最核心的内容，小结框里有要点；只用公制单位和人民币；底部标注教材来源。
 
 | 海报 | 分册 | 模块 | 名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -22,3 +22,8 @@
 | 代数推理 | 七年级 | 模块3 | 代数推理（Reasoning Algebraically） | Carnegie Learning Texas Math Solution Grade 7 · Module 3 Reasoning Algebraically · Carnegie Learning（版权所有） | [PNG](<海报/七年级/g7m3-代数推理.png>) · [PDF](<海报/七年级/g7m3-代数推理.pdf>) |
 | 分析总体和概率 | 七年级 | 模块4 | 分析总体和概率（Analyzing Populations and Probabilities） | Carnegie Learning Texas Math Solution Grade 7 · Module 4 Analyzing Populations and Probabilities · Carnegie Learning（版权所有） | [PNG](<海报/七年级/g7m4-分析总体和概率.png>) · [PDF](<海报/七年级/g7m4-分析总体和概率.pdf>) |
 | 构造和测量 | 七年级 | 模块5 | 构造和测量（Constructing and Measuring） | Carnegie Learning Texas Math Solution Grade 7 · Module 5 Constructing and Measuring · Carnegie Learning（版权所有） | [PNG](<海报/七年级/g7m5-构造和测量.png>) · [PDF](<海报/七年级/g7m5-构造和测量.pdf>) |
+| 几何图形的变换 | 八年级 | 模块1 | 几何图形的变换（Transforming Geometric Objects） | Carnegie Learning Texas Math Solution Grade 8 · Module 1 Transforming Geometric Objects · Carnegie Learning（版权所有） | [PNG](<海报/八年级/g8m1-几何图形的变换.png>) · [PDF](<海报/八年级/g8m1-几何图形的变换.pdf>) |
+| 函数基础 | 八年级 | 模块2 | 函数基础（Developing Function Foundations） | Carnegie Learning Texas Math Solution Grade 8 · Module 2 Developing Function Foundations · Carnegie Learning（版权所有） | [PNG](<海报/八年级/g8m2-函数基础.png>) · [PDF](<海报/八年级/g8m2-函数基础.pdf>) |
+| 无处不在的数据 | 八年级 | 模块3 | 无处不在的数据（Data Data Everywhere） | Carnegie Learning Texas Math Solution Grade 8 · Module 3 Data Data Everywhere · Carnegie Learning（版权所有） | [PNG](<海报/八年级/g8m3-无处不在的数据.png>) · [PDF](<海报/八年级/g8m3-无处不在的数据.pdf>) |
+| 线性方程建模 | 八年级 | 模块4 | 线性方程建模（Modeling Linear Equations） | Carnegie Learning Texas Math Solution Grade 8 · Module 4 Modeling Linear Equations · Carnegie Learning（版权所有） | [PNG](<海报/八年级/g8m4-线性方程建模.png>) · [PDF](<海报/八年级/g8m4-线性方程建模.pdf>) |
+| 乘方的应用 | 八年级 | 模块5 | 乘方的应用（Applying Powers） | Carnegie Learning Texas Math Solution Grade 8 · Module 5 Applying Powers · Carnegie Learning（版权所有） | [PNG](<海报/八年级/g8m5-乘方的应用.png>) · [PDF](<海报/八年级/g8m5-乘方的应用.pdf>) |

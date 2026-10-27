@@ -36,7 +36,7 @@
   - [科学](小学/科学/)：Scott Foresman Science、Elevate Science、FOSS、Amplify Science、Mystery Science、Inspire Science、Into Science、STEMscopes
 - [初中](初中/)
   - [科学](初中/科学/)：OpenSciEd、Amplify Science、FOSS、Elevate Science、Into Science、STEMscopes、iScience、Discovery Education Techbook
-  - [数学](初中/数学/)：Illustrative Mathematics、Eureka Math、Connected Mathematics Project、CPM Core Connections、Big Ideas Math
+  - [数学](初中/数学/)：Illustrative Mathematics、Eureka Math、Connected Mathematics Project、CPM Core Connections、Big Ideas Math、Carnegie Learning
 - [高中](高中/)
   - [科学](高中/科学/)：OpenSciEd、OpenStax
   - [数学](高中/数学/)：Illustrative Mathematics
