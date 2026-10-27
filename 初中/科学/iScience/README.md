@@ -11,7 +11,7 @@
 
 ## 海报
 
-官方公开的目录只到章，所以每章一张海报，三册共 15 个单元、58 章。已完成 36 张（PNG + PDF，按册放在 `海报/课程一/` 等子目录）：课程一 15、课程二 21、课程三 0；其中教材活动 0 张、示例探究 36 张。每张海报 3 行：01 现象、02 探究、03 结论；小结框里有拓展问题和安全提示，底部标注教材来源。只用公制单位和人民币。
+官方公开的目录只到章，所以每章一张海报，三册共 15 个单元、58 章。已完成 58 张（PNG + PDF，按册放在 `海报/课程一/` 等子目录）：课程一 15、课程二 21、课程三 22；其中教材活动 0 张、示例探究 58 张。每张海报 3 行：01 现象、02 探究、03 结论；小结框里有拓展问题和安全提示，底部标注教材来源。只用公制单位和人民币。
 
 ### 课程一（Course 1，六年级，15 张）
 
@@ -97,3 +97,57 @@
 | 力怎样改变运动？ | 第19章 运动、力与牛顿定律（Motion, Forces, and Newton's Laws） | 示例探究 | Glencoe Integrated iScience Course 2 Ch. 19 Motion, Forces, and Newton's Laws · McGraw Hill | [PNG](<海报/课程二/c2-u5-ch19-运动-力与牛顿定律.png>) · [PDF](<海报/课程二/c2-u5-ch19-运动-力与牛顿定律.pdf>) |
 | 月亮为何变形状？ | 第20章 日地月系统（The Sun-Earth-Moon System） | 示例探究 | Glencoe Integrated iScience Course 2 Ch. 20 The Sun-Earth-Moon System · McGraw Hill | [PNG](<海报/课程二/c2-u5-ch20-日地月系统.png>) · [PDF](<海报/课程二/c2-u5-ch20-日地月系统.pdf>) |
 | 太阳系有什么？ | 第21章 探索太阳系（Exploring the Solar System） | 示例探究 | Glencoe Integrated iScience Course 2 Ch. 21 Exploring the Solar System · McGraw Hill | [PNG](<海报/课程二/c2-u5-ch21-探索太阳系.png>) · [PDF](<海报/课程二/c2-u5-ch21-探索太阳系.pdf>) |
+
+### 课程三（Course 3，八年级，22 张）
+
+#### 单元1 运动与能量（Motion and Energy）
+
+| 海报 | 章 | 活动类型 | 教材来源 | 文件 |
+|---|---|---|---|---|
+| 怎样描述运动？ | 第1章 描述运动（Describing Motion） | 示例探究 | Glencoe Integrated iScience Course 3 Ch. 1 Describing Motion · McGraw Hill | [PNG](<海报/课程三/c3-u1-ch01-描述运动.png>) · [PDF](<海报/课程三/c3-u1-ch01-描述运动.pdf>) |
+| 力怎样影响运动？ | 第2章 运动定律（The Laws of Motion） | 示例探究 | Glencoe Integrated iScience Course 3 Ch. 2 The Laws of Motion · McGraw Hill | [PNG](<海报/课程三/c3-u1-ch02-运动定律.png>) · [PDF](<海报/课程三/c3-u1-ch02-运动定律.pdf>) |
+| 机械怎样省力？ | 第3章 能量、功与简单机械（Energy, Work, and Simple Machines） | 示例探究 | Glencoe Integrated iScience Course 3 Ch. 3 Energy, Work, and Simple Machines · McGraw Hill | [PNG](<海报/课程三/c3-u1-ch03-能量-功与简单机械.png>) · [PDF](<海报/课程三/c3-u1-ch03-能量-功与简单机械.pdf>) |
+| 声和光有何不同？ | 第4章 声与光（Sound and Light） | 示例探究 | Glencoe Integrated iScience Course 3 Ch. 4 Sound and Light · McGraw Hill | [PNG](<海报/课程三/c3-u1-ch04-声与光.png>) · [PDF](<海报/课程三/c3-u1-ch04-声与光.pdf>) |
+
+#### 单元2 物质的相互作用（Interactions of Matter）
+
+| 海报 | 章 | 活动类型 | 教材来源 | 文件 |
+|---|---|---|---|---|
+| 热能是什么？ | 第5章 热能（Thermal Energy） | 示例探究 | Glencoe Integrated iScience Course 3 Ch. 5 Thermal Energy · McGraw Hill | [PNG](<海报/课程三/c3-u2-ch05-热能.png>) · [PDF](<海报/课程三/c3-u2-ch05-热能.pdf>) |
+| 物质有几种状态？ | 第6章 物质的状态（States of Matter） | 示例探究 | Glencoe Integrated iScience Course 3 Ch. 6 States of Matter · McGraw Hill | [PNG](<海报/课程三/c3-u2-ch06-物质的状态.png>) · [PDF](<海报/课程三/c3-u2-ch06-物质的状态.pdf>) |
+| 原子里有什么？ | 第7章 认识原子（Understanding the Atom） | 示例探究 | Glencoe Integrated iScience Course 3 Ch. 7 Understanding the Atom · McGraw Hill | [PNG](<海报/课程三/c3-u2-ch07-认识原子.png>) · [PDF](<海报/课程三/c3-u2-ch07-认识原子.pdf>) |
+| 原子怎样结合？ | 第8章 元素与化学键（Elements and Chemical Bonds） | 示例探究 | Glencoe Integrated iScience Course 3 Ch. 8 Elements and Chemical Bonds · McGraw Hill | [PNG](<海报/课程三/c3-u2-ch08-元素与化学键.png>) · [PDF](<海报/课程三/c3-u2-ch08-元素与化学键.pdf>) |
+| 化学反应遵守什么？ | 第9章 化学反应与方程式（Chemical Reactions and Equations） | 示例探究 | Glencoe Integrated iScience Course 3 Ch. 9 Chemical Reactions and Equations · McGraw Hill | [PNG](<海报/课程三/c3-u2-ch09-化学反应与方程式.png>) · [PDF](<海报/课程三/c3-u2-ch09-化学反应与方程式.pdf>) |
+| 溶液有酸有碱？ | 第10章 混合物、溶解度与酸碱溶液（Mixtures, Solubility, and Acid/Base Solutions） | 示例探究 | Glencoe Integrated iScience Course 3 Ch. 10 Mixtures, Solubility, and Acid/Base Solutions · McGraw Hill | [PNG](<海报/课程三/c3-u2-ch10-混合物-溶解度与酸碱溶液.png>) · [PDF](<海报/课程三/c3-u2-ch10-混合物-溶解度与酸碱溶液.pdf>) |
+
+#### 单元3 认识宇宙（Understanding the Universe）
+
+| 海报 | 章 | 活动类型 | 教材来源 | 文件 |
+|---|---|---|---|---|
+| 太阳系怎样形成？ | 第11章 太阳系（The Solar System） | 示例探究 | Glencoe Integrated iScience Course 3 Ch. 11 The Solar System · McGraw Hill | [PNG](<海报/课程三/c3-u3-ch11-太阳系.png>) · [PDF](<海报/课程三/c3-u3-ch11-太阳系.pdf>) |
+| 星星有一生吗？ | 第12章 恒星与星系（Stars and Galaxies） | 示例探究 | Glencoe Integrated iScience Course 3 Ch. 12 Stars and Galaxies · McGraw Hill | [PNG](<海报/课程三/c3-u3-ch12-恒星与星系.png>) · [PDF](<海报/课程三/c3-u3-ch12-恒星与星系.pdf>) |
+
+#### 单元4 地球与地质变化（Earth and Geologic Changes）
+
+| 海报 | 章 | 活动类型 | 教材来源 | 文件 |
+|---|---|---|---|---|
+| 岩石怎样认识？ | 第13章 矿物与岩石（Minerals and Rocks） | 示例探究 | Glencoe Integrated iScience Course 3 Ch. 13 Minerals and Rocks · McGraw Hill | [PNG](<海报/课程三/c3-u4-ch13-矿物与岩石.png>) · [PDF](<海报/课程三/c3-u4-ch13-矿物与岩石.pdf>) |
+| 大陆会移动吗？ | 第14章 板块构造（Plate Tectonics） | 示例探究 | Glencoe Integrated iScience Course 3 Ch. 14 Plate Tectonics · McGraw Hill | [PNG](<海报/课程三/c3-u4-ch14-板块构造.png>) · [PDF](<海报/课程三/c3-u4-ch14-板块构造.pdf>) |
+| 地震火山从哪来？ | 第15章 地震与火山（Earthquakes and Volcanoes） | 示例探究 | Glencoe Integrated iScience Course 3 Ch. 15 Earthquakes and Volcanoes · McGraw Hill | [PNG](<海报/课程三/c3-u4-ch15-地震与火山.png>) · [PDF](<海报/课程三/c3-u4-ch15-地震与火山.pdf>) |
+| 地球过去的线索 | 第16章 地球过去的线索（Clues to Earth's Past） | 示例探究 | Glencoe Integrated iScience Course 3 Ch. 16 Clues to Earth's Past · McGraw Hill | [PNG](<海报/课程三/c3-u4-ch16-地球过去的线索.png>) · [PDF](<海报/课程三/c3-u4-ch16-地球过去的线索.pdf>) |
+| 地质年代有多长？ | 第17章 地质年代（Geologic Time） | 示例探究 | Glencoe Integrated iScience Course 3 Ch. 17 Geologic Time · McGraw Hill | [PNG](<海报/课程三/c3-u4-ch17-地质年代.png>) · [PDF](<海报/课程三/c3-u4-ch17-地质年代.pdf>) |
+
+#### 单元5 探索生态（Exploring Ecology）
+
+| 海报 | 章 | 活动类型 | 教材来源 | 文件 |
+|---|---|---|---|---|
+| 生态系统怎样运转？ | 第18章 生态系统内的相互作用（Interactions Within Ecosystems） | 示例探究 | Glencoe Integrated iScience Course 3 Ch. 18 Interactions Within Ecosystems · McGraw Hill | [PNG](<海报/课程三/c3-u5-ch18-生态系统内的相互作用.png>) · [PDF](<海报/课程三/c3-u5-ch18-生态系统内的相互作用.pdf>) |
+| 地球上有哪些群落？ | 第19章 生物群落与生态系统（Biomes and Ecosystems） | 示例探究 | Glencoe Integrated iScience Course 3 Ch. 19 Biomes and Ecosystems · McGraw Hill | [PNG](<海报/课程三/c3-u5-ch19-生物群落与生态系统.png>) · [PDF](<海报/课程三/c3-u5-ch19-生物群落与生态系统.pdf>) |
+| 人怎样影响环境？ | 第20章 人类对环境的影响（Environmental Impacts） | 示例探究 | Glencoe Integrated iScience Course 3 Ch. 20 Environmental Impacts · McGraw Hill | [PNG](<海报/课程三/c3-u5-ch20-人类对环境的影响.png>) · [PDF](<海报/课程三/c3-u5-ch20-人类对环境的影响.pdf>) |
+
+#### 单元6 遗传与人体系统（Heredity and Human Body Systems）
+
+| 海报 | 章 | 活动类型 | 教材来源 | 文件 |
+|---|---|---|---|---|
+| 身体系统怎样协作？ | 第21章 人体系统的协作（Interactions of Human Body Systems） | 示例探究 | Glencoe Integrated iScience Course 3 Ch. 21 Interactions of Human Body Systems · McGraw Hill | [PNG](<海报/课程三/c3-u6-ch21-人体系统的协作.png>) · [PDF](<海报/课程三/c3-u6-ch21-人体系统的协作.pdf>) |
+| 性状怎样变化？ | 第22章 遗传与性状的变化（Heredity and How Traits Change） | 示例探究 | Glencoe Integrated iScience Course 3 Ch. 22 Heredity and How Traits Change · McGraw Hill | [PNG](<海报/课程三/c3-u6-ch22-遗传与性状的变化.png>) · [PDF](<海报/课程三/c3-u6-ch22-遗传与性状的变化.pdf>) |
