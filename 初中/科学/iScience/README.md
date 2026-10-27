@@ -11,7 +11,7 @@
 
 ## 海报
 
-官方公开的目录只到章，所以每章一张海报，三册共 15 个单元、58 章。已完成 15 张（PNG + PDF，按册放在 `海报/课程一/` 等子目录）：课程一 15、课程二 0、课程三 0；其中教材活动 0 张、示例探究 15 张。每张海报 3 行：01 现象、02 探究、03 结论；小结框里有拓展问题和安全提示，底部标注教材来源。只用公制单位和人民币。
+官方公开的目录只到章，所以每章一张海报，三册共 15 个单元、58 章。已完成 36 张（PNG + PDF，按册放在 `海报/课程一/` 等子目录）：课程一 15、课程二 21、课程三 0；其中教材活动 0 张、示例探究 36 张。每张海报 3 行：01 现象、02 探究、03 结论；小结框里有拓展问题和安全提示，底部标注教材来源。只用公制单位和人民币。
 
 ### 课程一（Course 1，六年级，15 张）
 
@@ -49,3 +49,51 @@
 | 能量去哪儿了？ | 第13章 能量（Energy） | 示例探究 | Glencoe Integrated iScience Course 1 Ch. 13 Energy · McGraw Hill | [PNG](<海报/课程一/c1-u4-ch13-能量.png>) · [PDF](<海报/课程一/c1-u4-ch13-能量.pdf>) |
 | 声和光怎样传播？ | 第14章 波、声和光（Waves, Sound, and Light） | 示例探究 | Glencoe Integrated iScience Course 1 Ch. 14 Waves, Sound, and Light · McGraw Hill | [PNG](<海报/课程一/c1-u4-ch14-波-声和光.png>) · [PDF](<海报/课程一/c1-u4-ch14-波-声和光.pdf>) |
 | 电和磁有什么关系？ | 第15章 电和磁（Electricity and Magnetism） | 示例探究 | Glencoe Integrated iScience Course 1 Ch. 15 Electricity and Magnetism · McGraw Hill | [PNG](<海报/课程一/c1-u4-ch15-电和磁.png>) · [PDF](<海报/课程一/c1-u4-ch15-电和磁.pdf>) |
+
+### 课程二（Course 2，七年级，21 张）
+
+#### 单元1 生命：结构与功能（Life: Structure and Function）
+
+| 海报 | 章 | 活动类型 | 教材来源 | 文件 |
+|---|---|---|---|---|
+| 什么是生命？ | 第1章 生物的分类与探索（Classifying and Exploring Life） | 示例探究 | Glencoe Integrated iScience Course 2 Ch. 1 Classifying and Exploring Life · McGraw Hill | [PNG](<海报/课程二/c2-u1-ch01-生物的分类与探索.png>) · [PDF](<海报/课程二/c2-u1-ch01-生物的分类与探索.pdf>) |
+| 细胞怎样工作？ | 第2章 细胞的结构与功能（Cell Structure and Function） | 示例探究 | Glencoe Integrated iScience Course 2 Ch. 2 Cell Structure and Function · McGraw Hill | [PNG](<海报/课程二/c2-u1-ch02-细胞的结构与功能.png>) · [PDF](<海报/课程二/c2-u1-ch02-细胞的结构与功能.pdf>) |
+| 细胞怎样变成身体？ | 第3章 从细胞到生物体（From a Cell to an Organism） | 示例探究 | Glencoe Integrated iScience Course 2 Ch. 3 From a Cell to an Organism · McGraw Hill | [PNG](<海报/课程二/c2-u1-ch03-从细胞到生物体.png>) · [PDF](<海报/课程二/c2-u1-ch03-从细胞到生物体.pdf>) |
+| 生物怎样繁殖？ | 第4章 生物的生殖（Reproduction of Organisms） | 示例探究 | Glencoe Integrated iScience Course 2 Ch. 4 Reproduction of Organisms · McGraw Hill | [PNG](<海报/课程二/c2-u1-ch04-生物的生殖.png>) · [PDF](<海报/课程二/c2-u1-ch04-生物的生殖.pdf>) |
+
+#### 单元2 生命：变化与相互作用（Life: Changes and Interactions）
+
+| 海报 | 章 | 活动类型 | 教材来源 | 文件 |
+|---|---|---|---|---|
+| 性状怎样遗传？ | 第5章 遗传学（Genetics） | 示例探究 | Glencoe Integrated iScience Course 2 Ch. 5 Genetics · McGraw Hill | [PNG](<海报/课程二/c2-u2-ch05-遗传学.png>) · [PDF](<海报/课程二/c2-u2-ch05-遗传学.pdf>) |
+| 生物怎样演化？ | 第6章 环境与演化（The Environment and Change Over Time） | 示例探究 | Glencoe Integrated iScience Course 2 Ch. 6 The Environment and Change Over Time · McGraw Hill | [PNG](<海报/课程二/c2-u2-ch06-环境与演化.png>) · [PDF](<海报/课程二/c2-u2-ch06-环境与演化.pdf>) |
+| 身体怎样运转？ | 第7章 人体系统（Human Body Systems） | 示例探究 | Glencoe Integrated iScience Course 2 Ch. 7 Human Body Systems · McGraw Hill | [PNG](<海报/课程二/c2-u2-ch07-人体系统.png>) · [PDF](<海报/课程二/c2-u2-ch07-人体系统.pdf>) |
+| 植物怎样运作？ | 第8章 植物的生理与生殖（Plant Processes and Reproduction） | 示例探究 | Glencoe Integrated iScience Course 2 Ch. 8 Plant Processes and Reproduction · McGraw Hill | [PNG](<海报/课程二/c2-u2-ch08-植物的生理与生殖.png>) · [PDF](<海报/课程二/c2-u2-ch08-植物的生理与生殖.pdf>) |
+| 谁和谁有关系？ | 第9章 生物之间的相互作用（Interactions of Living Things） | 示例探究 | Glencoe Integrated iScience Course 2 Ch. 9 Interactions of Living Things · McGraw Hill | [PNG](<海报/课程二/c2-u2-ch09-生物之间的相互作用.png>) · [PDF](<海报/课程二/c2-u2-ch09-生物之间的相互作用.pdf>) |
+
+#### 单元3 能量与物质（Energy and Matter）
+
+| 海报 | 章 | 活动类型 | 教材来源 | 文件 |
+|---|---|---|---|---|
+| 物质是什么？ | 第10章 化学基础（Foundations of Chemistry） | 示例探究 | Glencoe Integrated iScience Course 2 Ch. 10 Foundations of Chemistry · McGraw Hill | [PNG](<海报/课程二/c2-u3-ch10-化学基础.png>) · [PDF](<海报/课程二/c2-u3-ch10-化学基础.pdf>) |
+| 元素怎样排队？ | 第11章 元素周期表（The Periodic Table） | 示例探究 | Glencoe Integrated iScience Course 2 Ch. 11 The Periodic Table · McGraw Hill | [PNG](<海报/课程二/c2-u3-ch11-元素周期表.png>) · [PDF](<海报/课程二/c2-u3-ch11-元素周期表.pdf>) |
+| 热怎样传递？ | 第12章 能量与热的利用（Using Energy and Heat） | 示例探究 | Glencoe Integrated iScience Course 2 Ch. 12 Using Energy and Heat · McGraw Hill | [PNG](<海报/课程二/c2-u3-ch12-能量与热的利用.png>) · [PDF](<海报/课程二/c2-u3-ch12-能量与热的利用.pdf>) |
+
+#### 单元4 地球：变动的星球（Earth: A Dynamic Planet）
+
+| 海报 | 章 | 活动类型 | 教材来源 | 文件 |
+|---|---|---|---|---|
+| 地球是一个系统？ | 第13章 地球系统（The Earth System） | 示例探究 | Glencoe Integrated iScience Course 2 Ch. 13 The Earth System · McGraw Hill | [PNG](<海报/课程二/c2-u4-ch13-地球系统.png>) · [PDF](<海报/课程二/c2-u4-ch13-地球系统.pdf>) |
+| 地表怎样被改造？ | 第14章 不断变化的地表（Earth's Changing Surface） | 示例探究 | Glencoe Integrated iScience Course 2 Ch. 14 Earth's Changing Surface · McGraw Hill | [PNG](<海报/课程二/c2-u4-ch14-不断变化的地表.png>) · [PDF](<海报/课程二/c2-u4-ch14-不断变化的地表.pdf>) |
+| 资源怎样利用？ | 第15章 利用自然资源（Using Natural Resources） | 示例探究 | Glencoe Integrated iScience Course 2 Ch. 15 Using Natural Resources · McGraw Hill | [PNG](<海报/课程二/c2-u4-ch15-利用自然资源.png>) · [PDF](<海报/课程二/c2-u4-ch15-利用自然资源.pdf>) |
+| 空气有几层？ | 第16章 地球的大气（Earth's Atmosphere） | 示例探究 | Glencoe Integrated iScience Course 2 Ch. 16 Earth's Atmosphere · McGraw Hill | [PNG](<海报/课程二/c2-u4-ch16-地球的大气.png>) · [PDF](<海报/课程二/c2-u4-ch16-地球的大气.pdf>) |
+| 天气怎样变化？ | 第17章 天气（Weather） | 示例探究 | Glencoe Integrated iScience Course 2 Ch. 17 Weather · McGraw Hill | [PNG](<海报/课程二/c2-u4-ch17-天气.png>) · [PDF](<海报/课程二/c2-u4-ch17-天气.pdf>) |
+| 气候为何不同？ | 第18章 气候（Climate） | 示例探究 | Glencoe Integrated iScience Course 2 Ch. 18 Climate · McGraw Hill | [PNG](<海报/课程二/c2-u4-ch18-气候.png>) · [PDF](<海报/课程二/c2-u4-ch18-气候.pdf>) |
+
+#### 单元5 探索宇宙（Exploring the Universe）
+
+| 海报 | 章 | 活动类型 | 教材来源 | 文件 |
+|---|---|---|---|---|
+| 力怎样改变运动？ | 第19章 运动、力与牛顿定律（Motion, Forces, and Newton's Laws） | 示例探究 | Glencoe Integrated iScience Course 2 Ch. 19 Motion, Forces, and Newton's Laws · McGraw Hill | [PNG](<海报/课程二/c2-u5-ch19-运动-力与牛顿定律.png>) · [PDF](<海报/课程二/c2-u5-ch19-运动-力与牛顿定律.pdf>) |
+| 月亮为何变形状？ | 第20章 日地月系统（The Sun-Earth-Moon System） | 示例探究 | Glencoe Integrated iScience Course 2 Ch. 20 The Sun-Earth-Moon System · McGraw Hill | [PNG](<海报/课程二/c2-u5-ch20-日地月系统.png>) · [PDF](<海报/课程二/c2-u5-ch20-日地月系统.pdf>) |
+| 太阳系有什么？ | 第21章 探索太阳系（Exploring the Solar System） | 示例探究 | Glencoe Integrated iScience Course 2 Ch. 21 Exploring the Solar System · McGraw Hill | [PNG](<海报/课程二/c2-u5-ch21-探索太阳系.png>) · [PDF](<海报/课程二/c2-u5-ch21-探索太阳系.pdf>) |
