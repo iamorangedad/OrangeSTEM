@@ -8,7 +8,7 @@
 
 ## 海报
 
-全套计划 15 张，已完成 5 张（PNG + PDF）：六年级 5。每张海报 3 行讲这一单元最核心的内容，小结框里有要点；只用公制单位和人民币；底部标注教材来源。
+全套计划 15 张，已完成 10 张（PNG + PDF）：六年级 5、七年级 5。每张海报 3 行讲这一单元最核心的内容，小结框里有要点；只用公制单位和人民币；底部标注教材来源。
 
 | 海报 | 分册 | 模块 | 名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -17,3 +17,8 @@
 | 超越正数 | 六年级 | 模块3 | 超越正数（Moving Beyond Positive Quantities） | Carnegie Learning Texas Math Solution Grade 6 · Module 3 Moving Beyond Positive Quantities · Carnegie Learning（版权所有） | [PNG](<海报/六年级/g6m3-超越正数.png>) · [PDF](<海报/六年级/g6m3-超越正数.pdf>) |
 | 求未知量 | 六年级 | 模块4 | 求未知量（Determining Unknown Quantities） | Carnegie Learning Texas Math Solution Grade 6 · Module 4 Determining Unknown Quantities · Carnegie Learning（版权所有） | [PNG](<海报/六年级/g6m4-求未知量.png>) · [PDF](<海报/六年级/g6m4-求未知量.pdf>) |
 | 描述数据的变异 | 六年级 | 模块5 | 描述数据的变异（Describing Variability of Quantities） | Carnegie Learning Texas Math Solution Grade 6 · Module 5 Describing Variability of Quantities · Carnegie Learning（版权所有） | [PNG](<海报/六年级/g6m5-描述数据的变异.png>) · [PDF](<海报/六年级/g6m5-描述数据的变异.pdf>) |
+| 比例思维 | 七年级 | 模块1 | 比例思维（Thinking Proportionally） | Carnegie Learning Texas Math Solution Grade 7 · Module 1 Thinking Proportionally · Carnegie Learning（版权所有） | [PNG](<海报/七年级/g7m1-比例思维.png>) · [PDF](<海报/七年级/g7m1-比例思维.pdf>) |
+| 比例的应用 | 七年级 | 模块2 | 比例的应用（Applying Proportionally） | Carnegie Learning Texas Math Solution Grade 7 · Module 2 Applying Proportionally · Carnegie Learning（版权所有） | [PNG](<海报/七年级/g7m2-比例的应用.png>) · [PDF](<海报/七年级/g7m2-比例的应用.pdf>) |
+| 代数推理 | 七年级 | 模块3 | 代数推理（Reasoning Algebraically） | Carnegie Learning Texas Math Solution Grade 7 · Module 3 Reasoning Algebraically · Carnegie Learning（版权所有） | [PNG](<海报/七年级/g7m3-代数推理.png>) · [PDF](<海报/七年级/g7m3-代数推理.pdf>) |
+| 分析总体和概率 | 七年级 | 模块4 | 分析总体和概率（Analyzing Populations and Probabilities） | Carnegie Learning Texas Math Solution Grade 7 · Module 4 Analyzing Populations and Probabilities · Carnegie Learning（版权所有） | [PNG](<海报/七年级/g7m4-分析总体和概率.png>) · [PDF](<海报/七年级/g7m4-分析总体和概率.pdf>) |
+| 构造和测量 | 七年级 | 模块5 | 构造和测量（Constructing and Measuring） | Carnegie Learning Texas Math Solution Grade 7 · Module 5 Constructing and Measuring · Carnegie Learning（版权所有） | [PNG](<海报/七年级/g7m5-构造和测量.png>) · [PDF](<海报/七年级/g7m5-构造和测量.pdf>) |
