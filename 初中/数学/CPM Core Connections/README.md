@@ -9,7 +9,7 @@
 
 ## 海报
 
-全套计划 28 张，已完成 18 张（PNG + PDF）：Course 1 9、Course 2 9。每张海报 3 行讲这一单元最核心的内容，小结框里有要点；只用公制单位和人民币；底部标注教材来源。
+全套计划 28 张，已完成 28 张（PNG + PDF）：Course 1 9、Course 2 9、Course 3 10。每张海报 3 行讲这一单元最核心的内容，小结框里有要点；只用公制单位和人民币；底部标注教材来源。
 
 | 海报 | 分册 | 章 | 名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -31,3 +31,13 @@
 | 比例和百分数应用 | Course 2 | 第7章 | 比例和百分数（Proportions & Percents） | CPM Core Connections, Course 2 · Ch. 7 Proportions & Percents · CPM Educational Program（版权所有） | [PNG](<海报/Course 2/c2ch07-比例和百分数.png>) · [PDF](<海报/Course 2/c2ch07-比例和百分数.pdf>) |
 | 统计推断和角的关系 | Course 2 | 第8章 | 统计和角的关系（Statistics & Angle Relationships） | CPM Core Connections, Course 2 · Ch. 8 Statistics & Angle Relationships · CPM Educational Program（版权所有） | [PNG](<海报/Course 2/c2ch08-统计和角的关系.png>) · [PDF](<海报/Course 2/c2ch08-统计和角的关系.pdf>) |
 | 圆、组合图形和体积 | Course 2 | 第9章 | 圆和体积（Circles & Volume） | CPM Core Connections, Course 2 · Ch. 9 Circles & Volume · CPM Educational Program（版权所有） | [PNG](<海报/Course 2/c2ch09-圆和体积.png>) · [PDF](<海报/Course 2/c2ch09-圆和体积.pdf>) |
+| 读图、规律和正比例 | Course 3 | 第1章 | 解题和正比例关系（Problem Solving & Proportional Relationships） | CPM Core Connections, Course 3 · Ch. 1 Problem Solving & Proportional Relationships · CPM Educational Program（版权所有） | [PNG](<海报/Course 3/c3ch01-解题和正比例关系.png>) · [PDF](<海报/Course 3/c3ch01-解题和正比例关系.pdf>) |
+| 代数砖化简和解方程 | Course 3 | 第2章 | 用变量化简（Simplifying with Variables） | CPM Core Connections, Course 3 · Ch. 2 Simplifying with Variables · CPM Educational Program（版权所有） | [PNG](<海报/Course 3/c3ch02-用变量化简.png>) · [PDF](<海报/Course 3/c3ch02-用变量化简.pdf>) |
+| 表格、图像和规则 | Course 3 | 第3章 | 图像和方程（Graphs & Equations） | CPM Core Connections, Course 3 · Ch. 3 Graphs & Equations · CPM Educational Program（版权所有） | [PNG](<海报/Course 3/c3ch03-图像和方程.png>) · [PDF](<海报/Course 3/c3ch03-图像和方程.pdf>) |
+| 线性关系的多种表示 | Course 3 | 第4章 | 多种表示（Multiple Representations） | CPM Core Connections, Course 3 · Ch. 4 Multiple Representations · CPM Educational Program（版权所有） | [PNG](<海报/Course 3/c3ch04-多种表示.png>) · [PDF](<海报/Course 3/c3ch04-多种表示.pdf>) |
+| 方程组 | Course 3 | 第5章 | 方程组（Systems of Equations） | CPM Core Connections, Course 3 · Ch. 5 Systems of Equations · CPM Educational Program（版权所有） | [PNG](<海报/Course 3/c3ch05-方程组.png>) · [PDF](<海报/Course 3/c3ch05-方程组.pdf>) |
+| 刚性变换和相似 | Course 3 | 第6章 | 变换和相似（Transformations & Similarity） | CPM Core Connections, Course 3 · Ch. 6 Transformations & Similarity · CPM Educational Program（版权所有） | [PNG](<海报/Course 3/c3ch06-变换和相似.png>) · [PDF](<海报/Course 3/c3ch06-变换和相似.pdf>) |
+| 散点图、斜率和相关 | Course 3 | 第7章 | 斜率和相关（Slope & Association） | CPM Core Connections, Course 3 · Ch. 7 Slope & Association · CPM Educational Program（版权所有） | [PNG](<海报/Course 3/c3ch07-斜率和相关.png>) · [PDF](<海报/Course 3/c3ch07-斜率和相关.pdf>) |
+| 指数增长、指数和函数 | Course 3 | 第8章 | 指数和函数（Exponents & Functions） | CPM Core Connections, Course 3 · Ch. 8 Exponents & Functions · CPM Educational Program（版权所有） | [PNG](<海报/Course 3/c3ch08-指数和函数.png>) · [PDF](<海报/Course 3/c3ch08-指数和函数.pdf>) |
+| 角的关系和勾股定理 | Course 3 | 第9章 | 角和勾股定理（Angles & Pythagorean Theorem） | CPM Core Connections, Course 3 · Ch. 9 Angles & Pythagorean Theorem · CPM Educational Program（版权所有） | [PNG](<海报/Course 3/c3ch09-角和勾股定理.png>) · [PDF](<海报/Course 3/c3ch09-角和勾股定理.pdf>) |
+| 立方根和立体体积 | Course 3 | 第10章 | 表面积和体积（Surface Area & Volume） | CPM Core Connections, Course 3 · Ch. 10 Surface Area & Volume · CPM Educational Program（版权所有） | [PNG](<海报/Course 3/c3ch10-表面积和体积.png>) · [PDF](<海报/Course 3/c3ch10-表面积和体积.pdf>) |

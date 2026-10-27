@@ -5,3 +5,4 @@
 | [Illustrative Mathematics](Illustrative%20Mathematics/) | Illustrative Mathematics | 119 |
 | [Eureka Math](Eureka%20Math/) | Great Minds | 71 |
 | [Connected Mathematics Project](Connected%20Mathematics%20Project/) | Michigan State University / Savvas Learning | 21 |
+| [CPM Core Connections](CPM%20Core%20Connections/) | CPM Educational Program | 28 |
