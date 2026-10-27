@@ -11,7 +11,7 @@
 
 ## 海报
 
-已完成 5 张（PNG + PDF，按年级放在 `海报/六年级/` 等子目录）：六年级 5、七年级 0、八年级 0；其中教材活动 5 张、示例探究 0 张。每张海报 3 行：01 现象（锚定现象）、02 探究、03 结论；小结框里有拓展问题和安全提示，底部标注教材来源。只用公制单位和人民币。
+已完成 10 张（PNG + PDF，按年级放在 `海报/六年级/` 等子目录）：六年级 5、七年级 5、八年级 0；其中教材活动 10 张、示例探究 0 张。每张海报 3 行：01 现象（锚定现象）、02 探究、03 结论；小结框里有拓展问题和安全提示，底部标注教材来源。只用公制单位和人民币。
 
 ### 六年级（5 张）
 
@@ -22,3 +22,13 @@
 | 空调怎样变凉？ | 单元3 空调（Air Conditioner） | 物质科学 | 教材活动：L5 活动16 Freezing and Melting Point of Water（步骤为示意） | Discovery Education Science Techbook 6–8 · Unit 3 Air Conditioner · Discovery Education | [PNG](<海报/六年级/u03-空调.png>) · [PDF](<海报/六年级/u03-空调.pdf>) |
 | 月亮为何会变？ | 单元4 变化的月亮（Ever-Changing Moon） | 地球与空间科学 | 教材活动：L2 活动2 Hands-On Investigation: The Moon's Changing Appearance（步骤为示意） | Discovery Education Science Techbook 6–8 · Unit 4 Ever-Changing Moon · Discovery Education | [PNG](<海报/六年级/u04-变化的月亮.png>) · [PDF](<海报/六年级/u04-变化的月亮.pdf>) |
 | 伤口怎样愈合？ | 单元5 愈合的伤口（Healing Cut） | 生命科学 | 教材活动：L5 活动15 Hands-On Investigation: A Breath and a Beat（步骤为示意） | Discovery Education Science Techbook 6–8 · Unit 5 Healing Cut · Discovery Education | [PNG](<海报/六年级/u05-愈合的伤口.png>) · [PDF](<海报/六年级/u05-愈合的伤口.pdf>) |
+
+### 七年级（5 张）
+
+| 海报 | 单元 | 学科 | 02 行活动 | 教材来源 | 文件 |
+|---|---|---|---|---|---|
+| 飞艇为何爆炸？ | 单元6 兴登堡号爆炸（Hindenburg Explosion） | 物质科学 | 教材活动：L2 活动6 Hands-On Investigation: Electrolysis（步骤为示意） | Discovery Education Science Techbook 6–8 · Unit 6 Hindenburg Explosion · Discovery Education | [PNG](<海报/七年级/u06-兴登堡号爆炸.png>) · [PDF](<海报/七年级/u06-兴登堡号爆炸.pdf>) |
+| 海藻森林为何消失？ | 单元7 海藻森林（Kelp Forest） | 生命科学 | 教材活动：L2 活动8 Hands-On Investigation: Making Food（步骤为示意） | Discovery Education Science Techbook 6–8 · Unit 7 Kelp Forest · Discovery Education | [PNG](<海报/七年级/u07-海藻森林.png>) · [PDF](<海报/七年级/u07-海藻森林.pdf>) |
+| 斑马为何变少？ | 单元8 斑马的生存（Zebra Survival） | 生命科学 | 教材活动：L2 活动5 The Zebra Survival Game - Part 1: Resource Availability（步骤为示意） | Discovery Education Science Techbook 6–8 · Unit 8 Zebra Survival · Discovery Education | [PNG](<海报/七年级/u08-斑马的生存.png>) · [PDF](<海报/七年级/u08-斑马的生存.pdf>) |
+| 超级风暴怎样形成？ | 单元9 1993 年超级风暴（Superstorm of 1993） | 地球与空间科学 | 教材活动：L2 活动2 Hands-On Investigation: Clouds（步骤为示意） | Discovery Education Science Techbook 6–8 · Unit 9 Superstorm of 1993 · Discovery Education | [PNG](<海报/七年级/u09-1993-年超级风暴.png>) · [PDF](<海报/七年级/u09-1993-年超级风暴.pdf>) |
+| 比赛为何改起点？ | 单元10 雪橇犬比赛（Dogsled Race） | 地球与空间科学 | 教材活动：L6 活动15 Hands-On Investigation: Greenhouse Effect（步骤为示意） | Discovery Education Science Techbook 6–8 · Unit 10 Dogsled Race · Discovery Education | [PNG](<海报/七年级/u10-雪橇犬比赛.png>) · [PDF](<海报/七年级/u10-雪橇犬比赛.pdf>) |
