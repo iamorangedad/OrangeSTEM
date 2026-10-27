@@ -11,4 +11,14 @@
 
 ## 海报
 
-已完成 0 张（PNG + PDF，按年级放在 `海报/六年级/` 等子目录）：六年级 0、七年级 0、八年级 0；其中教材活动 0 张、示例探究 0 张。每张海报 3 行：01 现象（锚定现象）、02 探究、03 结论；小结框里有拓展问题和安全提示，底部标注教材来源。只用公制单位和人民币。
+已完成 5 张（PNG + PDF，按年级放在 `海报/六年级/` 等子目录）：六年级 5、七年级 0、八年级 0；其中教材活动 5 张、示例探究 0 张。每张海报 3 行：01 现象（锚定现象）、02 探究、03 结论；小结框里有拓展问题和安全提示，底部标注教材来源。只用公制单位和人民币。
+
+### 六年级（5 张）
+
+| 海报 | 单元 | 学科 | 02 行活动 | 教材来源 | 文件 |
+|---|---|---|---|---|---|
+| 火箭雪橇为何这么快？ | 单元1 火箭雪橇（Rocket Sled） | 物质科学 | 教材活动：L4 活动9 Investigating Factors that Affect Kinetic Energy（步骤为示意） | Discovery Education Science Techbook 6–8 · Unit 1 Rocket Sled · Discovery Education | [PNG](<海报/六年级/u01-火箭雪橇.png>) · [PDF](<海报/六年级/u01-火箭雪橇.pdf>) |
+| 球为什么能悬浮？ | 单元2 悬浮的力（Levitating Forces） | 物质科学 | 教材活动：L4 活动17 Hands-On Investigation: Sticky-Tape Lab（步骤为示意） | Discovery Education Science Techbook 6–8 · Unit 2 Levitating Forces · Discovery Education | [PNG](<海报/六年级/u02-悬浮的力.png>) · [PDF](<海报/六年级/u02-悬浮的力.pdf>) |
+| 空调怎样变凉？ | 单元3 空调（Air Conditioner） | 物质科学 | 教材活动：L5 活动16 Freezing and Melting Point of Water（步骤为示意） | Discovery Education Science Techbook 6–8 · Unit 3 Air Conditioner · Discovery Education | [PNG](<海报/六年级/u03-空调.png>) · [PDF](<海报/六年级/u03-空调.pdf>) |
+| 月亮为何会变？ | 单元4 变化的月亮（Ever-Changing Moon） | 地球与空间科学 | 教材活动：L2 活动2 Hands-On Investigation: The Moon's Changing Appearance（步骤为示意） | Discovery Education Science Techbook 6–8 · Unit 4 Ever-Changing Moon · Discovery Education | [PNG](<海报/六年级/u04-变化的月亮.png>) · [PDF](<海报/六年级/u04-变化的月亮.pdf>) |
+| 伤口怎样愈合？ | 单元5 愈合的伤口（Healing Cut） | 生命科学 | 教材活动：L5 活动15 Hands-On Investigation: A Breath and a Beat（步骤为示意） | Discovery Education Science Techbook 6–8 · Unit 5 Healing Cut · Discovery Education | [PNG](<海报/六年级/u05-愈合的伤口.png>) · [PDF](<海报/六年级/u05-愈合的伤口.pdf>) |
