@@ -8,7 +8,7 @@
 
 ## 海报
 
-全套计划 31 张，已完成 12 张（PNG + PDF）：Course 1（六年级） 12。每张海报 3 行讲这一单元最核心的内容，小结框里有要点；只用公制单位和人民币；底部标注教材来源。
+全套计划 31 张，已完成 22 张（PNG + PDF）：Course 1（六年级） 12、Course 2（七年级） 10。每张海报 3 行讲这一单元最核心的内容，小结框里有要点；只用公制单位和人民币；底部标注教材来源。
 
 | 海报 | 分册 | 章 | 名称 | 教材来源 | 文件 |
 |---|---|---|---|---|---|
@@ -24,3 +24,13 @@
 | 体积和表面积 | Course 1（六年级） | 第 10 章 | 体积和表面积（Volume and Surface Area） | Glencoe Math Course 1 · Chapter 10 Volume and Surface Area · McGraw Hill（版权所有） | [PNG](<海报/Course 1（六年级）/c1ch10-体积和表面积.png>) · [PDF](<海报/Course 1（六年级）/c1ch10-体积和表面积.pdf>) |
 | 统计量 | Course 1（六年级） | 第 11 章 | 统计量（Statistical Measures） | Glencoe Math Course 1 · Chapter 11 Statistical Measures · McGraw Hill（版权所有） | [PNG](<海报/Course 1（六年级）/c1ch11-统计量.png>) · [PDF](<海报/Course 1（六年级）/c1ch11-统计量.pdf>) |
 | 统计图 | Course 1（六年级） | 第 12 章 | 统计图（Statistical Displays） | Glencoe Math Course 1 · Chapter 12 Statistical Displays · McGraw Hill（版权所有） | [PNG](<海报/Course 1（六年级）/c1ch12-统计图.png>) · [PDF](<海报/Course 1（六年级）/c1ch12-统计图.pdf>) |
+| 比和比例推理 | Course 2（七年级） | 第 1 章 | 比和比例推理（Ratios and Proportional Reasoning） | Glencoe Math Course 2 · Chapter 1 Ratios and Proportional Reasoning · McGraw Hill（版权所有） | [PNG](<海报/Course 2（七年级）/c2ch01-比和比例推理.png>) · [PDF](<海报/Course 2（七年级）/c2ch01-比和比例推理.pdf>) |
+| 百分数 | Course 2（七年级） | 第 2 章 | 百分数（Percents） | Glencoe Math Course 2 · Chapter 2 Percents · McGraw Hill（版权所有） | [PNG](<海报/Course 2（七年级）/c2ch02-百分数.png>) · [PDF](<海报/Course 2（七年级）/c2ch02-百分数.pdf>) |
+| 整数 | Course 2（七年级） | 第 3 章 | 整数（Integers） | Glencoe Math Course 2 · Chapter 3 Integers · McGraw Hill（版权所有） | [PNG](<海报/Course 2（七年级）/c2ch03-整数.png>) · [PDF](<海报/Course 2（七年级）/c2ch03-整数.pdf>) |
+| 有理数 | Course 2（七年级） | 第 4 章 | 有理数（Rational Numbers） | Glencoe Math Course 2 · Chapter 4 Rational Numbers · McGraw Hill（版权所有） | [PNG](<海报/Course 2（七年级）/c2ch04-有理数.png>) · [PDF](<海报/Course 2（七年级）/c2ch04-有理数.pdf>) |
+| 表达式 | Course 2（七年级） | 第 5 章 | 表达式（Expressions） | Glencoe Math Course 2 · Chapter 5 Expressions · McGraw Hill（版权所有） | [PNG](<海报/Course 2（七年级）/c2ch05-表达式.png>) · [PDF](<海报/Course 2（七年级）/c2ch05-表达式.pdf>) |
+| 方程和不等式 | Course 2（七年级） | 第 6 章 | 方程和不等式（Equations and Inequalities） | Glencoe Math Course 2 · Chapter 6 Equations and Inequalities · McGraw Hill（版权所有） | [PNG](<海报/Course 2（七年级）/c2ch06-方程和不等式.png>) · [PDF](<海报/Course 2（七年级）/c2ch06-方程和不等式.pdf>) |
+| 几何图形 | Course 2（七年级） | 第 7 章 | 几何图形（Geometric Figures） | Glencoe Math Course 2 · Chapter 7 Geometric Figures · McGraw Hill（版权所有） | [PNG](<海报/Course 2（七年级）/c2ch07-几何图形.png>) · [PDF](<海报/Course 2（七年级）/c2ch07-几何图形.pdf>) |
+| 图形的测量 | Course 2（七年级） | 第 8 章 | 图形的测量（Measure Figures） | Glencoe Math Course 2 · Chapter 8 Measure Figures · McGraw Hill（版权所有） | [PNG](<海报/Course 2（七年级）/c2ch08-图形的测量.png>) · [PDF](<海报/Course 2（七年级）/c2ch08-图形的测量.pdf>) |
+| 概率 | Course 2（七年级） | 第 9 章 | 概率（Probability） | Glencoe Math Course 2 · Chapter 9 Probability · McGraw Hill（版权所有） | [PNG](<海报/Course 2（七年级）/c2ch09-概率.png>) · [PDF](<海报/Course 2（七年级）/c2ch09-概率.pdf>) |
+| 统计 | Course 2（七年级） | 第 10 章 | 统计（Statistics） | Glencoe Math Course 2 · Chapter 10 Statistics · McGraw Hill（版权所有） | [PNG](<海报/Course 2（七年级）/c2ch10-统计.png>) · [PDF](<海报/Course 2（七年级）/c2ch10-统计.pdf>) |
