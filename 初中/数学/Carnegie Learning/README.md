@@ -8,6 +8,12 @@
 
 ## 海报
 
-全套计划 15 张，已完成 0 张（PNG + PDF）。每张海报 3 行讲这一单元最核心的内容，小结框里有要点；只用公制单位和人民币；底部标注教材来源。
+全套计划 15 张，已完成 5 张（PNG + PDF）：六年级 5。每张海报 3 行讲这一单元最核心的内容，小结框里有要点；只用公制单位和人民币；底部标注教材来源。
 
-海报制作中。
+| 海报 | 分册 | 模块 | 名称 | 教材来源 | 文件 |
+|---|---|---|---|---|---|
+| 组合和分解 | 六年级 | 模块1 | 组合和分解（Composing and Decomposing） | Carnegie Learning Texas Math Solution Grade 6 · Module 1 Composing and Decomposing · Carnegie Learning（版权所有） | [PNG](<海报/六年级/g6m1-组合和分解.png>) · [PDF](<海报/六年级/g6m1-组合和分解.pdf>) |
+| 数量之间的关系 | 六年级 | 模块2 | 数量之间的关系（Relating Quantities） | Carnegie Learning Texas Math Solution Grade 6 · Module 2 Relating Quantities · Carnegie Learning（版权所有） | [PNG](<海报/六年级/g6m2-数量之间的关系.png>) · [PDF](<海报/六年级/g6m2-数量之间的关系.pdf>) |
+| 超越正数 | 六年级 | 模块3 | 超越正数（Moving Beyond Positive Quantities） | Carnegie Learning Texas Math Solution Grade 6 · Module 3 Moving Beyond Positive Quantities · Carnegie Learning（版权所有） | [PNG](<海报/六年级/g6m3-超越正数.png>) · [PDF](<海报/六年级/g6m3-超越正数.pdf>) |
+| 求未知量 | 六年级 | 模块4 | 求未知量（Determining Unknown Quantities） | Carnegie Learning Texas Math Solution Grade 6 · Module 4 Determining Unknown Quantities · Carnegie Learning（版权所有） | [PNG](<海报/六年级/g6m4-求未知量.png>) · [PDF](<海报/六年级/g6m4-求未知量.pdf>) |
+| 描述数据的变异 | 六年级 | 模块5 | 描述数据的变异（Describing Variability of Quantities） | Carnegie Learning Texas Math Solution Grade 6 · Module 5 Describing Variability of Quantities · Carnegie Learning（版权所有） | [PNG](<海报/六年级/g6m5-描述数据的变异.png>) · [PDF](<海报/六年级/g6m5-描述数据的变异.pdf>) |
