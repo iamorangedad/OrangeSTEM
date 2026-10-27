@@ -8,3 +8,4 @@
 | [CPM Core Connections](CPM%20Core%20Connections/) | CPM Educational Program | 28 |
 | [Big Ideas Math](Big%20Ideas%20Math/) | Big Ideas Learning | 30 |
 | [Carnegie Learning](Carnegie%20Learning/) | Carnegie Learning | 15 |
+| [Glencoe Math](Glencoe%20Math/) | McGraw Hill | 31 |
